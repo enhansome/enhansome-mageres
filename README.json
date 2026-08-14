@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T09:25:54Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12163
+            "stars": 12164
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-12T09:25:54Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12163
+            "stars": 12164
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2026-08-10T01:43:48Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1716
+            "stars": 1718
           }
         },
         {
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-10T21:32:27Z",
+            "last_commit": "2026-08-13T18:07:37Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 927
@@ -1089,20 +1089,6 @@
         },
         {
           "node_type": "item",
-          "title": "MageDIAnalyzer",
-          "description": "A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-02-27T19:40:55Z",
-            "owner": "roma-glushko",
-            "repo": "mage-di-analyzer",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Magento Bricklayer",
           "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
           "children": [],
@@ -1112,6 +1098,20 @@
             "last_commit": "2026-08-11T12:14:26Z",
             "owner": "Inchoo",
             "repo": "magento-bricklayer",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MageDIAnalyzer",
+          "description": "A tool that helps to calculate and report how Magento modules affect Magento2 DI compilation and bootsrapping process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-02-27T19:40:55Z",
+            "owner": "roma-glushko",
+            "repo": "mage-di-analyzer",
             "stars": 19
           }
         },
@@ -1611,7 +1611,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-10T09:53:38Z",
+            "last_commit": "2026-08-13T11:00:30Z",
             "owner": "sansecio",
             "repo": "magevulndb",
             "stars": 220
@@ -1771,7 +1771,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T18:16:11Z",
+            "last_commit": "2026-08-13T09:02:58Z",
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 803
@@ -2709,7 +2709,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-26T09:40:08Z",
+            "last_commit": "2026-08-13T10:18:28Z",
             "owner": "elgentos",
             "repo": "magento2-varnish-extended",
             "stars": 69
@@ -2975,7 +2975,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T09:12:21Z",
+            "last_commit": "2026-08-13T12:52:27Z",
             "owner": "breezefront",
             "repo": "module-breeze",
             "stars": 51
@@ -3269,7 +3269,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-06T06:32:50Z",
+            "last_commit": "2026-08-13T10:15:04Z",
             "owner": "elgentos",
             "repo": "magento2-prismicio",
             "stars": 39
@@ -3437,7 +3437,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-05T21:45:29Z",
+            "last_commit": "2026-08-13T14:46:16Z",
             "owner": "JosephLeedy",
             "repo": "magento2-module-custom-fees",
             "stars": 35
@@ -5929,7 +5929,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T10:56:11Z",
+            "last_commit": "2026-08-13T15:29:31Z",
             "owner": "EmicoEcommerce",
             "repo": "Magento2Tweakwise",
             "stars": 4
@@ -6425,7 +6425,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T14:51:15Z",
+            "last_commit": "2026-08-13T09:16:35Z",
             "owner": "magewirephp",
             "repo": "magewire",
             "stars": 262
@@ -6789,7 +6789,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-05T12:00:30Z",
+            "last_commit": "2026-08-13T14:10:16Z",
             "owner": "EmicoEcommerce",
             "repo": "Magento2TweakwiseHyva",
             "stars": 4
@@ -7179,7 +7179,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T14:51:18Z",
+            "last_commit": "2026-08-13T15:19:01Z",
             "owner": "graycoreio",
             "repo": "github-actions-magento2",
             "stars": 72
@@ -7249,7 +7249,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T11:01:51Z",
+            "last_commit": "2026-08-14T04:50:28Z",
             "owner": "ProxiBlue",
             "repo": "m2-hyva-playwright",
             "stars": 26
@@ -7563,7 +7563,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11094
+            "stars": 11096
           }
         },
         {
@@ -7704,10 +7704,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T02:44:30Z",
+            "last_commit": "2026-08-13T21:17:24Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3735
+            "stars": 3736
           }
         },
         {
@@ -7735,7 +7735,7 @@
             "last_commit": "2020-05-06T11:13:02Z",
             "owner": "meanbee",
             "repo": "docker-magento2",
-            "stars": 451
+            "stars": 450
           }
         },
         {
@@ -7844,7 +7844,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-09T21:49:50Z",
+            "last_commit": "2026-08-13T21:38:45Z",
             "owner": "faradey",
             "repo": "madock",
             "stars": 42
@@ -8217,7 +8217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T05:57:52.922Z",
+    "last_updated": "2026-08-14T05:53:04.786Z",
     "original_repository": "aleron75/mageres",
     "original_repository_sha": "83cb7ef38894f81d3121857006dc95f07e6eef62",
     "enhanced_repository": "enhansome/enhansome-mageres",
