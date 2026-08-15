@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T09:25:54Z",
+            "last_commit": "2026-08-14T09:28:42Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12164
+            "stars": 12165
           }
         },
         {
@@ -35,10 +35,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T09:25:54Z",
+            "last_commit": "2026-08-14T09:28:42Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12164
+            "stars": 12165
           }
         },
         {
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T18:07:37Z",
+            "last_commit": "2026-08-14T21:32:29Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 927
@@ -1033,6 +1033,20 @@
         },
         {
           "node_type": "item",
+          "title": "Magento Bricklayer",
+          "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T14:00:22Z",
+            "owner": "Inchoo",
+            "repo": "magento-bricklayer",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Magerun Performance Review",
           "description": "This is a plugin for the Magerun CLI tool that analyses a Magento 2 store’s performance. It provides detailed reports on potential bottlenecks, misconfigurations, and optimisation opportunities across areas like caching, indexing, and server setup.",
           "children": [],
@@ -1084,20 +1098,6 @@
             "last_commit": "2026-02-04T12:51:44Z",
             "owner": "theshreyas",
             "repo": "magento-2-quickies",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magento Bricklayer",
-          "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-11T12:14:26Z",
-            "owner": "Inchoo",
-            "repo": "magento-bricklayer",
             "stars": 20
           }
         },
@@ -1771,7 +1771,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T09:02:58Z",
+            "last_commit": "2026-08-14T12:19:42Z",
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 803
@@ -1788,7 +1788,7 @@
             "last_commit": "2026-05-19T21:43:43Z",
             "owner": "vpietri",
             "repo": "magento2-developer-quickdevbar",
-            "stars": 577
+            "stars": 578
           }
         },
         {
@@ -2423,6 +2423,20 @@
         },
         {
           "node_type": "item",
+          "title": "Elgentos Large Config Products",
+          "description": "Workaround extension to work with extremely large configurable products (5000+ skus)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-04-14T09:04:56Z",
+            "owner": "elgentos",
+            "repo": "LargeConfigProducts",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 Clean Media",
           "description": "This extension provides a command for retrieving information about catalog media files. It also allows the cleaning of the filesystem and DB.",
           "children": [],
@@ -2433,20 +2447,6 @@
             "owner": "sivaschenko",
             "repo": "magento2-clean-media",
             "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elgentos Large Config Products",
-          "description": "Workaround extension to work with extremely large configurable products (5000+ skus)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-04-14T09:04:56Z",
-            "owner": "elgentos",
-            "repo": "LargeConfigProducts",
-            "stars": 94
           }
         },
         {
@@ -2975,7 +2975,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:52:27Z",
+            "last_commit": "2026-08-14T14:10:05Z",
             "owner": "breezefront",
             "repo": "module-breeze",
             "stars": 51
@@ -4487,7 +4487,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-05T12:04:38Z",
+            "last_commit": "2026-08-14T13:50:40Z",
             "owner": "EmicoEcommerce",
             "repo": "Magento2AttributeLanding",
             "stars": 17
@@ -5929,7 +5929,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T15:29:31Z",
+            "last_commit": "2026-08-14T12:55:13Z",
             "owner": "EmicoEcommerce",
             "repo": "Magento2Tweakwise",
             "stars": 4
@@ -6788,8 +6788,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T14:10:16Z",
+            "language": "HTML",
+            "last_commit": "2026-08-14T13:56:43Z",
             "owner": "EmicoEcommerce",
             "repo": "Magento2TweakwiseHyva",
             "stars": 4
@@ -7249,7 +7249,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T04:50:28Z",
+            "last_commit": "2026-08-15T02:29:36Z",
             "owner": "ProxiBlue",
             "repo": "m2-hyva-playwright",
             "stars": 26
@@ -7384,7 +7384,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940
+            "stars": 10941
           }
         },
         {
@@ -7563,7 +7563,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11096
+            "stars": 11095
           }
         },
         {
@@ -7704,10 +7704,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:17:24Z",
+            "last_commit": "2026-08-14T21:51:24Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3736
+            "stars": 3735
           }
         },
         {
@@ -7718,7 +7718,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-07-30T19:33:12Z",
+            "last_commit": "2026-08-14T19:33:14Z",
             "owner": "markshust",
             "repo": "docker-magento",
             "stars": 2859
@@ -7844,7 +7844,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:38:45Z",
+            "last_commit": "2026-08-15T00:33:11Z",
             "owner": "faradey",
             "repo": "madock",
             "stars": 42
@@ -8217,7 +8217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:53:04.786Z",
+    "last_updated": "2026-08-15T04:55:04.440Z",
     "original_repository": "aleron75/mageres",
     "original_repository_sha": "83cb7ef38894f81d3121857006dc95f07e6eef62",
     "enhanced_repository": "enhansome/enhansome-mageres",
