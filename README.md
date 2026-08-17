@@ -78,8 +78,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Official Resources
 
-* [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) ⭐ 12,167 | 🐛 2,128 | 🌐 PHP | 📅 2026-08-14 - All you have to know to start contributing to Magento.
-* [Magento 2 code repository](https://github.com/magento/magento2) ⭐ 12,167 | 🐛 2,128 | 🌐 PHP | 📅 2026-08-14 - Official Magento 2 GitHub repository
+* [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) ⭐ 12,167 | 🐛 2,127 | 🌐 PHP | 📅 2026-08-14 - All you have to know to start contributing to Magento.
+* [Magento 2 code repository](https://github.com/magento/magento2) ⭐ 12,167 | 🐛 2,127 | 🌐 PHP | 📅 2026-08-14 - Official Magento 2 GitHub repository
 * [Magento Translation Projects](https://github.com/magento-l10n/i18n) ⭐ 4 | 🐛 2 | 📅 2020-12-14 - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
 * [Adobe Commerce Documentation](https://experienceleague.adobe.com/docs/commerce.html) - Adobe Commerce product and technical documentation home page.
 * [Adobe Commerce Performance Best Practices](https://experienceleague.adobe.com/docs/commerce-operations/performance-best-practices/overview.html) - Recommendations and instructions for optimizing the performance of your production deployment.
@@ -91,7 +91,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Other Resources
 
-* [Awesome Magento 2](https://github.com/run-as-root/awesome-magento2/) ⭐ 1,174 | 🐛 7 | 🌐 PHP | 📅 2026-08-10 - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
+* [Awesome Magento 2](https://github.com/run-as-root/awesome-magento2/) ⭐ 1,174 | 🐛 7 | 🌐 PHP | 📅 2026-08-17 - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
 * [ExtDN Resources](https://extdn.org/resources/) - Resources that help improve the ecosystem of Magento extensions.
 * [Fooman Magento Mirror](https://repo-magento-mirror.fooman.co.nz/) - An alternative authentication free Magento 2 mirror
@@ -303,7 +303,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [ElasticSuite for Magento 2](https://github.com/Smile-SA/elasticsuite) ⭐ 803 | 🐛 127 | 🌐 PHP | 📅 2026-08-14 - A feature-rich merchandising suite for Magento 2.
 
-* [Developer Toolbar by vpietri](https://github.com/vpietri/magento2-developer-quickdevbar) ⭐ 578 | 🐛 6 | 🌐 PHP | 📅 2026-05-19 - The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
+* [Developer Toolbar by vpietri](https://github.com/vpietri/magento2-developer-quickdevbar) ⭐ 578 | 🐛 7 | 🌐 PHP | 📅 2026-05-19 - The structure of this toolbar is extremely simple you just need to add a new block in the layout to get your tab running.
 
 * [Magento 2 Cache Clean](https://github.com/mage2tv/magento-cache-clean) ⭐ 543 | 🐛 14 | 📅 2025-07-11 - A faster drop-in replacement for bin/magento cache:clean with a file watcher
 
@@ -319,7 +319,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) ⭐ 304 | 🐛 2 | 🌐 PHP | 📅 2023-12-11 - A dev toolbar that shows all important information for performance optimization and Magento development.
 
-* [Magento 2 SMTP](https://github.com/mageplaza/magento-2-smtp) ⭐ 302 | 🐛 54 | 🌐 PHP | 📅 2026-08-11 - This extension allows custom SMTP server configuration to transmit email messages.
+* [Magento 2 SMTP](https://github.com/mageplaza/magento-2-smtp) ⭐ 302 | 🐛 54 | 🌐 PHP | 📅 2026-08-17 - This extension allows custom SMTP server configuration to transmit email messages.
 
 * [Elgentos Regenerate Catalog URLs](https://github.com/elgentos/magento2-regenerate-catalog-urls) ⭐ 284 | 🐛 4 | 🌐 PHP | 📅 2026-05-24 - Set of console commands to regenerate catalog URLs.
 
@@ -1063,7 +1063,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## PWA
 
-* [Vue Storefront](https://github.com/vuestorefront/vue-storefront) ⭐ 10,942 | 🐛 52 | 📅 2026-06-09 - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
+* [Vue Storefront](https://github.com/vuestorefront/vue-storefront) ⭐ 10,941 | 🐛 52 | 📅 2026-06-09 - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 * [PWA Studio](https://github.com/magento/pwa-studio) ⭐ 1,084 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-11 - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [PWA Studio Roadmap](https://github.com/magento/pwa-studio/wiki/Roadmap) ⭐ 1,084 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-11 - The official roadmap of PWA Studio
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) ⭐ 113 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-04 - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio (deprecated)
@@ -1354,7 +1354,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Docker
 
 * [The Devilbox](https://github.com/cytopia/devilbox) ⭐ 4,467 | 🐛 90 | 🌐 PHP | 📅 2024-04-19 - A modern dockerized LAMP and MEAN stack alternative to XAMPP
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,735 | 🐛 159 | 🌐 Go | 📅 2026-08-16 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,735 | 🐛 160 | 🌐 Go | 📅 2026-08-17 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) ⭐ 2,860 | 🐛 1 | 🌐 Shell | 📅 2026-08-14 - Magento 1 & 2 support on Linux and Mac
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) ⚠️ Archived - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) ⭐ 431 | 🐛 46 | 🌐 PHP | 📅 2022-05-22 - Docker image optimized to develop on Mac, Windows, and Linux
@@ -1364,7 +1364,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) ⭐ 70 | 🐛 14 | 🌐 Shell | 📅 2021-06-07 - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 * [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) ⭐ 45 | 🐛 0 | 🌐 Makefile | 📅 2025-02-04 - Environment for a Magento2 application using Docker.
 * [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration) ⭐ 42 | 🐛 4 | 🌐 Dockerfile | 📅 2026-08-15
-* [Madock](https://github.com/faradey/madock) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2026-08-15 - A local Docker-based PHP environment that supports Magento2 other than custom projects.
+* [Madock](https://github.com/faradey/madock) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2026-08-16 - A local Docker-based PHP environment that supports Magento2 other than custom projects.
 * [Mage2Docker](https://github.com/graycoreio/mage2docker) ⚠️ Archived - An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker.
 * [Magento 2 Docker to Development (Apple Silicon)](https://github.com/ityetti/magento2-docker/) ⭐ 30 | 🐛 0 | 🌐 VCL | 📅 2025-03-31 - A complete Docker setup for development, including Traefik, Nginx, Redis, PHP-FPM, MySQL, and more.
 * [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) ⭐ 16 | 🐛 5 | 🌐 Shell | 📅 2025-10-28 - A dockerized system to run LEMP stack applications primarily developed to run Magento 2.
@@ -1409,4 +1409,4 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
