@@ -1005,6 +1005,20 @@
         },
         {
           "node_type": "item",
+          "title": "Magento Bricklayer",
+          "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T14:00:22Z",
+            "owner": "Inchoo",
+            "repo": "magento-bricklayer",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Magento Toolbox",
           "description": "A developer-focused extension for Visual Studio Code and Cursor, that offers a suite of tools for code generation, inspection, and utility functions, enhancing productivity and code quality.​",
           "children": [],
@@ -1028,20 +1042,6 @@
             "last_commit": "2026-05-26T13:02:40Z",
             "owner": "mumzworld-tech",
             "repo": "magento2-opentelemetry",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magento Bricklayer",
-          "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-14T14:00:22Z",
-            "owner": "Inchoo",
-            "repo": "magento-bricklayer",
             "stars": 22
           }
         },
@@ -1600,7 +1600,7 @@
             "last_commit": "2023-12-06T18:07:51Z",
             "owner": "gwillem",
             "repo": "magento-malware-scanner",
-            "stars": 690
+            "stars": 689
           }
         },
         {
@@ -1897,10 +1897,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T04:19:45Z",
+            "last_commit": "2026-08-17T10:11:14Z",
             "owner": "mageplaza",
             "repo": "magento-2-smtp",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -2107,7 +2107,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2024-05-01T17:52:29Z",
+            "last_commit": "2026-08-17T08:49:45Z",
             "owner": "bitExpert",
             "repo": "magento2-force-login",
             "stars": 169
@@ -3269,7 +3269,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T10:15:04Z",
+            "last_commit": "2026-08-17T11:34:27Z",
             "owner": "elgentos",
             "repo": "magento2-prismicio",
             "stars": 39
@@ -6425,7 +6425,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T09:16:35Z",
+            "last_commit": "2026-08-17T16:55:44Z",
             "owner": "magewirephp",
             "repo": "magewire",
             "stars": 262
@@ -7221,7 +7221,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-07T09:41:31Z",
+            "last_commit": "2026-08-17T10:06:28Z",
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
@@ -7235,7 +7235,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-07T09:41:31Z",
+            "last_commit": "2026-08-17T10:06:28Z",
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
@@ -7563,7 +7563,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11096
+            "stars": 11097
           }
         },
         {
@@ -7704,10 +7704,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T00:25:23Z",
+            "last_commit": "2026-08-18T04:35:45Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3735
+            "stars": 3738
           }
         },
         {
@@ -7844,7 +7844,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T21:14:42Z",
+            "last_commit": "2026-08-17T23:59:53Z",
             "owner": "faradey",
             "repo": "madock",
             "stars": 42
@@ -8217,7 +8217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:05:41.447Z",
+    "last_updated": "2026-08-18T05:01:04.662Z",
     "original_repository": "aleron75/mageres",
     "original_repository_sha": "83cb7ef38894f81d3121857006dc95f07e6eef62",
     "enhanced_repository": "enhansome/enhansome-mageres",
