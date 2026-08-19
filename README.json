@@ -244,7 +244,7 @@
             "last_commit": "2026-08-10T01:43:48Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1718
+            "stars": 1719
           }
         },
         {
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T21:32:29Z",
+            "last_commit": "2026-08-19T04:34:06Z",
             "owner": "netz98",
             "repo": "n98-magerun2",
             "stars": 927
@@ -311,7 +311,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-03-06T07:13:38Z",
+            "last_commit": "2026-08-18T08:49:52Z",
             "owner": "magento",
             "repo": "magento-coding-standard",
             "stars": 374
@@ -398,7 +398,7 @@
             "last_commit": "2026-02-24T09:01:36Z",
             "owner": "Smile-SA",
             "repo": "gdpr-dump",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -907,6 +907,20 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 LSP",
+          "description": "Magento 2 tooling for editors and AI agents. The LSP Server works alongside Intelephense or Phpactor: it handles the Magento-specific connections that generic PHP tooling can't see. The MCP Server exposes the Magento 2 intelligence of the LSP server to AI coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-08T14:23:17Z",
+            "owner": "mage-os-lab",
+            "repo": "magento2-lsp",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Adobe Commerce Dev MCP",
           "description": "MCP server implementation for Adobe Commerce GraphQL",
           "children": [],
@@ -930,20 +944,6 @@
             "last_commit": "2022-06-23T11:08:21Z",
             "owner": "willtran",
             "repo": "magento2-php-8-compatibility-check",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 LSP",
-          "description": "Magento 2 tooling for editors and AI agents. The LSP Server works alongside Intelephense or Phpactor: it handles the Magento-specific connections that generic PHP tooling can't see. The MCP Server exposes the Magento 2 intelligence of the LSP server to AI coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-08T14:23:17Z",
-            "owner": "mage-os-lab",
-            "repo": "magento2-lsp",
             "stars": 27
           }
         },
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-08-14T14:00:22Z",
             "owner": "Inchoo",
             "repo": "magento-bricklayer",
-            "stars": 23
+            "stars": 25
           }
         },
         {
@@ -1305,7 +1305,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T23:43:22Z",
+            "last_commit": "2026-08-18T23:43:25Z",
             "owner": "muench-dev",
             "repo": "mage-remote-run",
             "stars": 8
@@ -1771,7 +1771,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T12:19:42Z",
+            "last_commit": "2026-08-18T20:25:28Z",
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 803
@@ -2037,7 +2037,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T09:53:18Z",
+            "last_commit": "2026-08-18T11:19:39Z",
             "owner": "justbetter",
             "repo": "magento2-sentry",
             "stars": 187
@@ -2975,7 +2975,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T14:10:05Z",
+            "last_commit": "2026-08-18T11:03:30Z",
             "owner": "breezefront",
             "repo": "module-breeze",
             "stars": 51
@@ -3179,6 +3179,20 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 Payment Fee",
+          "description": "This extension allows store owners to add extra charges for specific payment methods. These fees are shown throughout the customer journey — on the cart, checkout, order summary, invoice, credit memo, and sales emails. Admins can configure different types of fees, control visibility based on customer groups or store views, and even apply rules like disabling fees over a certain order amount. The extension also supports tax and refund settings for complete flexibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-18T10:53:13Z",
+            "owner": "mageprince",
+            "repo": "magento2-paymentfee",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 Product Attachments",
           "description": "This extension adds the possibility to add attachments for products.",
           "children": [],
@@ -3230,20 +3244,6 @@
             "last_commit": "2025-10-20T10:36:45Z",
             "owner": "integer-net",
             "repo": "magento2-global-custom-layout",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 Payment Fee",
-          "description": "This extension allows store owners to add extra charges for specific payment methods. These fees are shown throughout the customer journey — on the cart, checkout, order summary, invoice, credit memo, and sales emails. Admins can configure different types of fees, control visibility based on customer groups or store views, and even apply rules like disabling fees over a certain order amount. The extension also supports tax and refund settings for complete flexibility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-18T10:53:13Z",
-            "owner": "mageprince",
-            "repo": "magento2-paymentfee",
             "stars": 40
           }
         },
@@ -3493,7 +3493,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T20:50:52Z",
+            "last_commit": "2026-08-18T09:53:50Z",
             "owner": "magento-hackathon",
             "repo": "DevDashboard2",
             "stars": 34
@@ -3507,7 +3507,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-09T18:32:00Z",
+            "last_commit": "2026-08-18T14:37:25Z",
             "owner": "yireo",
             "repo": "Yireo_EmailTester2",
             "stars": 34
@@ -6425,7 +6425,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T16:55:44Z",
+            "last_commit": "2026-08-18T09:02:34Z",
             "owner": "magewirephp",
             "repo": "magewire",
             "stars": 262
@@ -6896,7 +6896,7 @@
             "last_commit": "2026-04-19T21:40:27Z",
             "owner": "mage-os-lab",
             "repo": "module-catalog-data-ai",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -6929,20 +6929,6 @@
         },
         {
           "node_type": "item",
-          "title": "Mage-OS Admin Activity Log",
-          "description": "A comprehensive admin activity logging extension for Mage-OS and Magento 2 that provides complete audit trails for administrative actions, login attempts, and page visits.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-10T13:34:17Z",
-            "owner": "mage-os",
-            "repo": "module-admin-activity-log",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Mage-OS PageBuilder Widget",
           "description": "A Mage-OS extension that introduces a new PageBuilder component to allow inserting and configuring existing CMS widgets directly within the Page Builder.",
           "children": [],
@@ -6952,6 +6938,20 @@
             "last_commit": "2026-08-10T13:34:25Z",
             "owner": "mage-os",
             "repo": "module-page-builder-widget",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mage-OS Admin Activity Log",
+          "description": "A comprehensive admin activity logging extension for Mage-OS and Magento 2 that provides complete audit trails for administrative actions, login attempts, and page visits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T13:34:17Z",
+            "owner": "mage-os",
+            "repo": "module-admin-activity-log",
             "stars": 29
           }
         },
@@ -7050,7 +7050,7 @@
             "last_commit": "2026-05-19T04:31:42Z",
             "owner": "mage-os-lab",
             "repo": "module-newsletter-coupon",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -7137,7 +7137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-11T05:39:45Z",
+            "last_commit": "2026-08-18T13:23:55Z",
             "owner": "extdn",
             "repo": "github-actions-m2",
             "stars": 141
@@ -7221,7 +7221,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T10:06:28Z",
+            "last_commit": "2026-08-18T14:23:56Z",
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
@@ -7235,7 +7235,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T10:06:28Z",
+            "last_commit": "2026-08-18T14:23:56Z",
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
@@ -7563,7 +7563,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11097
+            "stars": 11098
           }
         },
         {
@@ -7693,7 +7693,7 @@
             "last_commit": "2024-04-19T13:46:30Z",
             "owner": "cytopia",
             "repo": "devilbox",
-            "stars": 4467
+            "stars": 4466
           }
         },
         {
@@ -7704,10 +7704,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-18T04:35:45Z",
+            "last_commit": "2026-08-19T04:01:23Z",
             "owner": "ddev",
             "repo": "ddev",
-            "stars": 3738
+            "stars": 3739
           }
         },
         {
@@ -7844,7 +7844,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T23:59:53Z",
+            "last_commit": "2026-08-19T00:39:02Z",
             "owner": "faradey",
             "repo": "madock",
             "stars": 42
@@ -8217,9 +8217,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:01:04.662Z",
+    "last_updated": "2026-08-19T05:00:31.978Z",
     "original_repository": "aleron75/mageres",
-    "original_repository_sha": "83cb7ef38894f81d3121857006dc95f07e6eef62",
+    "original_repository_sha": "79911798b4f2afe13bbdf03255dae01561f9e8fe",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 Resources with stars"
