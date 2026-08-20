@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-14T09:28:42Z",
+            "last_commit": "2026-08-20T04:49:51Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12167
+            "stars": 12168
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-14T09:28:42Z",
+            "last_commit": "2026-08-20T04:49:51Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12167
+            "stars": 12168
           }
         },
         {
@@ -257,7 +257,7 @@
                 "archived": false,
                 "id": 25814103,
                 "language": "PHP",
-                "last_commit": "2026-08-19T12:11:07Z",
+                "last_commit": "2026-08-19T14:56:48Z",
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 927
@@ -1976,7 +1976,7 @@
             "archived": false,
             "id": 93260571,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T16:08:38Z",
+            "last_commit": "2026-08-19T15:16:12Z",
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
             "stars": 331
@@ -7900,7 +7900,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10941
+            "stars": 10943
           }
         },
         {
@@ -8086,7 +8086,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11098
+            "stars": 11097
           }
         },
         {
@@ -8199,7 +8199,7 @@
                 "last_commit": "2024-04-19T13:46:30Z",
                 "owner": "cytopia",
                 "repo": "devilbox",
-                "stars": 4466
+                "stars": 4468
               }
             },
             {
@@ -8211,10 +8211,10 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:15:44Z",
+                "last_commit": "2026-08-19T20:29:12Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3741
+                "stars": 3743
               }
             },
             {
@@ -8361,7 +8361,7 @@
                 "archived": false,
                 "id": 406900518,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:16:40Z",
+                "last_commit": "2026-08-19T22:42:47Z",
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42
@@ -8766,7 +8766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:53.197Z",
+    "last_updated": "2026-08-20T05:02:34.803Z",
     "original_repository": "aleron75/mageres",
     "original_repository_id": 29300306,
     "original_repository_sha": "79911798b4f2afe13bbdf03255dae01561f9e8fe",
