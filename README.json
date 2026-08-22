@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-20T13:33:31Z",
+            "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12169
+            "stars": 12170
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-20T13:33:31Z",
+            "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12169
+            "stars": 12170
           }
         },
         {
@@ -257,10 +257,10 @@
                 "archived": false,
                 "id": 25814103,
                 "language": "PHP",
-                "last_commit": "2026-08-20T21:32:37Z",
+                "last_commit": "2026-08-21T14:15:33Z",
                 "owner": "netz98",
                 "repo": "n98-magerun2",
-                "stars": 928
+                "stars": 926
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "archived": false,
                 "id": 1272199139,
                 "language": "PHP",
-                "last_commit": "2026-08-19T11:55:08Z",
+                "last_commit": "2026-08-21T13:57:06Z",
                 "owner": "Inchoo",
                 "repo": "magento-bricklayer",
                 "stars": 26
@@ -1409,7 +1409,7 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 235677486,
                 "language": "Ruby",
                 "last_commit": "2025-04-29T09:29:40Z",
@@ -2021,7 +2021,7 @@
             "archived": false,
             "id": 98162452,
             "language": "PHP",
-            "last_commit": "2026-08-17T10:11:14Z",
+            "last_commit": "2026-08-21T09:15:50Z",
             "owner": "mageplaza",
             "repo": "magento-2-smtp",
             "stars": 303
@@ -2171,7 +2171,7 @@
             "archived": false,
             "id": 124255193,
             "language": "PHP",
-            "last_commit": "2026-08-20T06:39:48Z",
+            "last_commit": "2026-08-21T08:40:50Z",
             "owner": "justbetter",
             "repo": "magento2-sentry",
             "stars": 187
@@ -3191,7 +3191,7 @@
             "archived": false,
             "id": 260335826,
             "language": "PHP",
-            "last_commit": "2026-02-11T14:18:21Z",
+            "last_commit": "2026-08-21T09:35:49Z",
             "owner": "Alekseon",
             "repo": "magento2-widget-forms",
             "stars": 50
@@ -5831,7 +5831,7 @@
             "archived": false,
             "id": 126976544,
             "language": "PHP",
-            "last_commit": "2026-04-16T15:07:03Z",
+            "last_commit": "2026-08-21T09:29:32Z",
             "owner": "Alekseon",
             "repo": "AlekseonEav",
             "stars": 8
@@ -7258,7 +7258,7 @@
                 "archived": false,
                 "id": 530671398,
                 "language": "HTML",
-                "last_commit": "2026-08-14T13:56:43Z",
+                "last_commit": "2026-08-21T10:45:42Z",
                 "owner": "EmicoEcommerce",
                 "repo": "Magento2TweakwiseHyva",
                 "stars": 4
@@ -7493,7 +7493,7 @@
                 "last_commit": "2026-08-20T15:13:04Z",
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
-                "stars": 15
+                "stars": 16
               }
             },
             {
@@ -7726,7 +7726,7 @@
             "archived": false,
             "id": 206756590,
             "language": "PHP",
-            "last_commit": "2026-08-20T08:47:29Z",
+            "last_commit": "2026-08-21T16:08:35Z",
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
@@ -7741,7 +7741,7 @@
             "archived": false,
             "id": 206756590,
             "language": "PHP",
-            "last_commit": "2026-08-20T08:47:29Z",
+            "last_commit": "2026-08-21T16:08:35Z",
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
@@ -7900,7 +7900,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10943
+            "stars": 10944
           }
         },
         {
@@ -8086,7 +8086,7 @@
             "last_commit": "2026-07-13T13:12:20Z",
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11097
+            "stars": 11098
           }
         },
         {
@@ -8211,7 +8211,7 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-20T10:24:02Z",
+                "last_commit": "2026-08-22T01:58:16Z",
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3744
@@ -8361,7 +8361,7 @@
                 "archived": false,
                 "id": 406900518,
                 "language": "Go",
-                "last_commit": "2026-08-20T22:57:45Z",
+                "last_commit": "2026-08-21T15:02:49Z",
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42
@@ -8766,7 +8766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:02:43.315Z",
+    "last_updated": "2026-08-22T04:58:16.177Z",
     "original_repository": "aleron75/mageres",
     "original_repository_id": 29300306,
     "original_repository_sha": "79911798b4f2afe13bbdf03255dae01561f9e8fe",
