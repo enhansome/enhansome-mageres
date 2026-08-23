@@ -2759,7 +2759,7 @@
             "last_commit": "2021-10-31T11:26:26Z",
             "owner": "karliuka",
             "repo": "m2.SmartCategory",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -3131,7 +3131,7 @@
             "archived": false,
             "id": 1005439139,
             "language": "PHP",
-            "last_commit": "2026-08-20T13:33:16Z",
+            "last_commit": "2026-08-22T12:56:42Z",
             "owner": "walkwizus",
             "repo": "magento2-module-meilisearch",
             "stars": 55
@@ -5809,6 +5809,21 @@
         },
         {
           "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338543536,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T14:42:16Z",
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Admin Indexer Report",
           "description": "This extension developed by element119 enhances the administrative interface by offering detailed insights into indexer operations. It allows administrators to reindex data directly from the admin panel and logs actions to show who performed them and when. The module provides recommendations for optimal indexer settings and improvements and monitors the health of indexer-related cron jobs to ensure smooth functionality.",
           "children": [],
@@ -8211,10 +8226,10 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-22T01:58:16Z",
+                "last_commit": "2026-08-23T04:55:29Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3744
+                "stars": 3743
               }
             },
             {
@@ -8766,10 +8781,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:58:16.177Z",
+    "last_updated": "2026-08-23T05:00:13.199Z",
     "original_repository": "aleron75/mageres",
     "original_repository_id": 29300306,
-    "original_repository_sha": "79911798b4f2afe13bbdf03255dae01561f9e8fe",
+    "original_repository_sha": "f43a7c2630d96f3c8ca84490f56182695c1e0980",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 Resources with stars"

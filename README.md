@@ -417,7 +417,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Image Cleanup module for Magento 2](https://github.com/baldwin-agency/magento2-module-image-cleanup) ⭐ 85 | 🐛 2 | 🌐 PHP | 📅 2026-04-14 - This extension gives options to delete unused product images from the disk to recover some space.
 
-* [Magento 2 Smart Category](https://github.com/karliuka/m2.SmartCategory) ⭐ 83 | 🐛 31 | 🌐 PHP | 📅 2021-10-31 - This extension allows merchants to create dynamic product categories based on customizable rules and conditions. Instead of manually assigning products, categories can automatically include items that match specific attributes, like price, stock status, or brand.
+* [Magento 2 Smart Category](https://github.com/karliuka/m2.SmartCategory) ⭐ 84 | 🐛 31 | 🌐 PHP | 📅 2021-10-31 - This extension allows merchants to create dynamic product categories based on customizable rules and conditions. Instead of manually assigning products, categories can automatically include items that match specific attributes, like price, stock status, or brand.
 
 * [Module-encryption-key-manager](https://github.com/genecommerce/module-encryption-key-manager) ⭐ 82 | 🐛 7 | 🌐 PHP | 📅 2025-05-08 - This extension was built to help with the CosmicSting attack, which affected many Magento/Adobe Commerce stores. It does not conflict with the Adobe hotfixes and provides additional tooling and improvements.
 
@@ -467,7 +467,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Magento Cloudflare Turnstile](https://github.com/Pixel-Open/magento-cloudflare-turnstile) ⭐ 56 | 🐛 6 | 🌐 PHP | 📅 2026-01-09 - The module allows Turnstile (Cloudflare's smart CAPTCHA alternative) to protect your Magento OpenSource or Adobe Commerce forms.
 
-* [Meilisearch / Magento 2 (Adobe Commerce)](https://github.com/walkwizus/magento2-module-meilisearch) ⭐ 55 | 🐛 4 | 🌐 PHP | 📅 2026-08-20 - An extension to integrate Meilisearch, a fast and lightweight search engine. It replaces the default catalog search, enhancing search speed, relevance, and UX. The module syncs product data with Meilisearch and provides configurable settings for indexing and searching.
+* [Meilisearch / Magento 2 (Adobe Commerce)](https://github.com/walkwizus/magento2-module-meilisearch) ⭐ 55 | 🐛 3 | 🌐 PHP | 📅 2026-08-22 - An extension to integrate Meilisearch, a fast and lightweight search engine. It replaces the default catalog search, enhancing search speed, relevance, and UX. The module syncs product data with Meilisearch and provides configurable settings for indexing and searching.
 
 * [Custom Product Relation Sample Extension](https://github.com/magepal/magento2-link-product) ⭐ 54 | 🐛 2 | 🌐 PHP | 📅 2025-04-16 - This extension creates a new product accessory relationship in addition to the default ones.
 
@@ -828,6 +828,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Lazy Loading extension](https://github.com/mageplaza/magento-2-lazy-loading) ⚠️ Archived - This extension allows speeding up the site load by showing the image only at the demanding time.
 
 * [Magento 2 Read/Write Database Split Module](https://github.com/furan917/Magento2-ReadWriteSplit) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2026-07-23 - A Magento 2 module that implements automatic read/write database splitting. Read queries are distributed across multiple read replicas using round-robin selection, while write operations always go to the master database. CLI operations (indexing, cron, console commands) always use the master to avoid temporary table conflicts.
+
+* [Siteation\_DebugBar](https://github.com/Siteation/magento2-debugbar) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21 - A debug bar for Magento 2 built for developers and coding agents.
 
 * [Admin Indexer Report](https://github.com/element119/module-admin-indexer-report) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2024-10-17 - This extension developed by element119 enhances the administrative interface by offering detailed insights into indexer operations. It allows administrators to reindex data directly from the admin panel and logs actions to show who performed them and when. The module provides recommendations for optimal indexer settings and improvements and monitors the health of indexer-related cron jobs to ensure smooth functionality.
 
@@ -1354,7 +1356,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Docker
 
 * [The Devilbox](https://github.com/cytopia/devilbox) ⭐ 4,468 | 🐛 90 | 🌐 PHP | 📅 2024-04-19 - A modern dockerized LAMP and MEAN stack alternative to XAMPP
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,744 | 🐛 155 | 🌐 Go | 📅 2026-08-22 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,743 | 🐛 156 | 🌐 Go | 📅 2026-08-23 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
 * [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) ⭐ 2,861 | 🐛 1 | 🌐 Shell | 📅 2026-08-20 - Magento 1 & 2 support on Linux and Mac
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) ⚠️ Archived - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) ⭐ 431 | 🐛 46 | 🌐 PHP | 📅 2022-05-22 - Docker image optimized to develop on Mac, Windows, and Linux
@@ -1409,4 +1411,4 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
