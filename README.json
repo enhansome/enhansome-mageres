@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12171
+            "stars": 12169
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12171
+            "stars": 12169
           }
         },
         {
@@ -1000,21 +1000,6 @@
             },
             {
               "node_type": "item",
-              "title": "Magento Bricklayer",
-              "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1272199139,
-                "language": "PHP",
-                "last_commit": "2026-08-21T13:57:06Z",
-                "owner": "Inchoo",
-                "repo": "magento-bricklayer",
-                "stars": 26
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Oh My ZSH Plugin - Magento 2",
               "description": "Magento 2 autocomplete plugin for oh-my-zsh",
               "children": [],
@@ -1025,6 +1010,21 @@
                 "last_commit": "2022-08-23T10:13:59Z",
                 "owner": "dambrogia",
                 "repo": "oh-my-zsh-plugin-magento-2",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Magento Bricklayer",
+              "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1272199139,
+                "language": "PHP",
+                "last_commit": "2026-08-21T13:57:06Z",
+                "owner": "Inchoo",
+                "repo": "magento-bricklayer",
                 "stars": 26
               }
             },
@@ -2321,7 +2321,7 @@
             "archived": false,
             "id": 67938822,
             "language": "PHP",
-            "last_commit": "2026-08-05T17:01:08Z",
+            "last_commit": "2026-08-24T12:47:42Z",
             "owner": "mailchimp",
             "repo": "mc-magento2",
             "stars": 159
@@ -3491,7 +3491,7 @@
             "archived": false,
             "id": 181665598,
             "language": "PHP",
-            "last_commit": "2026-08-17T11:34:27Z",
+            "last_commit": "2026-08-24T12:55:07Z",
             "owner": "elgentos",
             "repo": "magento2-prismicio",
             "stars": 39
@@ -5104,6 +5104,21 @@
         },
         {
           "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338543536,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T14:42:16Z",
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Authorize.net's Customer Information Manager for Magento 2",
           "description": null,
           "children": [],
@@ -5729,21 +5744,6 @@
             "last_commit": "2026-05-05T15:41:56Z",
             "owner": "Siteation",
             "repo": "magento2-storeinfo-menus",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1338543536,
-            "language": "JavaScript",
-            "last_commit": "2026-08-21T14:42:16Z",
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
             "stars": 10
           }
         },
@@ -8226,7 +8226,7 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:36:58Z",
+                "last_commit": "2026-08-24T06:21:58Z",
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3743
@@ -8511,6 +8511,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Magento 2 Kubernetes DevBox",
+              "description": "DevBox supporting multi-service deployment in one click, optimized for development scenarios using the local environment.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 300037855,
+                "language": "Shell",
+                "last_commit": "2020-09-30T19:31:19Z",
+                "owner": "magento",
+                "repo": "magento2-kubernetes-devbox",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kubernetes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Valet+",
               "description": "A development environment for macOS. No Vagrant, no Docker, no /etc/hosts file. Refer to this article by Dave Macaulay for an easy installation on macOS: https://davemacaulay.com/the-easiest-way-to-install-magento-2-on-macos-using-valet-plus/",
               "children": [],
@@ -8781,7 +8803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:09:27.725Z",
+    "last_updated": "2026-08-24T14:13:53.728Z",
     "original_repository": "aleron75/mageres",
     "original_repository_id": 29300306,
     "original_repository_sha": "f43a7c2630d96f3c8ca84490f56182695c1e0980",

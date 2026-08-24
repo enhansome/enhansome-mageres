@@ -78,8 +78,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Official Resources
 
-* [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) ⭐ 12,171 | 🐛 2,134 | 🌐 PHP | 📅 2026-08-21 - All you have to know to start contributing to Magento.
-* [Magento 2 code repository](https://github.com/magento/magento2) ⭐ 12,171 | 🐛 2,134 | 🌐 PHP | 📅 2026-08-21 - Official Magento 2 GitHub repository
+* [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) ⭐ 12,169 | 🐛 2,133 | 🌐 PHP | 📅 2026-08-21 - All you have to know to start contributing to Magento.
+* [Magento 2 code repository](https://github.com/magento/magento2) ⭐ 12,169 | 🐛 2,133 | 🌐 PHP | 📅 2026-08-21 - Official Magento 2 GitHub repository
 * [Magento Translation Projects](https://github.com/magento-l10n/i18n) ⭐ 4 | 🐛 2 | 📅 2020-12-14 - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
 * [Adobe Commerce Documentation](https://experienceleague.adobe.com/docs/commerce.html) - Adobe Commerce product and technical documentation home page.
 * [Adobe Commerce Performance Best Practices](https://experienceleague.adobe.com/docs/commerce-operations/performance-best-practices/overview.html) - Recommendations and instructions for optimizing the performance of your production deployment.
@@ -167,7 +167,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Free
 
 * [Composer Patches](https://github.com/cweagans/composer-patches) ⭐ 1,722 | 🐛 56 | 🌐 PHP | 📅 2026-08-10 - Simple patches plugin for Composer - usage guide: <https://devdocs.magento.com/guides/v2.4/comp-mgr/patching.html#custom-patches>
-* [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) ⭐ 926 | 🐛 15 | 🌐 PHP | 📅 2026-08-21 - The swiss army knife for Magento 2 developers
+* [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) ⭐ 926 | 🐛 17 | 🌐 PHP | 📅 2026-08-21 - The swiss army knife for Magento 2 developers
 * [Pestle by Alan Storm](https://github.com/astorm/pestle) ⭐ 531 | 🐛 184 | 🌐 PHP | 📅 2023-04-19 - A collection of command line scripts for Magento 2 code generation  and a PHP module system for organizing command line scripts.
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) ⭐ 463 | 🐛 68 | 🌐 Java | 📅 2026-08-02 - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) ⭐ 379 | 🐛 17 | 🌐 Ruby | 📅 2022-06-17 - Universal tool to create anonymized DBs
@@ -217,8 +217,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 LSP](https://github.com/mage-os-lab/magento2-lsp) ⭐ 28 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-08 - Magento 2 tooling for editors and AI agents. The LSP Server works alongside Intelephense or Phpactor: it handles the Magento-specific connections that generic PHP tooling can't see. The MCP Server exposes the Magento 2 intelligence of the LSP server to AI coding agents.
 * [Adobe Commerce Dev MCP](https://github.com/rafaelstz/adobe-commerce-dev-mcp) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-30 - MCP server implementation for Adobe Commerce GraphQL
 * [M2 PHP version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) ⭐ 27 | 🐛 1 | 🌐 PHP | 📅 2022-06-23 - This tool can be used to check all modules in an M2 application for PHP8 compatibility
+* [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) ⭐ 27 | 🐛 0 | 🌐 Shell | 📅 2022-08-23 - Magento 2 autocomplete plugin for oh-my-zsh
 * [Magento Bricklayer](https://github.com/Inchoo/magento-bricklayer) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2026-08-21 - An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.
-* [Oh My ZSH Plugin - Magento 2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) ⭐ 26 | 🐛 0 | 🌐 Shell | 📅 2022-08-23 - Magento 2 autocomplete plugin for oh-my-zsh
 * [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) ⭐ 25 | 🐛 9 | 🌐 PHP | 📅 2024-11-06 - Universal extension installer for Magento 2
 * [integer\_net Magento 2 Module Template](https://github.com/integer-net/magento2-module-template) ⭐ 25 | 🐛 4 | 🌐 PHP | 📅 2020-12-27 - A template to easily get started with Magento open source module development.
 * [Mage](https://github.com/GrimLink/mage) ⭐ 25 | 🐛 4 | 🌐 Shell | 📅 2026-08-03 - This tool enhances Magento 2 development by providing shortcuts and custom functions for common bin/magento commands. It introduces shorter aliases, helper commands like reindex and purge, and features such as mage open to access store views quickly. Additionally, the watch command automates cache cleaning upon file changes, streamlining the development workflow.
@@ -307,7 +307,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Magento 2 Cache Clean](https://github.com/mage2tv/magento-cache-clean) ⭐ 543 | 🐛 14 | 📅 2025-07-11 - A faster drop-in replacement for bin/magento cache:clean with a file watcher
 
-* [Regenerate URL rewrites extension](https://github.com/olegkoval/magento2-regenerate_url_rewrites) ⭐ 444 | 🐛 11 | 🌐 PHP | 📅 2026-08-20 - This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.
+* [Regenerate URL rewrites extension](https://github.com/olegkoval/magento2-regenerate_url_rewrites) ⭐ 444 | 🐛 13 | 🌐 PHP | 📅 2026-08-20 - This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.
 
 * [Magento 2 Frontools](https://github.com/SnowdogApps/magento2-frontools) ⭐ 422 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-08 - Set of front-end tools for Magento 2, based on Gulp.js
 
@@ -359,7 +359,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) ⭐ 163 | 🐛 20 | 🌐 PHP | 📅 2025-09-09 - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
 
-* [Mailchimp for Magento 2](https://github.com/mailchimp/mc-magento2) ⭐ 159 | 🐛 18 | 🌐 PHP | 📅 2026-08-05 - The official Mailchimp for Magento 2 extension
+* [Mailchimp for Magento 2](https://github.com/mailchimp/mc-magento2) ⭐ 159 | 🐛 19 | 🌐 PHP | 📅 2026-08-24 - The official Mailchimp for Magento 2 extension
 
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion) ⭐ 137 | 🐛 6 | 🌐 PHP | 📅 2019-10-23 - This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options
 
@@ -516,7 +516,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [MageQuest LiteYouTube](https://github.com/MageQuest/magento2-module-lite-youtube) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-08 - A Magento 2 module that adds performant YouTube embeds with no user experience impact.
 
-* [Elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) ⭐ 39 | 🐛 9 | 🌐 PHP | 📅 2026-08-17 - Extension to integrate headless CMS Prismic.io into Magento 2
+* [Elgentos Prismic.io](https://github.com/elgentos/magento2-prismicio) ⭐ 39 | 🐛 8 | 🌐 PHP | 📅 2026-08-24 - Extension to integrate headless CMS Prismic.io into Magento 2
 
 * [Extension Dashboard](https://github.com/extdn/extension-dashboard-m2) ⭐ 38 | 🐛 2 | 🌐 PHP | 📅 2022-03-23 - A Magento 2 dashboard to display installed extensions.
 
@@ -716,7 +716,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Instant Configuration Copy](https://github.com/anasstouaticoder/magento2-module-instantconfigurationcopy) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2025-08-07 - This extension enhances the Admin Panel by allowing users to easily copy configuration field paths and values to the clipboard. It also displays overridden values from different scopes, aiding in efficient configuration management.
 
-* [Magento 2 - Crawler Session](https://github.com/friends-of-hyva/magento2-crawler-session) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2024-04-09 - This module prevents the initiation of a session if a crawler is detected. Detection based on <https://github.com/JayBizzle/Crawler-Detect> ⭐ 2,399 | 🐛 0 | 🌐 PHP | 📅 2026-07-30.
+* [Magento 2 - Crawler Session](https://github.com/friends-of-hyva/magento2-crawler-session) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2024-04-09 - This module prevents the initiation of a session if a crawler is detected. Detection based on <https://github.com/JayBizzle/Crawler-Detect> ⭐ 2,400 | 🐛 0 | 🌐 PHP | 📅 2026-07-30.
 
 * [Magento 2 Customer Session Timeout Popup
   ](https://github.com/enanobots/m2-customer-timeout-popup) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2024-12-19 - This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.
@@ -734,6 +734,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento2 GeoIp Extension](https://github.com/magepal/magento2-geoip) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2022-08-17 - Automatically detect visitor country code based on their IP address.
 
 * [Magewire Examples](https://github.com/magewirephp/magewire-examples) ⭐ 15 | 🐛 1 | 🌐 HTML | 📅 2026-06-29 - A Magewire showcase to give easy insights on where Magewire could possibly fit in our project.
+
+* [Siteation\_DebugBar](https://github.com/Siteation/magento2-debugbar) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21 - A debug bar for Magento 2 built for developers and coding agents.
 
 * [Authorize.net's Customer Information Manager for Magento 2](https://github.com/ParadoxLabs-Inc/authnetcim) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2026-06-17
 
@@ -818,8 +820,6 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [OpenGento Magento2 Registration Plugin](https://github.com/opengento/magento2-registration-plugin) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2022-03-24 - A Composer plugin that adds a global registration.php that replaces the default glob search performed for each request to discover the components not installed from composer.
 
 * [Siteation Magento2 Storeinfo Menus](https://github.com/Siteation/magento2-storeinfo-menus) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2026-05-05 - This extension lets you add static links to your Magento 2 footer. It includes pre-populated "About Us," "Services," and "Legal" menus, along with two customizable options.
-
-* [Siteation\_DebugBar](https://github.com/Siteation/magento2-debugbar) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-21 - A debug bar for Magento 2 built for developers and coding agents.
 
 * [CMS Page Status](https://github.com/mcspronko/cms-page-edit-status) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2024-05-15 - The extension adds a new "Document Status" column on the Pages Listing page and shows a message when any admin user is editing a page.
 
@@ -1030,7 +1030,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [LLM.txt for Magento 2 / Mage-OS](https://github.com/mage-os-lab/llms.txt) ⭐ 25 | 🐛 0 | 🌐 PHP | 📅 2026-07-08 - Automatically generate optimized llms.txt files for stores, helping AI systems to better understand the site's content. It features AI-powered content selection, one-click generation, and multi-store support while ensuring compliance with relevant standards.
 * [Mage-OS RMA](https://github.com/mage-os-lab/module-rma) ⭐ 22 | 🐛 6 | 🌐 PHP | 📅 2026-08-10 - A feature-rich Return Merchandise Authorisation (RMA) extension developed by the Mage-OS community.
 * [MageOS PageBuilder Templates Import/Export Module for Magento](https://github.com/mage-os-lab/module-pagebuilder-template-import-export) ⭐ 20 | 🐛 4 | 🌐 PHP | 📅 2026-08-10 - This extension enhances Magento's PageBuilder by enabling the import and export of templates between different instances. Administrators can manage templates via the admin panel or command-line interface, facilitating efficient content replication across environments. Additionally, the module supports integration with Dropbox, allowing templates to be imported directly from configured Dropbox repositories. This functionality streamlines content management and promotes consistency across multiple Magento installations.
-* [MageOS Blog](https://github.com/mage-os-lab/module-blog) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2026-08-20 - A blog module for Mage-OS and Magento 2. Posts, categories, tags, authors, scheduled publishing, RSS, sitemap, 6 storefront widgets, SEO (meta tags, Open Graph, Twitter Cards, JSON-LD), and a full GraphQL API. Works with Luma and Hyvä themes.
+* [MageOS Blog](https://github.com/mage-os-lab/module-blog) ⭐ 16 | 🐛 2 | 🌐 PHP | 📅 2026-08-20 - A blog module for Mage-OS and Magento 2. Posts, categories, tags, authors, scheduled publishing, RSS, sitemap, 6 storefront widgets, SEO (meta tags, Open Graph, Twitter Cards, JSON-LD), and a full GraphQL API. Works with Luma and Hyvä themes.
 * [MageOS Passkey Authentication](https://github.com/mage-os-lab/module-passkey-auth) ⭐ 15 | 🐛 3 | 🌐 PHP | 📅 2026-04-30 - This extension allows passwordless login for Magento 2 customer accounts using the WebAuthn/FIDO2 standard. Customers register passkeys (biometric, security key, or device PIN) and sign in with a single tap, avoiding passwords to remember, phishing, or leaks.
 * [NoIndex NoFollow NoArchive Tag Extension](https://github.com/mage-os/module-meta-robots-tag) ⭐ 12 | 🐛 1 | 🌐 PHP | 📅 2026-08-10 - This module lets you control the NOINDEX, NOFOLLOW, and NOARCHIVE meta-robots tags on a per-entity basis (products, categories, and CMS pages). It adds three new attributes to the SEO section of each entity in the admin. Enabling a flag sets that directive to "no" for that entity, while leaving it unchecked defaults to the store's default robots configuration in its design settings.
 * [MageOS Newsletter Coupon Generator](https://github.com/mage-os-lab/module-newsletter-coupon) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2026-05-19 - Allows you to generate a unique coupon for each newsletter subscriber. The coupon will be sent to the subscriber’s email after the subscription.
