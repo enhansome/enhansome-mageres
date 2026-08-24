@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12170
+            "stars": 12171
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T17:55:27Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12170
+            "stars": 12171
           }
         },
         {
@@ -2021,7 +2021,7 @@
             "archived": false,
             "id": 98162452,
             "language": "PHP",
-            "last_commit": "2026-08-21T09:15:50Z",
+            "last_commit": "2026-08-24T01:50:52Z",
             "owner": "mageplaza",
             "repo": "magento-2-smtp",
             "stars": 303
@@ -5734,6 +5734,21 @@
         },
         {
           "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338543536,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T14:42:16Z",
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "CMS Page Status",
           "description": "The extension adds a new \"Document Status\" column on the Pages Listing page and shows a message when any admin user is editing a page.",
           "children": [],
@@ -5804,21 +5819,6 @@
             "last_commit": "2026-07-23T14:53:11Z",
             "owner": "furan917",
             "repo": "Magento2-ReadWriteSplit",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1338543536,
-            "language": "JavaScript",
-            "last_commit": "2026-08-21T14:42:16Z",
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
             "stars": 9
           }
         },
@@ -6883,7 +6883,7 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T09:02:34Z",
+                "last_commit": "2026-08-23T14:55:24Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
@@ -7624,7 +7624,7 @@
             "last_commit": "2024-03-28T10:51:50Z",
             "owner": "elgentos",
             "repo": "magento2-cypress-testing-suite",
-            "stars": 171
+            "stars": 172
           }
         },
         {
@@ -7915,7 +7915,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10944
+            "stars": 10943
           }
         },
         {
@@ -8226,7 +8226,7 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-23T04:55:29Z",
+                "last_commit": "2026-08-24T02:36:58Z",
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3743
@@ -8244,7 +8244,7 @@
                 "last_commit": "2026-08-20T12:51:05Z",
                 "owner": "markshust",
                 "repo": "docker-magento",
-                "stars": 2861
+                "stars": 2862
               }
             },
             {
@@ -8361,7 +8361,7 @@
                 "archived": false,
                 "id": 422907007,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-15T20:59:12Z",
+                "last_commit": "2026-08-23T11:59:09Z",
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
                 "stars": 42
@@ -8376,7 +8376,7 @@
                 "archived": false,
                 "id": 406900518,
                 "language": "Go",
-                "last_commit": "2026-08-21T15:02:49Z",
+                "last_commit": "2026-08-23T22:34:15Z",
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42
@@ -8781,7 +8781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:00:13.199Z",
+    "last_updated": "2026-08-24T05:09:27.725Z",
     "original_repository": "aleron75/mageres",
     "original_repository_id": 29300306,
     "original_repository_sha": "f43a7c2630d96f3c8ca84490f56182695c1e0980",
