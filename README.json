@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-24T14:44:46Z",
+            "last_commit": "2026-08-25T11:37:52Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12168
+            "stars": 12169
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-24T14:44:46Z",
+            "last_commit": "2026-08-25T11:37:52Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12168
+            "stars": 12169
           }
         },
         {
@@ -245,7 +245,7 @@
                 "last_commit": "2026-08-10T01:43:48Z",
                 "owner": "cweagans",
                 "repo": "composer-patches",
-                "stars": 1722
+                "stars": 1723
               }
             },
             {
@@ -257,7 +257,7 @@
                 "archived": false,
                 "id": 25814103,
                 "language": "PHP",
-                "last_commit": "2026-08-24T21:32:41Z",
+                "last_commit": "2026-08-25T21:32:38Z",
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 926
@@ -920,7 +920,7 @@
                 "last_commit": "2026-02-10T08:46:03Z",
                 "owner": "Genaker",
                 "repo": "PyGento",
-                "stars": 31
+                "stars": 30
               }
             },
             {
@@ -1382,7 +1382,7 @@
                 "archived": false,
                 "id": 1121695839,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T23:43:25Z",
+                "last_commit": "2026-08-25T23:44:16Z",
                 "owner": "muench-dev",
                 "repo": "mage-remote-run",
                 "stars": 8
@@ -1715,7 +1715,7 @@
             "archived": false,
             "id": 160542079,
             "language": "PHP",
-            "last_commit": "2026-08-13T11:00:30Z",
+            "last_commit": "2026-08-25T15:38:45Z",
             "owner": "sansecio",
             "repo": "magevulndb",
             "stars": 220
@@ -2291,7 +2291,7 @@
             "archived": false,
             "id": 44912193,
             "language": "PHP",
-            "last_commit": "2026-05-29T06:48:46Z",
+            "last_commit": "2026-08-25T07:00:03Z",
             "owner": "semaio",
             "repo": "Magento2-ConfigImportExport",
             "stars": 165
@@ -2509,21 +2509,6 @@
         },
         {
           "node_type": "item",
-          "title": "Magento 2 Admin Activity",
-          "description": "This extension records activities such as adding, editing, deleting, printing, viewing, and mass updating entities like products, categories, and customers. Additionally, it tracks admin login attempts, including failed logins, capturing user information and IP addresses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 135580655,
-            "language": null,
-            "last_commit": "2025-10-30T11:37:14Z",
-            "owner": "kiwicommerce",
-            "repo": "magento2-admin-activity",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Magento 2 CORS",
           "description": "Enables configurable CORS Headers on GraphQL and REST APIs",
           "children": [],
@@ -2535,6 +2520,21 @@
             "owner": "graycoreio",
             "repo": "magento2-cors",
             "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 Admin Activity",
+          "description": "This extension records activities such as adding, editing, deleting, printing, viewing, and mass updating entities like products, categories, and customers. Additionally, it tracks admin login attempts, including failed logins, capturing user information and IP addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135580655,
+            "language": null,
+            "last_commit": "2025-10-30T11:37:14Z",
+            "owner": "kiwicommerce",
+            "repo": "magento2-admin-activity",
+            "stars": 100
           }
         },
         {
@@ -2831,7 +2831,7 @@
             "archived": false,
             "id": 98182090,
             "language": "PHP",
-            "last_commit": "2026-08-07T08:00:07Z",
+            "last_commit": "2026-08-25T10:21:05Z",
             "owner": "outeredge",
             "repo": "magento-structured-data-module",
             "stars": 77
@@ -3169,6 +3169,21 @@
         },
         {
           "node_type": "item",
+          "title": "Alekseon Widget Forms",
+          "description": "The Alekseon Widget Forms extension for Magento 2 allows administrators to embed custom forms into CMS pages using widgets. It integrates seamlessly with the Alekseon Custom Forms Builder, enabling the display of forms created in the admin panel on the frontend. This extension supports various input types and is compatible with Hyvä Themes, enhancing flexibility in form presentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260335826,
+            "language": "PHP",
+            "last_commit": "2026-08-21T09:35:49Z",
+            "owner": "Alekseon",
+            "repo": "magento2-widget-forms",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Breeze",
           "description": "A Magento 2 extension that replaces Luma's js stack with its own implementation.",
           "children": [],
@@ -3180,21 +3195,6 @@
             "owner": "breezefront",
             "repo": "module-breeze",
             "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alekseon Widget Forms",
-          "description": "The Alekseon Widget Forms extension for Magento 2 allows administrators to embed custom forms into CMS pages using widgets. It integrates seamlessly with the Alekseon Custom Forms Builder, enabling the display of forms created in the admin panel on the frontend. This extension supports various input types and is compatible with Hyvä Themes, enhancing flexibility in form presentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 260335826,
-            "language": "PHP",
-            "last_commit": "2026-08-21T09:35:49Z",
-            "owner": "Alekseon",
-            "repo": "magento2-widget-forms",
-            "stars": 50
           }
         },
         {
@@ -4999,6 +4999,21 @@
         },
         {
           "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338543536,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T14:42:16Z",
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Corrivate Composer Dashboard",
           "description": "Admin grids that allow merchants and PMs to view installed composer packages, available updates, and security audits. Also provides reminder emails and API endpoints.",
           "children": [],
@@ -5099,21 +5114,6 @@
             "last_commit": "2026-06-29T10:49:04Z",
             "owner": "magewirephp",
             "repo": "magewire-examples",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1338543536,
-            "language": "JavaScript",
-            "last_commit": "2026-08-21T14:42:16Z",
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
             "stars": 15
           }
         },
@@ -5561,7 +5561,7 @@
             "archived": false,
             "id": 619501627,
             "language": "HTML",
-            "last_commit": "2026-07-09T10:12:41Z",
+            "last_commit": "2026-08-25T12:08:12Z",
             "owner": "mollie",
             "repo": "magento2-hyva-checkout",
             "stars": 11
@@ -6883,7 +6883,7 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T17:43:40Z",
+                "last_commit": "2026-08-25T11:34:02Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
@@ -7048,7 +7048,7 @@
                 "archived": false,
                 "id": 619501627,
                 "language": "HTML",
-                "last_commit": "2026-07-09T10:12:41Z",
+                "last_commit": "2026-08-25T12:08:12Z",
                 "owner": "mollie",
                 "repo": "magento2-hyva-checkout",
                 "stars": 11
@@ -7505,10 +7505,10 @@
                 "archived": false,
                 "id": 1116132883,
                 "language": "PHP",
-                "last_commit": "2026-08-20T15:13:04Z",
+                "last_commit": "2026-08-25T22:38:15Z",
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
-                "stars": 16
+                "stars": 17
               }
             },
             {
@@ -7915,7 +7915,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940
+            "stars": 10941
           }
         },
         {
@@ -8226,7 +8226,7 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-24T20:26:02Z",
+                "last_commit": "2026-08-25T17:34:54Z",
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3745
@@ -8361,7 +8361,7 @@
                 "archived": false,
                 "id": 422907007,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-23T11:59:09Z",
+                "last_commit": "2026-08-25T08:11:47Z",
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
                 "stars": 42
@@ -8376,7 +8376,7 @@
                 "archived": false,
                 "id": 406900518,
                 "language": "Go",
-                "last_commit": "2026-08-25T01:31:10Z",
+                "last_commit": "2026-08-25T09:45:23Z",
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42
@@ -8555,7 +8555,7 @@
                 "archived": false,
                 "id": 184573600,
                 "language": "Shell",
-                "last_commit": "2026-08-09T12:26:18Z",
+                "last_commit": "2026-08-25T10:45:35Z",
                 "owner": "magenx",
                 "repo": "Magento-2-server-installation",
                 "stars": 211
@@ -8803,7 +8803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:29.629Z",
+    "last_updated": "2026-08-26T05:03:14.939Z",
     "original_repository": "aleron75/mageres",
     "original_repository_id": 29300306,
     "original_repository_sha": "f43a7c2630d96f3c8ca84490f56182695c1e0980",
