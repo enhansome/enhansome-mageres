@@ -12,7 +12,7 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-25T11:37:52Z",
+            "last_commit": "2026-08-27T10:24:11Z",
             "owner": "magento",
             "repo": "magento2",
             "stars": 12169
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-25T11:37:52Z",
+            "last_commit": "2026-08-27T10:24:11Z",
             "owner": "magento",
             "repo": "magento2",
             "stars": 12169
@@ -257,10 +257,10 @@
                 "archived": false,
                 "id": 25814103,
                 "language": "PHP",
-                "last_commit": "2026-08-25T21:32:38Z",
+                "last_commit": "2026-08-26T21:33:01Z",
                 "owner": "netz98",
                 "repo": "n98-magerun2",
-                "stars": 926
+                "stars": 927
               }
             },
             {
@@ -385,21 +385,6 @@
             },
             {
               "node_type": "item",
-              "title": "Capistrano::Magento2",
-              "description": "A Capistrano extension for Magento 2 deployments.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 55175674,
-                "language": "Ruby",
-                "last_commit": "2023-02-02T14:05:28Z",
-                "owner": "davidalger",
-                "repo": "capistrano-magento2",
-                "stars": 223
-              }
-            },
-            {
-              "node_type": "item",
               "title": "GdprDump",
               "description": "A tool that provides a command that creates anonymized dumps of a MySQL database, in order to comply with GDPR regulations.",
               "children": [],
@@ -410,6 +395,21 @@
                 "last_commit": "2026-02-24T09:01:36Z",
                 "owner": "Smile-SA",
                 "repo": "gdpr-dump",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Capistrano::Magento2",
+              "description": "A Capistrano extension for Magento 2 deployments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55175674,
+                "language": "Ruby",
+                "last_commit": "2023-02-02T14:05:28Z",
+                "owner": "davidalger",
+                "repo": "capistrano-magento2",
                 "stars": 223
               }
             },
@@ -1000,6 +1000,21 @@
             },
             {
               "node_type": "item",
+              "title": "Magento Bricklayer",
+              "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1272199139,
+                "language": "PHP",
+                "last_commit": "2026-08-21T13:57:06Z",
+                "owner": "Inchoo",
+                "repo": "magento-bricklayer",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Oh My ZSH Plugin - Magento 2",
               "description": "Magento 2 autocomplete plugin for oh-my-zsh",
               "children": [],
@@ -1011,21 +1026,6 @@
                 "owner": "dambrogia",
                 "repo": "oh-my-zsh-plugin-magento-2",
                 "stars": 27
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Magento Bricklayer",
-              "description": "An MCP server that provides AI coding agents with runtime visibility into Magento 2, enabling them to make informed architectural decisions rather than guessing.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1272199139,
-                "language": "PHP",
-                "last_commit": "2026-08-21T13:57:06Z",
-                "owner": "Inchoo",
-                "repo": "magento-bricklayer",
-                "stars": 26
               }
             },
             {
@@ -1715,7 +1715,7 @@
             "archived": false,
             "id": 160542079,
             "language": "PHP",
-            "last_commit": "2026-08-25T15:38:45Z",
+            "last_commit": "2026-08-26T07:41:34Z",
             "owner": "sansecio",
             "repo": "magevulndb",
             "stars": 220
@@ -1886,7 +1886,7 @@
             "archived": false,
             "id": 54476408,
             "language": "PHP",
-            "last_commit": "2026-08-20T08:44:45Z",
+            "last_commit": "2026-08-26T19:02:31Z",
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 803
@@ -1931,7 +1931,7 @@
             "archived": false,
             "id": 104642467,
             "language": "PHP",
-            "last_commit": "2026-08-20T07:47:51Z",
+            "last_commit": "2026-08-27T10:11:47Z",
             "owner": "olegkoval",
             "repo": "magento2-regenerate_url_rewrites",
             "stars": 444
@@ -1979,7 +1979,7 @@
             "last_commit": "2026-08-19T15:16:12Z",
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
-            "stars": 331
+            "stars": 332
           }
         },
         {
@@ -2321,7 +2321,7 @@
             "archived": false,
             "id": 67938822,
             "language": "PHP",
-            "last_commit": "2026-08-24T17:54:10Z",
+            "last_commit": "2026-08-26T18:41:16Z",
             "owner": "mailchimp",
             "repo": "mc-magento2",
             "stars": 159
@@ -3191,7 +3191,7 @@
             "archived": false,
             "id": 333022980,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T11:03:30Z",
+            "last_commit": "2026-08-27T08:33:30Z",
             "owner": "breezefront",
             "repo": "module-breeze",
             "stars": 51
@@ -3304,6 +3304,21 @@
         },
         {
           "node_type": "item",
+          "title": "Alekseon Custom Forms Builder",
+          "description": "A Magento 2 extension that enables administrators to create fully customized forms directly within the admin panel. It supports various field types, including text fields, text areas, dropdowns, and more, allowing for flexible form creation. The extension manages form fields as regular attributes, facilitating easy handling and integration. Additionally, it provides the capability to view and manage form submissions through standard Magento grids. The Alekseon Widget Forms extension is recommended for displaying these forms on the frontend via CMS content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260305949,
+            "language": "PHP",
+            "last_commit": "2026-04-16T15:23:22Z",
+            "owner": "Alekseon",
+            "repo": "magento2-custom-forms-builder",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 Google Shopping Feed",
           "description": "An extension to generate a Google Shopping feed with product data.",
           "children": [],
@@ -3315,21 +3330,6 @@
             "owner": "run-as-root",
             "repo": "Magento-2-Google-Shopping-Feed",
             "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alekseon Custom Forms Builder",
-          "description": "A Magento 2 extension that enables administrators to create fully customized forms directly within the admin panel. It supports various field types, including text fields, text areas, dropdowns, and more, allowing for flexible form creation. The extension manages form fields as regular attributes, facilitating easy handling and integration. Additionally, it provides the capability to view and manage form submissions through standard Magento grids. The Alekseon Widget Forms extension is recommended for displaying these forms on the frontend via CMS content.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 260305949,
-            "language": "PHP",
-            "last_commit": "2026-04-16T15:23:22Z",
-            "owner": "Alekseon",
-            "repo": "magento2-custom-forms-builder",
-            "stars": 44
           }
         },
         {
@@ -4106,7 +4106,7 @@
             "archived": false,
             "id": 282865346,
             "language": "PHP",
-            "last_commit": "2026-05-22T07:36:36Z",
+            "last_commit": "2026-08-27T09:53:08Z",
             "owner": "customgento",
             "repo": "module-cookiebot-m2",
             "stars": 26
@@ -4564,6 +4564,21 @@
         },
         {
           "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338543536,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T14:42:16Z",
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Elgentos Remove Duplicate Product images in Magento 2",
           "description": "This extension allows you to find duplicate product images from your product list and easily remove them by running a command.",
           "children": [],
@@ -4796,7 +4811,7 @@
             "archived": false,
             "id": 185574869,
             "language": "PHP",
-            "last_commit": "2026-08-14T13:50:40Z",
+            "last_commit": "2026-08-26T07:26:23Z",
             "owner": "EmicoEcommerce",
             "repo": "Magento2AttributeLanding",
             "stars": 17
@@ -4994,21 +5009,6 @@
             "last_commit": "2024-12-19T12:26:55Z",
             "owner": "qoliber",
             "repo": "m2-customer-timeout-popup",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1338543536,
-            "language": "JavaScript",
-            "last_commit": "2026-08-21T14:42:16Z",
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
             "stars": 16
           }
         },
@@ -5561,9 +5561,24 @@
             "archived": false,
             "id": 619501627,
             "language": "HTML",
-            "last_commit": "2026-08-25T12:08:12Z",
+            "last_commit": "2026-08-26T07:59:51Z",
             "owner": "mollie",
             "repo": "magento2-hyva-checkout",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Siteation Magento2 Storeinfo Menus",
+          "description": "This extension lets you add static links to your Magento 2 footer. It includes pre-populated \"About Us,\" \"Services,\" and \"Legal\" menus, along with two customizable options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 759402140,
+            "language": "HTML",
+            "last_commit": "2026-05-05T15:41:56Z",
+            "owner": "Siteation",
+            "repo": "magento2-storeinfo-menus",
             "stars": 11
           }
         },
@@ -5729,21 +5744,6 @@
             "last_commit": "2022-03-24T18:34:03Z",
             "owner": "opengento",
             "repo": "magento2-registration-plugin",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation Magento2 Storeinfo Menus",
-          "description": "This extension lets you add static links to your Magento 2 footer. It includes pre-populated \"About Us,\" \"Services,\" and \"Legal\" menus, along with two customizable options.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 759402140,
-            "language": "HTML",
-            "last_commit": "2026-05-05T15:41:56Z",
-            "owner": "Siteation",
-            "repo": "magento2-storeinfo-menus",
             "stars": 10
           }
         },
@@ -6356,7 +6356,7 @@
             "archived": false,
             "id": 527893556,
             "language": "PHP",
-            "last_commit": "2026-08-14T12:55:13Z",
+            "last_commit": "2026-08-26T12:28:09Z",
             "owner": "EmicoEcommerce",
             "repo": "Magento2Tweakwise",
             "stars": 4
@@ -6883,7 +6883,7 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T11:34:02Z",
+                "last_commit": "2026-08-27T07:42:49Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
@@ -7048,7 +7048,7 @@
                 "archived": false,
                 "id": 619501627,
                 "language": "HTML",
-                "last_commit": "2026-08-25T12:08:12Z",
+                "last_commit": "2026-08-26T07:59:51Z",
                 "owner": "mollie",
                 "repo": "magento2-hyva-checkout",
                 "stars": 11
@@ -7415,10 +7415,10 @@
                 "archived": false,
                 "id": 887308790,
                 "language": "PHP",
-                "last_commit": "2026-08-10T13:35:54Z",
+                "last_commit": "2026-08-26T12:58:51Z",
                 "owner": "mage-os",
                 "repo": "module-automatic-translation",
-                "stars": 32
+                "stars": 33
               }
             },
             {
@@ -7483,6 +7483,21 @@
             },
             {
               "node_type": "item",
+              "title": "MageOS Blog",
+              "description": "A blog module for Mage-OS and Magento 2. Posts, categories, tags, authors, scheduled publishing, RSS, sitemap, 6 storefront widgets, SEO (meta tags, Open Graph, Twitter Cards, JSON-LD), and a full GraphQL API. Works with Luma and Hyvä themes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1116132883,
+                "language": "PHP",
+                "last_commit": "2026-08-25T22:38:15Z",
+                "owner": "mage-os-lab",
+                "repo": "module-blog",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MageOS PageBuilder Templates Import/Export Module for Magento",
               "description": "This extension enhances Magento's PageBuilder by enabling the import and export of templates between different instances. Administrators can manage templates via the admin panel or command-line interface, facilitating efficient content replication across environments. Additionally, the module supports integration with Dropbox, allowing templates to be imported directly from configured Dropbox repositories. This functionality streamlines content management and promotes consistency across multiple Magento installations.",
               "children": [],
@@ -7494,21 +7509,6 @@
                 "owner": "mage-os",
                 "repo": "module-pagebuilder-template-import-export",
                 "stars": 20
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "MageOS Blog",
-              "description": "A blog module for Mage-OS and Magento 2. Posts, categories, tags, authors, scheduled publishing, RSS, sitemap, 6 storefront widgets, SEO (meta tags, Open Graph, Twitter Cards, JSON-LD), and a full GraphQL API. Works with Luma and Hyvä themes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1116132883,
-                "language": "PHP",
-                "last_commit": "2026-08-25T22:38:15Z",
-                "owner": "mage-os-lab",
-                "repo": "module-blog",
-                "stars": 17
               }
             },
             {
@@ -7651,7 +7651,7 @@
             "archived": false,
             "id": 223035548,
             "language": "Shell",
-            "last_commit": "2026-08-18T13:23:55Z",
+            "last_commit": "2026-08-26T13:56:45Z",
             "owner": "extdn",
             "repo": "github-actions-m2",
             "stars": 141
@@ -8098,7 +8098,7 @@
             "archived": false,
             "id": 11340559,
             "language": "PHP",
-            "last_commit": "2026-07-13T13:12:20Z",
+            "last_commit": "2026-08-26T14:50:06Z",
             "owner": "deployphp",
             "repo": "deployer",
             "stars": 11098
@@ -8214,7 +8214,7 @@
                 "last_commit": "2024-04-19T13:46:30Z",
                 "owner": "cytopia",
                 "repo": "devilbox",
-                "stars": 4468
+                "stars": 4469
               }
             },
             {
@@ -8226,10 +8226,10 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-25T17:34:54Z",
+                "last_commit": "2026-08-27T09:19:21Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3745
+                "stars": 3746
               }
             },
             {
@@ -8376,7 +8376,7 @@
                 "archived": false,
                 "id": 406900518,
                 "language": "Go",
-                "last_commit": "2026-08-25T09:45:23Z",
+                "last_commit": "2026-08-27T11:33:50Z",
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42
@@ -8803,9 +8803,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:03:14.939Z",
-    "original_repository": "aleron75/mageres",
-    "original_repository_id": 29300306,
+    "last_updated": "2026-08-27T11:48:52.346Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 29300306,
+      "language": "PHP",
+      "last_commit": "2026-08-22T10:06:29Z",
+      "owner": "aleron75",
+      "repo": "mageres",
+      "stars": 1020
+    },
     "original_repository_sha": "f43a7c2630d96f3c8ca84490f56182695c1e0980",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
