@@ -12,11 +12,12 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-27T15:04:36Z",
+            "last_commit": "2026-08-28T11:11:43Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12168
-          }
+            "stars": 12169
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 2884111,
             "language": "PHP",
-            "last_commit": "2026-08-27T15:04:36Z",
+            "last_commit": "2026-08-28T11:11:43Z",
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12168
-          }
+            "stars": 12169
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "magento-l10n",
             "repo": "i18n",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         }
       ],
       "title": "Official Resources"
@@ -67,7 +70,8 @@
             "owner": "magento-notes",
             "repo": "magento2-exam-notes",
             "stars": 698
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "df2k2",
             "repo": "m2cert",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "fisheye-academy",
             "repo": "m2cpfed-training",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "swiftotter-certifications",
             "repo": "training-environment",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         }
       ],
       "title": "Certification"
@@ -133,7 +140,8 @@
             "owner": "magesuite",
             "repo": "magepack",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "magenx",
             "repo": "Magento-mysql",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "maritos",
             "repo": "magento2-performance-fixes",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "olivertar",
             "repo": "m2_redis_patch",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         }
       ],
       "title": "Performance"
@@ -199,7 +210,8 @@
             "owner": "magebitcom",
             "repo": "magento-toolbox",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "qoliber",
             "repo": "magerun",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "elgentos",
             "repo": "magento2-html-hints-chrome-extension",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "children": [
@@ -246,7 +260,8 @@
                 "owner": "cweagans",
                 "repo": "composer-patches",
                 "stars": 1723
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -257,11 +272,12 @@
                 "archived": false,
                 "id": 25814103,
                 "language": "PHP",
-                "last_commit": "2026-08-27T12:48:55Z",
+                "last_commit": "2026-08-27T21:32:31Z",
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 927
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -276,7 +292,8 @@
                 "owner": "astorm",
                 "repo": "pestle",
                 "stars": 531
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -287,11 +304,12 @@
                 "archived": false,
                 "id": 113209707,
                 "language": "Java",
-                "last_commit": "2026-08-02T19:54:53Z",
+                "last_commit": "2026-08-28T15:37:55Z",
                 "owner": "magento",
                 "repo": "magento2-phpstorm-plugin",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -305,8 +323,9 @@
                 "last_commit": "2022-06-17T23:31:19Z",
                 "owner": "DivanteLtd",
                 "repo": "anonymizer",
-                "stars": 379
-              }
+                "stars": 380
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -321,7 +340,8 @@
                 "owner": "magento",
                 "repo": "magento-coding-standard",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -336,7 +356,8 @@
                 "owner": "idhlagency",
                 "repo": "ampersand-magento2-upgrade-patch-helper",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -351,7 +372,8 @@
                 "owner": "vaimo",
                 "repo": "composer-patches",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -366,7 +388,8 @@
                 "owner": "staempfli",
                 "repo": "magento2-code-generator",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -381,7 +404,8 @@
                 "owner": "elgentos",
                 "repo": "masquerade",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -396,7 +420,8 @@
                 "owner": "Smile-SA",
                 "repo": "gdpr-dump",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -411,7 +436,8 @@
                 "owner": "davidalger",
                 "repo": "capistrano-magento2",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -426,7 +452,8 @@
                 "owner": "staempfli",
                 "repo": "magento2-phpstorm-templates",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -441,7 +468,8 @@
                 "owner": "magento",
                 "repo": "baler",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -456,7 +484,8 @@
                 "owner": "magento",
                 "repo": "m2-devtools",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -471,7 +500,8 @@
                 "owner": "unirgy",
                 "repo": "convertm1m2",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -486,7 +516,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-upgrade-gui",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -501,7 +532,8 @@
                 "owner": "yireo",
                 "repo": "magento2-replace-tools",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -512,11 +544,12 @@
                 "archived": false,
                 "id": 381246068,
                 "language": "PHP",
-                "last_commit": "2026-02-13T08:23:41Z",
+                "last_commit": "2026-08-27T22:20:09Z",
                 "owner": "Genaker",
                 "repo": "laragento",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -531,7 +564,8 @@
                 "owner": "Lingaro",
                 "repo": "magento2-module-codegen",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -546,7 +580,8 @@
                 "owner": "opengento",
                 "repo": "magento2-downgrade-ee-ce",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -557,11 +592,12 @@
                 "archived": false,
                 "id": 311758088,
                 "language": "JavaScript",
-                "last_commit": "2026-02-13T08:32:11Z",
+                "last_commit": "2026-08-28T06:24:59Z",
                 "owner": "Genaker",
                 "repo": "nodejento",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -576,7 +612,8 @@
                 "owner": "jellesiderius",
                 "repo": "mage-db-sync",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -591,7 +628,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-static-deploy",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -606,7 +644,8 @@
                 "owner": "Space48",
                 "repo": "magedbm2",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -621,7 +660,8 @@
                 "owner": "swiftotter",
                 "repo": "driver",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -636,7 +676,24 @@
                 "owner": "UltimateModuleCreator",
                 "repo": "umc",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Simple Import / Export tool",
+              "description": "A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289969479,
+                "language": "PHP",
+                "last_commit": "2024-05-24T14:58:40Z",
+                "owner": "EcomDev",
+                "repo": "sync-magento-2-migration",
+                "stars": 60
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -651,7 +708,8 @@
                 "owner": "mpchadwick",
                 "repo": "dbanon",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -666,22 +724,8 @@
                 "owner": "magento",
                 "repo": "composer-root-update-plugin",
                 "stars": 59
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Simple Import / Export tool",
-              "description": "A tool that allows to quickly export data from Magento 1 and Magento 2 store and import it back into Magento 2.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 289969479,
-                "language": "PHP",
-                "last_commit": "2024-05-24T14:58:40Z",
-                "owner": "EcomDev",
-                "repo": "sync-magento-2-migration",
-                "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -696,7 +740,8 @@
                 "owner": "MagePsycho",
                 "repo": "magento2-installer-bash-script",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -711,7 +756,8 @@
                 "owner": "danslo",
                 "repo": "velvet",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -726,7 +772,8 @@
                 "owner": "markshust",
                 "repo": "phpstorm-magento-live-templates",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -741,7 +788,8 @@
                 "owner": "brideo",
                 "repo": "phpstorm-live-templates-magento-2",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -756,7 +804,8 @@
                 "owner": "mrm-commerce",
                 "repo": "magento-coding-standard-phpcs",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -771,7 +820,8 @@
                 "owner": "MagePsycho",
                 "repo": "magento2-db-code-backup-bash-script",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -786,7 +836,8 @@
                 "owner": "jacquesbh",
                 "repo": "installer",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -801,7 +852,8 @@
                 "owner": "pragmatic-modules",
                 "repo": "jslayout-parser",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -812,11 +864,12 @@
                 "archived": false,
                 "id": 362601665,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T00:08:44Z",
+                "last_commit": "2026-08-28T00:08:14Z",
                 "owner": "michielgerritsen",
                 "repo": "magento2-model-generator",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -831,7 +884,8 @@
                 "owner": "macademy",
                 "repo": "magento-csp-whitelist-generator",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -846,7 +900,8 @@
                 "owner": "magento",
                 "repo": "magento-semver",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -861,7 +916,8 @@
                 "owner": "elgentos",
                 "repo": "magerun2-addons",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -876,7 +932,8 @@
                 "owner": "fooman",
                 "repo": "composer-magento2-optimizations",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -891,7 +948,8 @@
                 "owner": "swiftotter",
                 "repo": "MagentoCI",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -906,7 +964,8 @@
                 "owner": "INPVLSA",
                 "repo": "magento-clockwork",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -917,11 +976,12 @@
                 "archived": false,
                 "id": 415814326,
                 "language": "Python",
-                "last_commit": "2026-02-10T08:46:03Z",
+                "last_commit": "2026-08-28T06:24:33Z",
                 "owner": "Genaker",
                 "repo": "PyGento",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -936,7 +996,8 @@
                 "owner": "aws-ia",
                 "repo": "terraform-adobe-magento",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -951,7 +1012,8 @@
                 "owner": "EcomDev",
                 "repo": "mysql-to-jsonl",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -966,7 +1028,8 @@
                 "owner": "mage-os-lab",
                 "repo": "magento2-lsp",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -981,7 +1044,8 @@
                 "owner": "rafaelstz",
                 "repo": "adobe-commerce-dev-mcp",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -996,7 +1060,8 @@
                 "owner": "willtran",
                 "repo": "magento2-php-8-compatibility-check",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1011,7 +1076,8 @@
                 "owner": "Inchoo",
                 "repo": "magento-bricklayer",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1092,8 @@
                 "owner": "dambrogia",
                 "repo": "oh-my-zsh-plugin-magento-2",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1108,8 @@
                 "owner": "extdn",
                 "repo": "installer-m2",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1124,8 @@
                 "owner": "integer-net",
                 "repo": "magento2-module-template",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1140,8 @@
                 "owner": "GrimLink",
                 "repo": "mage",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1156,8 @@
                 "owner": "magebitcom",
                 "repo": "magento-toolbox",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1101,7 +1172,8 @@
                 "owner": "mumzworld-tech",
                 "repo": "magento2-opentelemetry",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1188,8 @@
                 "owner": "magendooro",
                 "repo": "n98-magerun2-performance-review",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1204,8 @@
                 "owner": "bijay135",
                 "repo": "gitlab-aws-magento2-deploy",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1220,8 @@
                 "owner": "MagePsycho",
                 "repo": "composer-patch-creator",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1236,8 @@
                 "owner": "theshreyas",
                 "repo": "magento-2-quickies",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1176,7 +1252,8 @@
                 "owner": "roma-glushko",
                 "repo": "mage-di-analyzer",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1268,8 @@
                 "owner": "rossmc",
                 "repo": "hyva-compatibility-checker",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1284,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-media-cleaner",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1221,7 +1300,8 @@
                 "owner": "springimport",
                 "repo": "magento2-api-v1",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1316,8 @@
                 "owner": "zepgram",
                 "repo": "magento2-code-maker",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1251,7 +1332,8 @@
                 "owner": "EcomDev",
                 "repo": "download-magento-images-rs",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1266,7 +1348,8 @@
                 "owner": "zepgram",
                 "repo": "magento-dotenv",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1281,7 +1364,8 @@
                 "owner": "speedupmate",
                 "repo": "di-compiler",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1296,7 +1380,8 @@
                 "owner": "magento-architects",
                 "repo": "magento-tool",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1311,7 +1396,8 @@
                 "owner": "magendooro",
                 "repo": "magento-claude-skills",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1326,7 +1412,8 @@
                 "owner": "angeo-dev",
                 "repo": "module-aeo-audit",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1341,7 +1428,8 @@
                 "owner": "rafaelstz",
                 "repo": "Magento-2-UI-library",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1356,7 +1444,8 @@
                 "owner": "redchamps",
                 "repo": "butter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1371,7 +1460,8 @@
                 "owner": "MagePsycho",
                 "repo": "magento2-warden-aliases",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1386,7 +1476,8 @@
                 "owner": "muench-dev",
                 "repo": "mage-remote-run",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1401,7 +1492,8 @@
                 "owner": "perfcom",
                 "repo": "magento2-non-composer-registration",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1416,7 +1508,8 @@
                 "owner": "fballiano",
                 "repo": "homebrew-mageutils",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1431,7 +1524,8 @@
                 "owner": "qoliber",
                 "repo": "phpstorm-booster",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1446,7 +1540,8 @@
                 "owner": "rostilos",
                 "repo": "sonarqube-magento2-rules",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1461,7 +1556,8 @@
                 "owner": "run-as-root",
                 "repo": "warden-mcp-server",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1476,7 +1572,8 @@
                 "owner": "mage-os-lab",
                 "repo": "zed-magento2-snippets",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1491,7 +1588,8 @@
                 "owner": "AquiveMedia",
                 "repo": "magento2-import-remote-db",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1506,7 +1604,8 @@
                 "owner": "henriquekieckbusch",
                 "repo": "sql_bin_magento",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1521,7 +1620,8 @@
                 "owner": "GrimLink",
                 "repo": "create-project",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1536,7 +1636,8 @@
                 "owner": "mage-os-lab",
                 "repo": "mage-os-installer",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1551,7 +1652,8 @@
                 "owner": "tdgroot",
                 "repo": "magento2-changelog",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1566,7 +1668,8 @@
                 "owner": "qoliber",
                 "repo": "mage-scan.com",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1581,7 +1684,8 @@
                 "owner": "rantalainen",
                 "repo": "magento-api-client",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1596,7 +1700,8 @@
                 "owner": "DeployEcommerce",
                 "repo": "magento2-csp-writer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1611,7 +1716,8 @@
                 "owner": "aligent",
                 "repo": "magento-integration-test-pipe",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1626,7 +1732,8 @@
                 "owner": "DeployEcommerce",
                 "repo": "magento2-csp-parser",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -1648,7 +1755,8 @@
                 "owner": "EcomDev",
                 "repo": "mage-os-database-changelog",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1663,7 +1771,8 @@
                 "owner": "mage-os",
                 "repo": "php-dependency-list",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -1678,7 +1787,8 @@
                 "owner": "mage-os-lab",
                 "repo": "mageos-module-template",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -1704,7 +1814,8 @@
             "owner": "gwillem",
             "repo": "magento-malware-scanner",
             "stars": 689
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1718,8 +1829,9 @@
             "last_commit": "2026-08-26T07:41:34Z",
             "owner": "sansecio",
             "repo": "magevulndb",
-            "stars": 220
-          }
+            "stars": 221
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1734,7 +1846,8 @@
             "owner": "talesh",
             "repo": "magento-security-checklist",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1749,7 +1862,8 @@
             "owner": "aregowe",
             "repo": "magento2-module-polyshell-protection",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1764,7 +1878,8 @@
             "owner": "flancer32",
             "repo": "mage2_ext_csp",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1779,7 +1894,8 @@
             "owner": "integer-net",
             "repo": "magento2-sansec-watch",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1794,7 +1910,8 @@
             "owner": "element119",
             "repo": "module-sansec-composer-integrity-checker",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1809,7 +1926,8 @@
             "owner": "yireo",
             "repo": "Yireo_CspWhitelistInlineJs",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1824,7 +1942,8 @@
             "owner": "gwillem",
             "repo": "magento-security-resources",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1839,7 +1958,8 @@
             "owner": "kalpmehta",
             "repo": "securitytxt",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1854,7 +1974,8 @@
             "owner": "sdinteractive",
             "repo": "Magento2_SomethingDigital_InvalidateAdminPasswords",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1869,7 +1990,8 @@
             "owner": "wubinworks",
             "repo": "magento2-jwt-auth-patch",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         }
       ],
       "title": "Security"
@@ -1886,11 +2008,12 @@
             "archived": false,
             "id": 54476408,
             "language": "PHP",
-            "last_commit": "2026-08-26T19:02:31Z",
+            "last_commit": "2026-08-28T08:29:29Z",
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 803
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1905,7 +2028,8 @@
             "owner": "vpietri",
             "repo": "magento2-developer-quickdevbar",
             "stars": 578
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1920,7 +2044,8 @@
             "owner": "mage2tv",
             "repo": "magento-cache-clean",
             "stars": 543
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1935,7 +2060,8 @@
             "owner": "olegkoval",
             "repo": "magento2-regenerate_url_rewrites",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1950,7 +2076,8 @@
             "owner": "SnowdogApps",
             "repo": "magento2-frontools",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1965,7 +2092,8 @@
             "owner": "Ethan3600",
             "repo": "magento2-CronjobManager",
             "stars": 365
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1980,7 +2108,8 @@
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -1995,7 +2124,8 @@
             "owner": "magepal",
             "repo": "magento2-gmail-smtp-app",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2010,7 +2140,8 @@
             "owner": "mgtcommerce",
             "repo": "Mgt_Developertoolbar",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2021,11 +2152,12 @@
             "archived": false,
             "id": 98162452,
             "language": "PHP",
-            "last_commit": "2026-08-24T01:50:52Z",
+            "last_commit": "2026-08-28T08:24:49Z",
             "owner": "mageplaza",
             "repo": "magento-2-smtp",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2040,7 +2172,8 @@
             "owner": "elgentos",
             "repo": "magento2-regenerate-catalog-urls",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2055,7 +2188,8 @@
             "owner": "baldwin-agency",
             "repo": "magento2-module-url-data-integrity-checker",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2070,7 +2204,8 @@
             "owner": "danslo",
             "repo": "CleanCheckout",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2085,7 +2220,8 @@
             "owner": "magepal",
             "repo": "magento2-google-tag-manager",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2100,7 +2236,8 @@
             "owner": "markshust",
             "repo": "magento2-module-disabletwofactorauth",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2115,7 +2252,8 @@
             "owner": "magespecialist",
             "repo": "m2-MSP_DevTools",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2130,7 +2268,8 @@
             "owner": "yireo",
             "repo": "Yireo_Webp2",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2145,7 +2284,8 @@
             "owner": "magento-hackathon",
             "repo": "EAVCleaner",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2160,7 +2300,8 @@
             "owner": "jalogut",
             "repo": "magento2-deployer-plus",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2175,7 +2316,8 @@
             "owner": "justbetter",
             "repo": "magento2-sentry",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2190,7 +2332,8 @@
             "owner": "mageplaza",
             "repo": "magento-2-social-login",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2205,7 +2348,8 @@
             "owner": "ctidigital",
             "repo": "magento2-configurator",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2220,7 +2364,8 @@
             "owner": "avstudnitz",
             "repo": "AvS_ScopeHint2",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2235,7 +2380,8 @@
             "owner": "boldcommerce",
             "repo": "magento2-ordercomments",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2250,7 +2396,8 @@
             "owner": "bitExpert",
             "repo": "magento2-force-login",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2265,7 +2412,8 @@
             "owner": "yireo",
             "repo": "Yireo_GoogleTagManager2",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2280,7 +2428,8 @@
             "owner": "redchamps",
             "repo": "clean-admin-menu",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2295,7 +2444,8 @@
             "owner": "semaio",
             "repo": "Magento2-ConfigImportExport",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2310,7 +2460,8 @@
             "owner": "magemojo",
             "repo": "m2-ce-cron",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2321,11 +2472,12 @@
             "archived": false,
             "id": 67938822,
             "language": "PHP",
-            "last_commit": "2026-08-27T11:59:51Z",
+            "last_commit": "2026-08-28T16:43:33Z",
             "owner": "mailchimp",
             "repo": "mc-magento2",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2340,7 +2492,8 @@
             "owner": "yvoronoy",
             "repo": "magento2-bash-completion",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2355,7 +2508,8 @@
             "owner": "creatuity",
             "repo": "magento2-interceptors",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2370,7 +2524,8 @@
             "owner": "yireo",
             "repo": "magento2-replace-all",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2385,7 +2540,8 @@
             "owner": "EcomDev",
             "repo": "magento2-product-preloader",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2400,7 +2556,8 @@
             "owner": "markshust",
             "repo": "magento2-module-pagebuildersourcecode",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2415,7 +2572,8 @@
             "owner": "lillik",
             "repo": "magento2-price-decimal",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2430,7 +2588,8 @@
             "owner": "magepal",
             "repo": "magento2-reindex",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2445,7 +2604,8 @@
             "owner": "swissup",
             "repo": "module-search-mysql-legacy",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2460,7 +2620,8 @@
             "owner": "avstudnitz",
             "repo": "AvS_DisableModules",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2475,7 +2636,8 @@
             "owner": "Goomento",
             "repo": "PageBuilder",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2490,7 +2652,8 @@
             "owner": "yireo",
             "repo": "Yireo_Whoops",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2505,7 +2668,8 @@
             "owner": "experius",
             "repo": "Magento-2-Module-Experius-WysiwygDownloads",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2520,7 +2684,8 @@
             "owner": "graycoreio",
             "repo": "magento2-cors",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2535,7 +2700,8 @@
             "owner": "kiwicommerce",
             "repo": "magento2-admin-activity",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2550,7 +2716,8 @@
             "owner": "akeneo",
             "repo": "magento2-connector-community",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2565,7 +2732,8 @@
             "owner": "magepal",
             "repo": "magento2-custom-shipping-rate",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2580,7 +2748,8 @@
             "owner": "yireo",
             "repo": "Yireo_ExtensionChecker",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2595,7 +2764,8 @@
             "owner": "elgentos",
             "repo": "LargeConfigProducts",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2610,7 +2780,8 @@
             "owner": "sivaschenko",
             "repo": "magento2-clean-media",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2625,7 +2796,8 @@
             "owner": "markshust",
             "repo": "magento2-module-simpledata",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2640,7 +2812,8 @@
             "owner": "yireo",
             "repo": "Yireo_CheckoutTester2",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2655,7 +2828,8 @@
             "owner": "yireo",
             "repo": "Yireo_LinkPreload",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2670,7 +2844,8 @@
             "owner": "markshust",
             "repo": "magento2-module-ordergrid",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2685,7 +2860,8 @@
             "owner": "owebia",
             "repo": "magento2-module-advanced-shipping",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2700,7 +2876,8 @@
             "owner": "swissup",
             "repo": "module-ignition",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2715,7 +2892,8 @@
             "owner": "integer-net",
             "repo": "magento2-session-unblocker",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2730,7 +2908,8 @@
             "owner": "zepgram",
             "repo": "module-disable-search-engine",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2745,7 +2924,8 @@
             "owner": "baldwin-agency",
             "repo": "magento2-module-image-cleanup",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2760,7 +2940,8 @@
             "owner": "karliuka",
             "repo": "m2.SmartCategory",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2775,7 +2956,8 @@
             "owner": "genecommerce",
             "repo": "module-encryption-key-manager",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2790,7 +2972,8 @@
             "owner": "yvoronoy",
             "repo": "m2install",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2805,7 +2988,8 @@
             "owner": "zepgram",
             "repo": "module-multi-threading",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2820,7 +3004,8 @@
             "owner": "magepal",
             "repo": "magento2-preview-checkout-success-page",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2835,7 +3020,8 @@
             "owner": "outeredge",
             "repo": "magento-structured-data-module",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2850,7 +3036,8 @@
             "owner": "magespecialist",
             "repo": "m2-MSP_CmsImportExport",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2865,7 +3052,8 @@
             "owner": "rossmc",
             "repo": "magento2-partytown",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2880,7 +3068,8 @@
             "owner": "elgentos",
             "repo": "magento2-varnish-extended",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2895,7 +3084,8 @@
             "owner": "elgentos",
             "repo": "magento2-serversideanalytics",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2910,7 +3100,8 @@
             "owner": "magepal",
             "repo": "magento2-guest-to-customer",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2925,7 +3116,8 @@
             "owner": "ghostunicorns",
             "repo": "module-webapi-logs",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2940,7 +3132,8 @@
             "owner": "element119",
             "repo": "module-admin-opcache-report",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2955,7 +3148,8 @@
             "owner": "Veriteworks",
             "repo": "CookieFix",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2970,7 +3164,8 @@
             "owner": "catgento",
             "repo": "magento2-admin-activity",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -2985,7 +3180,8 @@
             "owner": "run-as-root",
             "repo": "magento2-message-queue-retry",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3000,7 +3196,8 @@
             "owner": "elgentos",
             "repo": "magento2-lightspeed",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3015,7 +3212,8 @@
             "owner": "magehost",
             "repo": "performance-dashboard",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3030,7 +3228,8 @@
             "owner": "shkoliar",
             "repo": "magento-grid-colors",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3045,7 +3244,8 @@
             "owner": "fisheyehq",
             "repo": "module-url-rewrite-optimiser",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3060,7 +3260,8 @@
             "owner": "mateussantin",
             "repo": "magento2-admin-order-status-color",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3075,7 +3276,8 @@
             "owner": "markshust",
             "repo": "magento2-module-messages",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3090,7 +3292,8 @@
             "owner": "magepal",
             "repo": "magento2-catalog-lazy-load",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3105,7 +3308,8 @@
             "owner": "qoliber",
             "repo": "m2-datapatchcreator",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3120,7 +3324,8 @@
             "owner": "Pixel-Open",
             "repo": "magento-cloudflare-turnstile",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3135,7 +3340,8 @@
             "owner": "walkwizus",
             "repo": "magento2-module-meilisearch",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3150,7 +3356,8 @@
             "owner": "magepal",
             "repo": "magento2-link-product",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3165,7 +3372,8 @@
             "owner": "basecom",
             "repo": "magento2-csp-split-header",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3180,7 +3388,8 @@
             "owner": "Alekseon",
             "repo": "magento2-widget-forms",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3191,11 +3400,12 @@
             "archived": false,
             "id": 333022980,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:33:30Z",
+            "last_commit": "2026-08-28T13:11:34Z",
             "owner": "breezefront",
             "repo": "module-breeze",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3210,7 +3420,8 @@
             "owner": "deved-it",
             "repo": "magento2-disable-customer-registration",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3225,7 +3436,8 @@
             "owner": "rafaelstz",
             "repo": "magento2-quicklink",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3240,7 +3452,8 @@
             "owner": "Smile-SA",
             "repo": "magento2-module-store-locator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3255,7 +3468,8 @@
             "owner": "cmtickle",
             "repo": "module-event-thing",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3270,7 +3484,8 @@
             "owner": "qoliber",
             "repo": "m2-attribute-pagination",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3285,7 +3500,8 @@
             "owner": "yireo",
             "repo": "Yireo_NextGenImages",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3300,7 +3516,8 @@
             "owner": "tuyennn",
             "repo": "magento2-change-customer-password",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3315,7 +3532,8 @@
             "owner": "Alekseon",
             "repo": "magento2-custom-forms-builder",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3330,7 +3548,8 @@
             "owner": "run-as-root",
             "repo": "Magento-2-Google-Shopping-Feed",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3345,7 +3564,8 @@
             "owner": "developersalliance",
             "repo": "module-table-rates",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3360,7 +3580,8 @@
             "owner": "Genaker",
             "repo": "magento_gridjs",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3375,7 +3596,8 @@
             "owner": "MagePsycho",
             "repo": "magento2-easy-template-path-hints",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3390,7 +3612,8 @@
             "owner": "Imagination-Media",
             "repo": "magento-serverless",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3405,7 +3628,8 @@
             "owner": "mageprince",
             "repo": "magento2-paymentfee",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3420,7 +3644,8 @@
             "owner": "lizardmedia",
             "repo": "product-attachments-magento2",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3435,7 +3660,8 @@
             "owner": "magepal",
             "repo": "magento2-customer-account-links-manager",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3450,7 +3676,8 @@
             "owner": "DominicWatts",
             "repo": "Faker",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3465,7 +3692,8 @@
             "owner": "integer-net",
             "repo": "magento2-global-custom-layout",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3480,7 +3708,8 @@
             "owner": "MageQuest",
             "repo": "magento2-module-lite-youtube",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3495,7 +3724,8 @@
             "owner": "elgentos",
             "repo": "magento2-prismicio",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3510,7 +3740,8 @@
             "owner": "extdn",
             "repo": "extension-dashboard-m2",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3525,7 +3756,8 @@
             "owner": "magenizr",
             "repo": "Magenizr_ResetUiBookmarks",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3540,7 +3772,8 @@
             "owner": "inviqa",
             "repo": "MX_PhinxMigrations",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3555,7 +3788,8 @@
             "owner": "graschik",
             "repo": "magento-2-admin-ui",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3570,7 +3804,8 @@
             "owner": "discorgento",
             "repo": "module-product-last-order",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3585,7 +3820,8 @@
             "owner": "henriquekieckbusch",
             "repo": "henriquekieckbusch-module-autocsp",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3600,7 +3836,8 @@
             "owner": "Dutchento",
             "repo": "m2-vatfallback",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3615,7 +3852,8 @@
             "owner": "run-as-root",
             "repo": "magento-2-seeder",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3630,7 +3868,8 @@
             "owner": "Vendic",
             "repo": "module-optimize-cache-size",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3645,7 +3884,8 @@
             "owner": "qoliber",
             "repo": "m2-product-pack",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3660,7 +3900,8 @@
             "owner": "genecommerce",
             "repo": "module-braintree-magento2",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3675,7 +3916,8 @@
             "owner": "JosephLeedy",
             "repo": "magento2-module-custom-fees",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3690,7 +3932,8 @@
             "owner": "pykettk",
             "repo": "module-indexer-deploy-config",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3705,7 +3948,8 @@
             "owner": "run-as-root",
             "repo": "magento-cli-auto-proxy",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3720,7 +3964,8 @@
             "owner": "pronkoconsulting",
             "repo": "selective-cache",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3735,7 +3980,8 @@
             "owner": "magento-hackathon",
             "repo": "DevDashboard2",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3750,7 +3996,8 @@
             "owner": "yireo",
             "repo": "Yireo_EmailTester2",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3765,7 +4012,8 @@
             "owner": "magepal",
             "repo": "magento2-edit-order-email",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3780,7 +4028,8 @@
             "owner": "qoliber",
             "repo": "m2-m1migration",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3795,7 +4044,8 @@
             "owner": "opengento",
             "repo": "magento2-hoodoor",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3810,7 +4060,8 @@
             "owner": "shellpea",
             "repo": "advanced-elasticsuite-catalog",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3825,7 +4076,8 @@
             "owner": "robaimes",
             "repo": "module-checkout-designs",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3840,7 +4092,8 @@
             "owner": "markshust",
             "repo": "magento2-module-extrabodyclasses",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3855,7 +4108,8 @@
             "owner": "elgentos",
             "repo": "magento2-inventory-log",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3870,7 +4124,8 @@
             "owner": "pragmatic-modules",
             "repo": "magento2-module-system-configuration-toolkit",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3885,7 +4140,8 @@
             "owner": "magento-hackathon",
             "repo": "cli-plugin-list",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3900,7 +4156,8 @@
             "owner": "yireo",
             "repo": "Yireo_DisableLog2",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3915,7 +4172,24 @@
             "owner": "run-as-root",
             "repo": "Magento-2-Dependency-Checker",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 Visual Search Module",
+          "description": "This extension enables image-based search functionality. It leverages cutting-edge image recognition technology and Convolutional Neural Networks (CNN) to allow users to search for products using images instead of text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822310261,
+            "language": "PHP",
+            "last_commit": "2024-06-30T22:03:25Z",
+            "owner": "annysmolyan",
+            "repo": "visual-search-module-magento",
+            "stars": 31
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3930,22 +4204,8 @@
             "owner": "magebitcom",
             "repo": "magento2-agentic-commerce-module",
             "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 Visual Search Module",
-          "description": "This extension enables image-based search functionality. It leverages cutting-edge image recognition technology and Convolutional Neural Networks (CNN) to allow users to search for products using images instead of text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 822310261,
-            "language": "PHP",
-            "last_commit": "2024-06-30T22:03:25Z",
-            "owner": "annysmolyan",
-            "repo": "visual-search-module-magento",
-            "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3960,7 +4220,8 @@
             "owner": "SamueleMartini",
             "repo": "Magento-GPT-integration",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3975,7 +4236,8 @@
             "owner": "Media-Lounge",
             "repo": "magento2-storyblok-integration",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -3990,7 +4252,8 @@
             "owner": "PHOENIX-MEDIA",
             "repo": "magento2-mediastoragesync",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4005,7 +4268,8 @@
             "owner": "flagbit",
             "repo": "Magento2-Flysystem",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4020,7 +4284,8 @@
             "owner": "aligent",
             "repo": "magento2-pci-4-compatibility",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4035,7 +4300,8 @@
             "owner": "rostilos",
             "repo": "perspective-partytown",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4050,7 +4316,8 @@
             "owner": "yireo",
             "repo": "Yireo_AutoFlushCache",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4065,7 +4332,8 @@
             "owner": "magepal",
             "repo": "magento2-checkout-success-misc-script",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4080,7 +4348,8 @@
             "owner": "magepal",
             "repo": "magento2-form-field-manager",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4095,7 +4364,8 @@
             "owner": "qoliber",
             "repo": "m2-catalog-generator",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4110,7 +4380,8 @@
             "owner": "customgento",
             "repo": "module-cookiebot-m2",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4125,7 +4396,8 @@
             "owner": "MagePsycho",
             "repo": "magento2-store-view-pricing",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4140,7 +4412,8 @@
             "owner": "netz98",
             "repo": "headless-guillotine",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4155,7 +4428,8 @@
             "owner": "Siteation",
             "repo": "magento2-pagespeed",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4170,7 +4444,8 @@
             "owner": "UltimateModuleCreator",
             "repo": "umc-crud",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4185,7 +4460,8 @@
             "owner": "discorgento",
             "repo": "module-migrations",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4200,7 +4476,8 @@
             "owner": "ctasca",
             "repo": "mage-bundle",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4215,7 +4492,8 @@
             "owner": "dzmitry-vasileuski",
             "repo": "magento2-module-admin-search",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4230,7 +4508,8 @@
             "owner": "Web200",
             "repo": "magento-elasticsuite-autocomplete",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4245,7 +4524,8 @@
             "owner": "ho-nl",
             "repo": "magento2-ReachDigital_BetterIndexer",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4260,7 +4540,8 @@
             "owner": "qoliber",
             "repo": "m2-admin-darkmode",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4275,7 +4556,8 @@
             "owner": "experius",
             "repo": "Magento-2-Module-Experius-FakeMyData",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4290,7 +4572,8 @@
             "owner": "mcspronko",
             "repo": "liqpay-magento2",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4305,7 +4588,8 @@
             "owner": "magekey",
             "repo": "module-adc-popup",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4320,7 +4604,8 @@
             "owner": "mageplaza",
             "repo": "magento-2-cron-schedule",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4335,7 +4620,8 @@
             "owner": "magespices",
             "repo": "mage2nostalgia",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4350,7 +4636,8 @@
             "owner": "jetrails",
             "repo": "magento2-cloudflare",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4365,7 +4652,8 @@
             "owner": "olivertar",
             "repo": "m2_b2bsdk",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4380,7 +4668,8 @@
             "owner": "zepgram",
             "repo": "module-zero-downtime-deployment",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4395,7 +4684,8 @@
             "owner": "EduardoNiquin",
             "repo": "Doomgento",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4410,7 +4700,8 @@
             "owner": "elgentos",
             "repo": "magento2-composer-quality-patches",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4425,7 +4716,8 @@
             "owner": "fooman",
             "repo": "emailattachments-m2",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4440,7 +4732,8 @@
             "owner": "wpoortman",
             "repo": "magehook",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4455,7 +4748,8 @@
             "owner": "qoliber",
             "repo": "admin-locale-switcher",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4470,7 +4764,8 @@
             "owner": "fballiano",
             "repo": "magento2-defer-javascripts",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4485,7 +4780,24 @@
             "owner": "Lingaro",
             "repo": "magento2-module-micro-features",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338543536,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T14:42:16Z",
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 22
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4500,7 +4812,8 @@
             "owner": "elgentos",
             "repo": "CategoryTiling",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4515,7 +4828,8 @@
             "owner": "qoliber",
             "repo": "m2-cloudflare-cache-cleaner",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4530,7 +4844,8 @@
             "owner": "MagePsycho",
             "repo": "magento2-product-discount-label",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4545,7 +4860,8 @@
             "owner": "magespecialist",
             "repo": "m2-MSP_CodeMonkey",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4560,22 +4876,8 @@
             "owner": "magespecialist",
             "repo": "m2-MSP_SMTP",
             "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1338543536,
-            "language": "JavaScript",
-            "last_commit": "2026-08-21T14:42:16Z",
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
-            "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4590,7 +4892,8 @@
             "owner": "elgentos",
             "repo": "magento2-product-duplicate-images-remove",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4605,7 +4908,8 @@
             "owner": "element119",
             "repo": "module-store-entity-creator",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4620,7 +4924,8 @@
             "owner": "element119",
             "repo": "module-admin-redis-report",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4635,7 +4940,8 @@
             "owner": "crealoz",
             "repo": "easy-audit-free",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4650,7 +4956,8 @@
             "owner": "elgentos",
             "repo": "magento2-ai-category-hero-images",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4665,7 +4972,8 @@
             "owner": "iMi-digital",
             "repo": "magento2-friendly-captcha",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4680,7 +4988,8 @@
             "owner": "idhlagency",
             "repo": "magento2-verbose-log-request",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4695,7 +5004,8 @@
             "owner": "yireo",
             "repo": "Yireo_HtmlHints",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4710,7 +5020,8 @@
             "owner": "Beraa995",
             "repo": "configurable-product-options",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4725,7 +5036,8 @@
             "owner": "swissup",
             "repo": "module-marketplace",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4740,7 +5052,8 @@
             "owner": "danslo",
             "repo": "magento2-module-automatic-persisted-queries",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4755,7 +5068,8 @@
             "owner": "basecom",
             "repo": "magento2-speculation-rules-toolbox",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4770,7 +5084,8 @@
             "owner": "jensscherbl",
             "repo": "customer-group-payments",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4785,7 +5100,8 @@
             "owner": "elgentos",
             "repo": "magento2-improved-customer-address-validation",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4800,7 +5116,8 @@
             "owner": "galacticlabs",
             "repo": "customer-group-payment-filters",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4815,7 +5132,8 @@
             "owner": "EmicoEcommerce",
             "repo": "Magento2AttributeLanding",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4830,7 +5148,8 @@
             "owner": "develodesign",
             "repo": "magento2-module-cachelog",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4845,7 +5164,8 @@
             "owner": "MageQuest",
             "repo": "magento2-module-ppc-landing-pages",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4860,7 +5180,8 @@
             "owner": "markshust",
             "repo": "magento2-module-twilio",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4875,7 +5196,8 @@
             "owner": "elninotech",
             "repo": "ElNino_ProductLinksNavigator",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4890,7 +5212,8 @@
             "owner": "yireo",
             "repo": "Yireo_DumpCmsContent",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4905,7 +5228,8 @@
             "owner": "yireo",
             "repo": "Yireo_ThemeOverrideChecker",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4920,7 +5244,8 @@
             "owner": "robaimes",
             "repo": "magento2-improved-admin-ui",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4935,7 +5260,8 @@
             "owner": "Imagination-Media",
             "repo": "aws-personalize-magento2",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4950,7 +5276,8 @@
             "owner": "elgentos",
             "repo": "magento2-imgix",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4965,7 +5292,8 @@
             "owner": "hryvinskyi",
             "repo": "magento2-email-template-editor",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4980,7 +5308,8 @@
             "owner": "anasstouaticoder",
             "repo": "magento2-module-instantconfigurationcopy",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -4995,7 +5324,8 @@
             "owner": "friends-of-hyva",
             "repo": "magento2-crawler-session",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5010,7 +5340,8 @@
             "owner": "qoliber",
             "repo": "m2-customer-timeout-popup",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5025,7 +5356,8 @@
             "owner": "LBannenberg",
             "repo": "magento2-composer-dashboard",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5040,7 +5372,8 @@
             "owner": "element119",
             "repo": "module-custom-admin-logo",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5055,7 +5388,8 @@
             "owner": "genecommerce",
             "repo": "module-newrelic-rum-page-type",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5070,7 +5404,8 @@
             "owner": "SamJUK",
             "repo": "m2-module-cache-debounce",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5085,7 +5420,8 @@
             "owner": "LBannenberg",
             "repo": "magento2-composer-dashboard",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5100,7 +5436,8 @@
             "owner": "magepal",
             "repo": "magento2-geoip",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5115,7 +5452,8 @@
             "owner": "magewirephp",
             "repo": "magewire-examples",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5130,7 +5468,8 @@
             "owner": "ParadoxLabs-Inc",
             "repo": "authnetcim",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5145,7 +5484,8 @@
             "owner": "ParadoxLabs-Inc",
             "repo": "authnetcim",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5160,7 +5500,8 @@
             "owner": "boolfly",
             "repo": "brand",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5175,7 +5516,8 @@
             "owner": "hivecommerce",
             "repo": "magento2-content-fuzzyfyr",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5190,7 +5532,8 @@
             "owner": "shkoliar",
             "repo": "magento-debug-helper",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5205,7 +5548,8 @@
             "owner": "markshust",
             "repo": "magento2-module-specialrouter",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5220,7 +5564,8 @@
             "owner": "run-as-root",
             "repo": "ACP-for-Magento-2",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5235,7 +5580,8 @@
             "owner": "developersalliance",
             "repo": "module-wholesale",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5250,7 +5596,8 @@
             "owner": "hypershopbv",
             "repo": "Hypershop_SpikePerformance",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5265,7 +5612,8 @@
             "owner": "falconmedia",
             "repo": "magento2-merge-product-attribute-options",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5280,7 +5628,8 @@
             "owner": "opengento",
             "repo": "magento2-makegento-cli",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5295,7 +5644,8 @@
             "owner": "yireo",
             "repo": "Yireo_ThemeCommands",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5310,7 +5660,8 @@
             "owner": "comwrap",
             "repo": "msi-reservation",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5325,7 +5676,8 @@
             "owner": "postcode-nl",
             "repo": "PostcodeNl_Api_Magento2",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5340,7 +5692,8 @@
             "owner": "element119",
             "repo": "module-product-type-attribute-manager",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5355,7 +5708,8 @@
             "owner": "Itonomy",
             "repo": "magento2-admin-activity",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5370,7 +5724,8 @@
             "owner": "fruitcake",
             "repo": "magento2-alwaysloginascustomer",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5385,7 +5740,24 @@
             "owner": "collabpl",
             "repo": "magento2-module-consent-mode",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 Product Data Sync",
+          "description": "A module for safely synchronising product data between products with support for multi-store configurations, attribute filtering, and comprehensive logging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1139953487,
+            "language": "PHP",
+            "last_commit": "2026-01-27T10:04:26Z",
+            "owner": "falconmedia",
+            "repo": "magento2-product-data-sync",
+            "stars": 12
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5400,7 +5772,8 @@
             "owner": "element119",
             "repo": "module-product-type-attribute-manager",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5415,7 +5788,8 @@
             "owner": "shipperhq",
             "repo": "module-shipping-tracker",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5430,7 +5804,8 @@
             "owner": "zepgram",
             "repo": "module-rest",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5445,7 +5820,8 @@
             "owner": "lucafuser",
             "repo": "magento-category-content-management",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5460,7 +5836,8 @@
             "owner": "cmtickle",
             "repo": "elastic-apm-magento",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5475,7 +5852,8 @@
             "owner": "element119",
             "repo": "module-ifconfig-layout",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5490,7 +5868,8 @@
             "owner": "ybrajendra",
             "repo": "magento-cache-warmer",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5505,22 +5884,8 @@
             "owner": "qoliber",
             "repo": "m2-payment-restrictions",
             "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 Product Data Sync",
-          "description": "A module for safely synchronising product data between products with support for multi-store configurations, attribute filtering, and comprehensive logging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1139953487,
-            "language": "PHP",
-            "last_commit": "2026-01-27T10:04:26Z",
-            "owner": "falconmedia",
-            "repo": "magento2-product-data-sync",
-            "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5535,7 +5900,8 @@
             "owner": "HamzaHannad",
             "repo": "Magento2-SlackLogger",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5550,7 +5916,8 @@
             "owner": "digitalrisedorset",
             "repo": "magento-subscription-module",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5565,7 +5932,8 @@
             "owner": "mollie",
             "repo": "magento2-hyva-checkout",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5580,7 +5948,8 @@
             "owner": "Siteation",
             "repo": "magento2-storeinfo-menus",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5595,7 +5964,8 @@
             "owner": "gabrielgts",
             "repo": "module-ai-dashboard",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5610,7 +5980,8 @@
             "owner": "blackbird-agency",
             "repo": "cookie-domain-cleaner",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5625,7 +5996,8 @@
             "owner": "elgentos",
             "repo": "magento2-eu-tax-rates",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5640,7 +6012,8 @@
             "owner": "olivertar",
             "repo": "magewire-breeze",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5655,7 +6028,8 @@
             "owner": "olivertar",
             "repo": "m2_checkip",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5670,7 +6044,8 @@
             "owner": "qoliber",
             "repo": "m2-datapatchcreator-simpledata",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5685,7 +6060,8 @@
             "owner": "MagePsycho",
             "repo": "magento2-seo-suite",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5700,7 +6076,8 @@
             "owner": "graycoreio",
             "repo": "magento2-graphql-introspection-cache",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5715,7 +6092,8 @@
             "owner": "opengento",
             "repo": "magento2-snowflake",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5730,7 +6108,8 @@
             "owner": "mooore-digital",
             "repo": "magento2-module-wordpress-integration-cms",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5745,7 +6124,8 @@
             "owner": "opengento",
             "repo": "magento2-registration-plugin",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5760,7 +6140,8 @@
             "owner": "mcspronko",
             "repo": "cms-page-edit-status",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5775,7 +6156,8 @@
             "owner": "ambab-infotech",
             "repo": "coupon-error-message",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5790,7 +6172,8 @@
             "owner": "integer-net",
             "repo": "magento2-enable-swagger",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5805,7 +6188,8 @@
             "owner": "mageplaza",
             "repo": "magento-2-lazy-loading",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5820,7 +6204,8 @@
             "owner": "furan917",
             "repo": "Magento2-ReadWriteSplit",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5835,7 +6220,8 @@
             "owner": "element119",
             "repo": "module-admin-indexer-report",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5850,7 +6236,8 @@
             "owner": "Alekseon",
             "repo": "AlekseonEav",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5865,7 +6252,8 @@
             "owner": "basecom",
             "repo": "magento2-live-search-image-urls",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5880,7 +6268,8 @@
             "owner": "CUTTRHOAT69",
             "repo": "module-reservation-admin-grid",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5895,7 +6284,8 @@
             "owner": "siment",
             "repo": "magento2-http-header-theme-switch",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5910,7 +6300,8 @@
             "owner": "yireo",
             "repo": "Yireo_AdditionalBlockTemplate",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5925,7 +6316,8 @@
             "owner": "redchamps",
             "repo": "admin-notification-blocker",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5940,7 +6332,8 @@
             "owner": "anasstouaticoder",
             "repo": "magento2-module-referrer-tracker",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5955,7 +6348,8 @@
             "owner": "customgento",
             "repo": "module-cli-tax-editor-m2",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5970,7 +6364,8 @@
             "owner": "yireo",
             "repo": "Yireo_DisableServiceWorkerInAdmin",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -5985,7 +6380,8 @@
             "owner": "wubinworks",
             "repo": "magento2-free-cache-warmer",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6000,7 +6396,8 @@
             "owner": "lbajsarowicz",
             "repo": "magento2-config-validator",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6015,7 +6412,8 @@
             "owner": "Actiview",
             "repo": "magento2-sales-rule-condition-not-in-sale",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6030,7 +6428,8 @@
             "owner": "yireo",
             "repo": "Yireo_DevHacks",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6045,7 +6444,8 @@
             "owner": "yireo",
             "repo": "Yireo_CommonViewModels",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6060,7 +6460,8 @@
             "owner": "DeployEcommerce",
             "repo": "module-builderio",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6075,7 +6476,8 @@
             "owner": "jbrada",
             "repo": "module-well-known-change-password",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6090,7 +6492,8 @@
             "owner": "jensscherbl",
             "repo": "additional-payment-checks",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6105,7 +6508,8 @@
             "owner": "magepal",
             "repo": "magento2-newsletter-signup-email",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6120,7 +6524,8 @@
             "owner": "magepal",
             "repo": "magento2-coupon-limit-guest-checkout",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6135,7 +6540,8 @@
             "owner": "MasterZydra",
             "repo": "Magento2-Gen-CLI",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6150,7 +6556,8 @@
             "owner": "furan917",
             "repo": "Magento2-IndexerIsolation",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6165,7 +6572,8 @@
             "owner": "collabpl",
             "repo": "magento2-module-quicklink",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6180,7 +6588,8 @@
             "owner": "markshust",
             "repo": "magento2-module-removefavicon",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6195,7 +6604,8 @@
             "owner": "Hawksama",
             "repo": "module-oauth-security-plus",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6210,7 +6620,8 @@
             "owner": "poespas",
             "repo": "opentelemetry-tracing-magento2",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6225,7 +6636,8 @@
             "owner": "yireo",
             "repo": "Yireo_CategoryExtended",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6240,7 +6652,8 @@
             "owner": "zero1limited",
             "repo": "magento2-module-layout-xml-plus",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6255,7 +6668,8 @@
             "owner": "boldcommerce",
             "repo": "magento2-model-timemachine",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6270,7 +6684,8 @@
             "owner": "develodesign",
             "repo": "magento-extension-cloudinary-option",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6285,7 +6700,8 @@
             "owner": "ParadoxLabs-Inc",
             "repo": "cybersource",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6300,7 +6716,8 @@
             "owner": "wubinworks",
             "repo": "disable-change-email",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6315,7 +6732,8 @@
             "owner": "elgentos",
             "repo": "magento2-algolia-performance",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6330,7 +6748,8 @@
             "owner": "controlaltdelete-nl",
             "repo": "magento2-fathom-analytics",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6345,7 +6764,8 @@
             "owner": "qoliber",
             "repo": "m2-event-calendar",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6360,7 +6780,8 @@
             "owner": "EmicoEcommerce",
             "repo": "Magento2Tweakwise",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6375,7 +6796,8 @@
             "owner": "michielgerritsen",
             "repo": "magewire-backend",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6390,7 +6812,8 @@
             "owner": "markshust",
             "repo": "magento2-module-hierarchycomplexidcompatibility",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6405,7 +6828,8 @@
             "owner": "qoliber",
             "repo": "m2-professionals-service-listing",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6420,7 +6844,8 @@
             "owner": "ByteInternet",
             "repo": "magento2-remote-storage-tweaks",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6435,7 +6860,8 @@
             "owner": "triplewood-de",
             "repo": "magento2-cache-optimizer",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6450,7 +6876,8 @@
             "owner": "FrankieSR",
             "repo": "WishReward",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6465,7 +6892,8 @@
             "owner": "elgentos",
             "repo": "magento2-kiyoh",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6480,7 +6908,8 @@
             "owner": "integer-net",
             "repo": "magento2-rewritemap",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6495,7 +6924,8 @@
             "owner": "ibiztech",
             "repo": "ask-questions-m2",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6510,7 +6940,8 @@
             "owner": "stefanologica",
             "repo": "magento2-module-backup-management",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6525,7 +6956,8 @@
             "owner": "falconmedia",
             "repo": "magento2-moq-increments-per-store",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6540,7 +6972,8 @@
             "owner": "attherateof",
             "repo": "LogstashWrapper",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6555,7 +6988,8 @@
             "owner": "liquidlab-agency",
             "repo": "magento2-multiline-grid",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6570,7 +7004,8 @@
             "owner": "ho-nl",
             "repo": "magento2-ReachDigital_AutoInvoice",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6585,7 +7020,8 @@
             "owner": "DeployEcommerce",
             "repo": "module-admin-password-restrictions",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6600,7 +7036,8 @@
             "owner": "SushyDev",
             "repo": "module-easy-page-builder",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6615,7 +7052,8 @@
             "owner": "ideal-postcodes",
             "repo": "magento",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6630,7 +7068,8 @@
             "owner": "Vendic",
             "repo": "magento2-adminrestriction",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6645,7 +7084,8 @@
             "owner": "magehx",
             "repo": "mage-template-utils",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6660,7 +7100,8 @@
             "owner": "28software",
             "repo": "module-seo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6675,7 +7116,8 @@
             "owner": "northamericanmedia",
             "repo": "module-simple-cart-geolocation",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6690,7 +7132,8 @@
             "owner": "yireo",
             "repo": "Yireo_StockManagementCli",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6705,7 +7148,8 @@
             "owner": "yireo",
             "repo": "Yireo_TablerateCommands",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6720,7 +7164,8 @@
             "owner": "robaimes",
             "repo": "module-pagebuilder-code-block",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6735,7 +7180,8 @@
             "owner": "magepal",
             "repo": "magento2-ajax-newsletter-subscribe",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6750,7 +7196,8 @@
             "owner": "ybrajendra",
             "repo": "donation",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6765,7 +7212,8 @@
             "owner": "landofcoder",
             "repo": "module-faq",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6780,7 +7228,8 @@
             "owner": "Riskified",
             "repo": "magento2new",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6795,7 +7244,8 @@
             "owner": "magepal",
             "repo": "magento2-color-picker",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6810,7 +7260,8 @@
             "owner": "renttek",
             "repo": "magento2-attributes-experiment",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6825,7 +7276,8 @@
             "owner": "zepgram",
             "repo": "module-json-schema",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6840,7 +7292,8 @@
             "owner": "robaimes",
             "repo": "module-address-attributes-sort-order",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6855,7 +7308,8 @@
             "owner": "danslo",
             "repo": "magento2-module-velvet",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -6870,7 +7324,8 @@
             "owner": "yireo",
             "repo": "Yireo_StoreViewCommands",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "children": [
@@ -6883,11 +7338,12 @@
                 "archived": false,
                 "id": 414967404,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T07:42:49Z",
+                "last_commit": "2026-08-28T09:32:29Z",
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -6902,7 +7358,8 @@
                 "owner": "hyva-themes",
                 "repo": "magento2-hyva-admin",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -6917,7 +7374,8 @@
                 "owner": "qoliber",
                 "repo": "m2-product-pack",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -6932,7 +7390,8 @@
                 "owner": "friends-of-hyva",
                 "repo": "magento2-preload-images",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -6947,7 +7406,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-consentmode-v2",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -6962,7 +7422,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-hyva-checkout-ab-test",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -6977,7 +7438,8 @@
                 "owner": "JaJuMa-GmbH",
                 "repo": "hyva-faq-widget",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -6992,7 +7454,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-hyva-cro-semi-sticky-header",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7007,7 +7470,8 @@
                 "owner": "Vendic",
                 "repo": "hyva-checkout-create-account",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7022,7 +7486,8 @@
                 "owner": "blackbird-agency",
                 "repo": "hyva-algolia-search",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7037,7 +7502,8 @@
                 "owner": "Vendic",
                 "repo": "hyva-checkout-hide-business-fields",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7052,7 +7518,8 @@
                 "owner": "mollie",
                 "repo": "magento2-hyva-checkout",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7067,7 +7534,8 @@
                 "owner": "yireo-training",
                 "repo": "Yireo_HyvaCheckoutPostcodeValidator",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7082,7 +7550,8 @@
                 "owner": "adyen-examples",
                 "repo": "adyen-magento2-hyva",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7097,7 +7566,8 @@
                 "owner": "Siteation",
                 "repo": "hyva-cms-product-grid",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7112,7 +7582,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-hyva-cro-purchasing-confidence",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7127,7 +7598,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-hyva-cro-sticky-cart-proceed-button",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7142,7 +7614,8 @@
                 "owner": "ProxiBlue",
                 "repo": "HyvaGlobalLoading",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7157,7 +7630,8 @@
                 "owner": "Vendic",
                 "repo": "hyva-checkout-geissweb-euvat",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7172,7 +7646,8 @@
                 "owner": "friends-of-hyva",
                 "repo": "magento2-hyva-checkout-order-comment-to-email",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7187,7 +7662,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-hyva-cro-payment-method-free-labels",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7202,7 +7678,8 @@
                 "owner": "redmonks",
                 "repo": "magento2-module-hyva-admin-sales-grids",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7217,7 +7694,8 @@
                 "owner": "Siteation",
                 "repo": "magento2-storeinfo",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7232,7 +7710,8 @@
                 "owner": "Siteation",
                 "repo": "magento2-storeinfo-usps",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7247,7 +7726,8 @@
                 "owner": "elgentos",
                 "repo": "magento2-vurbis-punchout",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7262,7 +7742,8 @@
                 "owner": "magenable",
                 "repo": "module-pickup-payment-restriction",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7277,7 +7758,8 @@
                 "owner": "EmicoEcommerce",
                 "repo": "Magento2TweakwiseHyva",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7292,7 +7774,8 @@
                 "owner": "MultiSafepay",
                 "repo": "magento2-hyva-checkout",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7307,7 +7790,8 @@
                 "owner": "Vendic",
                 "repo": "hyva-checkout-eu-vat-id-format-validator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7322,7 +7806,8 @@
                 "owner": "develodesign",
                 "repo": "magento-2-category-faq-extension-hyva",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7337,7 +7822,8 @@
                 "owner": "trinos-nl",
                 "repo": "magento2-postcode-nl",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7352,7 +7838,8 @@
                 "owner": "ParadoxLabs-Inc",
                 "repo": "authnetcim-hyva-checkout",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -7374,7 +7861,8 @@
                 "owner": "mage-os",
                 "repo": "module-theme-optimization",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7389,7 +7877,8 @@
                 "owner": "mage-os-lab",
                 "repo": "module-catalog-data-ai",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7404,7 +7893,8 @@
                 "owner": "mage-os",
                 "repo": "mageos-async-events",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7419,7 +7909,8 @@
                 "owner": "mage-os",
                 "repo": "module-automatic-translation",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7434,7 +7925,8 @@
                 "owner": "mage-os",
                 "repo": "module-page-builder-widget",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7449,7 +7941,8 @@
                 "owner": "mage-os",
                 "repo": "module-admin-activity-log",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7464,7 +7957,8 @@
                 "owner": "mage-os-lab",
                 "repo": "llms.txt",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7479,7 +7973,8 @@
                 "owner": "mage-os",
                 "repo": "module-rma",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7490,11 +7985,12 @@
                 "archived": false,
                 "id": 1116132883,
                 "language": "PHP",
-                "last_commit": "2026-08-25T22:38:15Z",
+                "last_commit": "2026-08-28T16:35:51Z",
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
-                "stars": 21
-              }
+                "stars": 22
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7509,7 +8005,8 @@
                 "owner": "mage-os",
                 "repo": "module-pagebuilder-template-import-export",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7524,7 +8021,8 @@
                 "owner": "mage-os-lab",
                 "repo": "module-passkey-auth",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7539,7 +8037,8 @@
                 "owner": "mage-os",
                 "repo": "module-meta-robots-tag",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7554,7 +8053,8 @@
                 "owner": "mage-os-lab",
                 "repo": "module-newsletter-coupon",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7569,7 +8069,8 @@
                 "owner": "mage-os-lab",
                 "repo": "module-eav-debug-views",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7584,7 +8085,8 @@
                 "owner": "mage-os-lab",
                 "repo": "module-maxmind-geoip-redirect",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -7599,7 +8101,8 @@
                 "owner": "mage-os-lab",
                 "repo": "module-admin-user-time-zone",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -7625,7 +8128,8 @@
             "owner": "elgentos",
             "repo": "magento2-cypress-testing-suite",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7640,7 +8144,8 @@
             "owner": "bitExpert",
             "repo": "phpstan-magento",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7655,7 +8160,8 @@
             "owner": "extdn",
             "repo": "github-actions-m2",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7670,7 +8176,8 @@
             "owner": "extdn",
             "repo": "extdn-phpcs",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7685,7 +8192,8 @@
             "owner": "ho-nl",
             "repo": "magento2-ReachDigital_TestFramework",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7696,11 +8204,12 @@
             "archived": false,
             "id": 507325788,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T15:19:01Z",
+            "last_commit": "2026-08-27T18:03:18Z",
             "owner": "graycoreio",
             "repo": "github-actions-magento2",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7715,7 +8224,8 @@
             "owner": "elgentos",
             "repo": "magento2-playwright",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7730,7 +8240,8 @@
             "owner": "olmer",
             "repo": "magento-unit-tests-generator",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7745,7 +8256,8 @@
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7760,7 +8272,8 @@
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7775,7 +8288,8 @@
             "owner": "ProxiBlue",
             "repo": "m2-hyva-playwright",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7790,7 +8304,8 @@
             "owner": "EcomDev",
             "repo": "magento2-test-essentials",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7805,7 +8320,8 @@
             "owner": "yireo",
             "repo": "Yireo_IntegrationTestHelper",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7820,7 +8336,8 @@
             "owner": "olivertar",
             "repo": "m2_playwright",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7835,7 +8352,8 @@
             "owner": "UltimateModuleCreator",
             "repo": "uutg",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7850,7 +8368,8 @@
             "owner": "yireo",
             "repo": "magento2-codeception-utilities",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7865,7 +8384,8 @@
             "owner": "EcomDev",
             "repo": "testcontainer-magento-data-php",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7880,7 +8400,8 @@
             "owner": "CleatSquad",
             "repo": "module-parallel-tests-plus",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7895,7 +8416,8 @@
             "owner": "ctasca",
             "repo": "mage2-behave",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         }
       ],
       "title": "Testing"
@@ -7916,7 +8438,8 @@
             "owner": "vuestorefront",
             "repo": "vue-storefront",
             "stars": 10941
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7931,7 +8454,8 @@
             "owner": "magento",
             "repo": "pwa-studio",
             "stars": 1084
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7946,7 +8470,8 @@
             "owner": "magento",
             "repo": "pwa-studio",
             "stars": 1084
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7961,7 +8486,8 @@
             "owner": "Jordaneisenburger",
             "repo": "fallback-studio",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7976,7 +8502,8 @@
             "owner": "integer-net",
             "repo": "magento2-reactapp",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -7991,7 +8518,8 @@
             "owner": "larsroettig",
             "repo": "create-pwa-studio-extension",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8006,7 +8534,8 @@
             "owner": "monsoonconsulting",
             "repo": "magento2-pwa",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8021,7 +8550,8 @@
             "owner": "fooman",
             "repo": "venia-ui-override-resolver",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8036,7 +8566,8 @@
             "owner": "yireo",
             "repo": "Yireo_GraphQlRateLimiting",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8051,7 +8582,8 @@
             "owner": "yireo",
             "repo": "Yireo_AdditionalEndpointsGraphQl",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8066,7 +8598,8 @@
             "owner": "yireo",
             "repo": "Yireo_SyncGraphQlSessionWithFrontend",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8081,7 +8614,8 @@
             "owner": "yireo",
             "repo": "Yireo_CustomGraphQlQueryLimiter",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         }
       ],
       "title": "PWA"
@@ -8102,7 +8636,8 @@
             "owner": "deployphp",
             "repo": "deployer",
             "stars": 11099
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8117,7 +8652,8 @@
             "owner": "pronkoconsulting",
             "repo": "magento-2-repository-example",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8132,7 +8668,8 @@
             "owner": "nuzil",
             "repo": "magento-postman",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8147,7 +8684,8 @@
             "owner": "jellesiderius",
             "repo": "ddev-magento2-setup",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8162,7 +8700,8 @@
             "owner": "larsroettig-dev",
             "repo": "module-graphqlstorepickup",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8177,7 +8716,8 @@
             "owner": "GrimLink",
             "repo": "magento-patch-bfcache",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         },
         {
           "node_type": "item",
@@ -8192,7 +8732,8 @@
             "owner": "adexandros",
             "repo": "magento2-less-diagram",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
         }
       ],
       "title": "Quickies & Tutorials"
@@ -8215,7 +8756,8 @@
                 "owner": "cytopia",
                 "repo": "devilbox",
                 "stars": 4469
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8226,11 +8768,12 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-27T15:19:17Z",
+                "last_commit": "2026-08-28T10:11:48Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3756
-              }
+                "stars": 3813
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8244,8 +8787,9 @@
                 "last_commit": "2026-08-20T12:51:05Z",
                 "owner": "markshust",
                 "repo": "docker-magento",
-                "stars": 2862
-              }
+                "stars": 2863
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8260,7 +8804,8 @@
                 "owner": "meanbee",
                 "repo": "docker-magento2",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8275,7 +8820,8 @@
                 "owner": "clean-docker",
                 "repo": "Magento2",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8290,7 +8836,8 @@
                 "owner": "fballiano",
                 "repo": "docker-magento2",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8305,7 +8852,8 @@
                 "owner": "magento",
                 "repo": "magento-cloud-docker",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8320,7 +8868,8 @@
                 "owner": "ModestCoders",
                 "repo": "magento2-dockergento",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8335,7 +8884,8 @@
                 "owner": "mage2click",
                 "repo": "m2c",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8350,7 +8900,8 @@
                 "owner": "EmakinaFR",
                 "repo": "docker-magento2",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8365,7 +8916,8 @@
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8376,11 +8928,12 @@
                 "archived": false,
                 "id": 406900518,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:04:31Z",
+                "last_commit": "2026-08-28T16:44:17Z",
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8395,7 +8948,8 @@
                 "owner": "graycoreio",
                 "repo": "mage2docker",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8410,7 +8964,8 @@
                 "owner": "ityetti",
                 "repo": "magento2-docker",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8425,7 +8980,8 @@
                 "owner": "cmtickle",
                 "repo": "docker-stack",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8440,7 +8996,8 @@
                 "owner": "giuseppemorelli",
                 "repo": "docker-devbox",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8455,7 +9012,8 @@
                 "owner": "bijay135",
                 "repo": "docker-magento2",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8470,7 +9028,8 @@
                 "owner": "j-scriptz",
                 "repo": "mage-mirror",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8485,7 +9044,8 @@
                 "owner": "andreaskoch",
                 "repo": "dockerize-magento2",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8500,7 +9060,8 @@
                 "owner": "Skywire",
                 "repo": "skywire-docker",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -8522,7 +9083,8 @@
                 "owner": "magento",
                 "repo": "magento2-kubernetes-devbox",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -8544,7 +9106,8 @@
                 "owner": "weprovide",
                 "repo": "valet-plus",
                 "stars": 1548
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8559,7 +9122,8 @@
                 "owner": "magenx",
                 "repo": "Magento-2-server-installation",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8574,7 +9138,8 @@
                 "owner": "swiftotter",
                 "repo": "den",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8589,7 +9154,8 @@
                 "owner": "nemke82",
                 "repo": "magento2gitpod",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8604,7 +9170,8 @@
                 "owner": "develodesign",
                 "repo": "magento-gitpod",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8619,7 +9186,8 @@
                 "owner": "fballiano",
                 "repo": "magento2-devenv",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8634,7 +9202,8 @@
                 "owner": "graycoreio",
                 "repo": "magento2-devcontainer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8649,7 +9218,8 @@
                 "owner": "mage-os",
                 "repo": "magento-gitpod",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -8671,7 +9241,8 @@
                 "owner": "paliarush",
                 "repo": "magento2-vagrant-for-developers",
                 "stars": 440
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8686,7 +9257,8 @@
                 "owner": "rgranadino",
                 "repo": "mage2_vagrant",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8701,7 +9273,8 @@
                 "owner": "zepgram",
                 "repo": "magento2-fast-vm",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8716,7 +9289,8 @@
                 "owner": "joshuaswarren",
                 "repo": "magescotch",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8731,7 +9305,8 @@
                 "owner": "davidalger",
                 "repo": "m2demo",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8746,7 +9321,8 @@
                 "owner": "EcomDev",
                 "repo": "fast-hypernode",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8761,7 +9337,8 @@
                 "owner": "davidalger",
                 "repo": "devenv",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8776,7 +9353,8 @@
                 "owner": "studioemma",
                 "repo": "vagrant-mage2",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             },
             {
               "node_type": "item",
@@ -8791,7 +9369,8 @@
                 "owner": "joshuaswarren",
                 "repo": "magescotch5",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
             }
           ],
           "description": null,
@@ -8803,7 +9382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:22:26.743Z",
+    "last_updated": "2026-08-28T16:46:38.972Z",
     "original_repository_info": {
       "archived": false,
       "id": 29300306,
