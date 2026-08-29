@@ -167,7 +167,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Free
 
 * [Composer Patches](https://github.com/cweagans/composer-patches) ⭐ 1,723 | 🐛 56 | 🌐 PHP | 📅 2026-08-10 - Simple patches plugin for Composer - usage guide: <https://devdocs.magento.com/guides/v2.4/comp-mgr/patching.html#custom-patches>
-* [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) ⭐ 927 | 🐛 16 | 🌐 PHP | 📅 2026-08-28 - The swiss army knife for Magento 2 developers
+* [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) ⭐ 927 | 🐛 15 | 🌐 PHP | 📅 2026-08-29 - The swiss army knife for Magento 2 developers
 * [Pestle by Alan Storm](https://github.com/astorm/pestle) ⭐ 531 | 🐛 184 | 🌐 PHP | 📅 2023-04-19 - A collection of command line scripts for Magento 2 code generation  and a PHP module system for organizing command line scripts.
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) ⭐ 463 | 🐛 66 | 🌐 Java | 📅 2026-08-28 - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) ⭐ 380 | 🐛 17 | 🌐 Ruby | 📅 2022-06-17 - Universal tool to create anonymized DBs
@@ -833,7 +833,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Admin Indexer Report](https://github.com/element119/module-admin-indexer-report) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2024-10-17 - This extension developed by element119 enhances the administrative interface by offering detailed insights into indexer operations. It allows administrators to reindex data directly from the admin panel and logs actions to show who performed them and when. The module provides recommendations for optimal indexer settings and improvements and monitors the health of indexer-related cron jobs to ensure smooth functionality.
 
-* [Alekseon Eav](https://github.com/Alekseon/AlekseonEav) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2026-08-21 - This extension enables the creation of dynamic Entity-Attribute-Value (EAV) models, allowing for flexible and customizable data structures. It serves as a core module for other extensions, such as Alekseon Custom Forms Builder and Alekseon Widget Forms, facilitating the management of scopable attributes within the Magento 2 framework.
+* [Alekseon Eav](https://github.com/Alekseon/AlekseonEav) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2026-08-29 - This extension enables the creation of dynamic Entity-Attribute-Value (EAV) models, allowing for flexible and customizable data structures. It serves as a core module for other extensions, such as Alekseon Custom Forms Builder and Alekseon Widget Forms, facilitating the management of scopable attributes within the Magento 2 framework.
 
 * [Basecom Live Search Image Urls ](https://github.com/basecom/magento2-live-search-image-urls) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2025-03-28 - This module adds a plugin to the ImageFormatter::format() method that correctly resizes images synced to the Live Search catalogue, which would otherwise be larger than needed.
 
@@ -1356,8 +1356,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Docker
 
 * [The Devilbox](https://github.com/cytopia/devilbox) ⭐ 4,469 | 🐛 90 | 🌐 PHP | 📅 2024-04-19 - A modern dockerized LAMP and MEAN stack alternative to XAMPP
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,815 | 🐛 163 | 🌐 Go | 📅 2026-08-28 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
-* [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) ⭐ 2,863 | 🐛 2 | 🌐 Shell | 📅 2026-08-20 - Magento 1 & 2 support on Linux and Mac
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,815 | 🐛 163 | 🌐 Go | 📅 2026-08-29 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
+* [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) ⭐ 2,864 | 🐛 2 | 🌐 Shell | 📅 2026-08-20 - Magento 1 & 2 support on Linux and Mac
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) ⚠️ Archived - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) ⭐ 431 | 🐛 46 | 🌐 PHP | 📅 2022-05-22 - Docker image optimized to develop on Mac, Windows, and Linux
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) ⭐ 356 | 🐛 12 | 🌐 VCL | 📅 2024-03-23 - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
@@ -1366,7 +1366,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) ⭐ 70 | 🐛 14 | 🌐 Shell | 📅 2021-06-07 - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 * [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) ⭐ 45 | 🐛 0 | 🌐 Makefile | 📅 2025-02-04 - Environment for a Magento2 application using Docker.
 * [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration) ⭐ 42 | 🐛 4 | 🌐 Dockerfile | 📅 2026-08-28
-* [Madock](https://github.com/faradey/madock) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2026-08-28 - A local Docker-based PHP environment that supports Magento2 other than custom projects.
+* [Madock](https://github.com/faradey/madock) ⭐ 42 | 🐛 2 | 🌐 Go | 📅 2026-08-29 - A local Docker-based PHP environment that supports Magento2 other than custom projects.
 * [Mage2Docker](https://github.com/graycoreio/mage2docker) ⚠️ Archived - An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker.
 * [Magento 2 Docker to Development (Apple Silicon)](https://github.com/ityetti/magento2-docker/) ⭐ 31 | 🐛 0 | 🌐 VCL | 📅 2025-03-31 - A complete Docker setup for development, including Traefik, Nginx, Redis, PHP-FPM, MySQL, and more.
 * [Colin Tickle’s Docker Stack](https://github.com/cmtickle/docker-stack) ⭐ 16 | 🐛 5 | 🌐 Shell | 📅 2025-10-28 - A dockerized system to run LEMP stack applications primarily developed to run Magento 2.
