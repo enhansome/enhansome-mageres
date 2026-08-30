@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-08-28T11:11:43Z",
-            "open_issues": 2134,
+            "open_issues": 2136,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12169,
+            "stars": 12171,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -44,10 +44,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-08-28T11:11:43Z",
-            "open_issues": 2134,
+            "open_issues": 2136,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12169,
+            "stars": 12171,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -402,7 +402,7 @@
                 "open_issues": 15,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
-                "stars": 927,
+                "stars": 926,
                 "topics": [
                   "cli-app",
                   "magento2",
@@ -3067,7 +3067,7 @@
             "open_issues": 129,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
-            "stars": 803,
+            "stars": 802,
             "topics": [
               "autocomplete",
               "elasticsearch",
@@ -3444,7 +3444,7 @@
             "open_issues": 15,
             "owner": "magepal",
             "repo": "magento2-google-tag-manager",
-            "stars": 265,
+            "stars": 264,
             "topics": [
               "adobe-commerce",
               "adwords",
@@ -3855,11 +3855,11 @@
             "id": 67938822,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-08-28T19:43:03Z",
+            "last_commit": "2026-08-29T12:11:13Z",
             "open_issues": 13,
             "owner": "mailchimp",
             "repo": "mc-magento2",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "ecommerce",
               "email-marketing",
@@ -6615,32 +6615,6 @@
         },
         {
           "node_type": "item",
-          "title": "Magento 2 Storyblok Integration",
-          "description": "This extension allows to create content-rich pages that are easily editable using the Storyblok interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 extension to integrate Storyblok visual editor",
-            "homepage": "https://marketplace.magento.com/medialounge-magento2-storyblok-integration.html",
-            "id": 323902005,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2025-06-16T10:51:28Z",
-            "open_issues": 10,
-            "owner": "Media-Lounge",
-            "repo": "magento2-storyblok-integration",
-            "stars": 29,
-            "topics": [
-              "magento2",
-              "magento2-extension",
-              "magento2-module",
-              "storyblok"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Phoenix Media Storage Sync",
           "description": "An easy way to retrieve files in media from an origin server to a local development environment.",
           "children": [],
@@ -6705,6 +6679,32 @@
               "magento2",
               "pci-dss",
               "security"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 Storyblok Integration",
+          "description": "This extension allows to create content-rich pages that are easily editable using the Storyblok interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 extension to integrate Storyblok visual editor",
+            "homepage": "https://marketplace.magento.com/medialounge-magento2-storyblok-integration.html",
+            "id": 323902005,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2025-06-16T10:51:28Z",
+            "open_issues": 10,
+            "owner": "Media-Lounge",
+            "repo": "magento2-storyblok-integration",
+            "stars": 28,
+            "topics": [
+              "magento2",
+              "magento2-extension",
+              "magento2-module",
+              "storyblok"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -7109,6 +7109,27 @@
         },
         {
           "node_type": "item",
+          "title": "Orangecat B2B Suite",
+          "description": "A comprehensive B2B suite providing company accounts, custom pricing, credit payments, purchase approvals, quick ordering, RMAs, sales reps, and customer-specific catalog, shipping, and payment rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "B2B Magento OS SDK Installer",
+            "homepage": null,
+            "id": 1262169940,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-08T18:28:36Z",
+            "open_issues": 1,
+            "owner": "olivertar",
+            "repo": "m2_b2bsdk",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Data Faker For Magento 2",
           "description": "Replaces existing customer data for fake/anonymous data.",
           "children": [],
@@ -7241,27 +7262,6 @@
               "magento2",
               "magento2-module"
             ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Orangecat B2B Suite",
-          "description": "A comprehensive B2B suite providing company accounts, custom pricing, credit payments, purchase approvals, quick ordering, RMAs, sales reps, and customer-specific catalog, shipping, and payment rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "B2B Magento OS SDK Installer",
-            "homepage": null,
-            "id": 1262169940,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-08T18:28:36Z",
-            "open_issues": 1,
-            "owner": "olivertar",
-            "repo": "m2_b2bsdk",
-            "stars": 23,
-            "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -7817,27 +7817,6 @@
         },
         {
           "node_type": "item",
-          "title": "Marketplace",
-          "description": "Magento modules and themes CLI/GUI downloader and installer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento modules and themes CLI/GUI downloader and installer",
-            "homepage": null,
-            "id": 212835225,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2026-07-28T09:15:44Z",
-            "open_issues": 2,
-            "owner": "swissup",
-            "repo": "module-marketplace",
-            "stars": 18,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Automatic Persisted Queries",
           "description": "Apollo-compatible automatic persisted queries, to improve GraphQL network performance.",
           "children": [],
@@ -8018,6 +7997,27 @@
             "open_issues": 0,
             "owner": "MageQuest",
             "repo": "magento2-module-ppc-landing-pages",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Marketplace",
+          "description": "Magento modules and themes CLI/GUI downloader and installer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento modules and themes CLI/GUI downloader and installer",
+            "homepage": null,
+            "id": 212835225,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-07-28T09:15:44Z",
+            "open_issues": 2,
+            "owner": "swissup",
+            "repo": "module-marketplace",
             "stars": 17,
             "topics": []
           },
@@ -11232,7 +11232,7 @@
                 "open_issues": 34,
                 "owner": "hyva-themes",
                 "repo": "magento2-hyva-admin",
-                "stars": 178,
+                "stars": 177,
                 "topics": [
                   "magento2-module"
                 ]
@@ -12527,8 +12527,8 @@
             "id": 507325788,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-27T18:03:18Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-29T18:43:37Z",
+            "open_issues": 9,
             "owner": "graycoreio",
             "repo": "github-actions-magento2",
             "stars": 72,
@@ -12791,8 +12791,8 @@
             "id": 1101870432,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2025-12-01T08:12:15Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-30T08:04:26Z",
+            "open_issues": 2,
             "owner": "CleatSquad",
             "repo": "module-parallel-tests-plus",
             "stars": 4,
@@ -12843,7 +12843,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10941,
+            "stars": 10940,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13358,11 +13358,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T06:28:25Z",
-                "open_issues": 163,
+                "last_commit": "2026-08-30T06:29:21Z",
+                "open_issues": 165,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3815,
+                "stars": 3818,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -13657,11 +13657,11 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T09:44:27Z",
-                "open_issues": 2,
+                "last_commit": "2026-08-29T15:41:27Z",
+                "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
-                "stars": 42,
+                "stars": 41,
                 "topics": [
                   "docker",
                   "local-development",
@@ -14366,7 +14366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:15:52.684Z",
+    "last_updated": "2026-08-30T10:01:31.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
