@@ -15,8 +15,8 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-08-31T09:21:04Z",
-            "open_issues": 2141,
+            "last_commit": "2026-08-31T16:48:35Z",
+            "open_issues": 2142,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12171,
@@ -43,8 +43,8 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-08-31T09:21:04Z",
-            "open_issues": 2141,
+            "last_commit": "2026-08-31T16:48:35Z",
+            "open_issues": 2142,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12171,
@@ -378,7 +378,7 @@
                 "open_issues": 56,
                 "owner": "cweagans",
                 "repo": "composer-patches",
-                "stars": 1723,
+                "stars": 1724,
                 "topics": [
                   "composer",
                   "php"
@@ -398,11 +398,11 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T09:54:40Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-01T08:24:29Z",
+                "open_issues": 18,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
-                "stars": 926,
+                "stars": 925,
                 "topics": [
                   "cli-app",
                   "magento2",
@@ -592,7 +592,7 @@
                 "open_issues": 7,
                 "owner": "staempfli",
                 "repo": "magento2-code-generator",
-                "stars": 245,
+                "stars": 244,
                 "topics": [
                   "magento2"
                 ]
@@ -615,7 +615,7 @@
                 "open_issues": 20,
                 "owner": "elgentos",
                 "repo": "masquerade",
-                "stars": 231,
+                "stars": 230,
                 "topics": [
                   "faker",
                   "hacktoberfest",
@@ -764,7 +764,7 @@
                 "open_issues": 13,
                 "owner": "unirgy",
                 "repo": "convertm1m2",
-                "stars": 146,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
@@ -1105,6 +1105,27 @@
                 ]
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Magento 2 MCP Server",
+              "description": "A Model Context Protocol (MCP) server that connects to a Magento 2 REST API, allowing Claude and other MCP clients to query product information from a Magento store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A MCP server for Magento 2",
+                "homepage": null,
+                "id": 967918082,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2025-04-22T07:23:04Z",
+                "open_issues": 2,
+                "owner": "boldcommerce",
+                "repo": "magento2-mcp",
+                "stars": 59,
+                "topics": []
+              },
+              "first_seen": "2026-09-01T09:31:17.533Z"
             },
             {
               "node_type": "item",
@@ -2175,6 +2196,27 @@
             },
             {
               "node_type": "item",
+              "title": "go-m2rest",
+              "description": "A Golang library providing a comprehensive interface for interacting with the Magento 2 REST API. It features a context-aware read/sync API, structured logging, hardened retries, and an offline unit test suite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Comprehensive and well-documented interface for interacting with the Magento 2 REST API",
+                "homepage": null,
+                "id": 930532170,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-08-11T12:09:31Z",
+                "open_issues": 0,
+                "owner": "florinel-chis",
+                "repo": "go-m2rest",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-09-01T09:31:17.533Z"
+            },
+            {
+              "node_type": "item",
               "title": "Magento 2 UI Library",
               "description": "A collection of reusable UI components, layouts, and design elements for building consistent Magento 2 admin and frontend interfaces. It serves as a visual reference and developer resource to streamline UI development, helping teams quickly design and implement Magento-styled user interfaces.",
               "children": [],
@@ -2256,6 +2298,27 @@
                 ]
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Magento CMS Sync",
+              "description": "A powerful web-based tool for synchronizing CMS content (blocks and pages) between multiple Magento 2 instances. Built with FastAPI (Python) backend and React (TypeScript) frontend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A powerful web-based tool for synchronizing CMS content (blocks and pages) between multiple Magento 2 instances. Built with FastAPI (Python) backend and React (TypeScript) frontend.",
+                "homepage": null,
+                "id": 993860514,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2025-11-14T09:30:50Z",
+                "open_issues": 1,
+                "owner": "florinel-chis",
+                "repo": "magento2-cms-sync",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-09-01T09:31:17.533Z"
             },
             {
               "node_type": "item",
@@ -3064,7 +3127,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-08-28T08:29:29Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 802,
@@ -3239,7 +3302,7 @@
             "open_issues": 29,
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
-            "stars": 333,
+            "stars": 332,
             "topics": [
               "extenstions",
               "hacktoberfest",
@@ -3530,7 +3593,7 @@
             "id": 176673041,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-02-16T08:41:27Z",
+            "last_commit": "2026-08-31T19:05:53Z",
             "open_issues": 18,
             "owner": "yireo",
             "repo": "Yireo_Webp2",
@@ -3740,7 +3803,7 @@
             "open_issues": 5,
             "owner": "bitExpert",
             "repo": "magento2-force-login",
-            "stars": 169,
+            "stars": 168,
             "topics": [
               "force-login",
               "magento2",
@@ -3764,7 +3827,7 @@
             "id": 48577460,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-07-28T13:07:56Z",
+            "last_commit": "2026-08-31T19:04:43Z",
             "open_issues": 29,
             "owner": "yireo",
             "repo": "Yireo_GoogleTagManager2",
@@ -3855,7 +3918,7 @@
             "id": 67938822,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-08-29T12:11:13Z",
+            "last_commit": "2026-08-31T20:25:04Z",
             "open_issues": 13,
             "owner": "mailchimp",
             "repo": "mc-magento2",
@@ -4390,7 +4453,7 @@
             "id": 66253147,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2024-10-24T12:04:51Z",
+            "last_commit": "2026-08-31T19:04:07Z",
             "open_issues": 3,
             "owner": "yireo",
             "repo": "Yireo_CheckoutTester2",
@@ -4525,7 +4588,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2025-05-16T19:00:34Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "zepgram",
             "repo": "module-disable-search-engine",
             "stars": 87,
@@ -5126,6 +5189,34 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 Delete Orders extension Free",
+          "description": "Helps admins completely remove unnecessary orders, invoices, shipments and credit memos which are arised during testing process. This helps simplify order management and get these arranged neater.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 Delete orders extension is the best solution for online stores to deal with unwanted invoices, orders, shipments and credit memos appearing because of testing purposes. ",
+            "homepage": "https://www.mageplaza.com/magento-2-delete-orders/",
+            "id": 129072035,
+            "language": "PHP",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-13T01:20:40Z",
+            "open_issues": 5,
+            "owner": "mageplaza",
+            "repo": "magento-2-delete-orders",
+            "stars": 57,
+            "topics": [
+              "magento-2-delete-orders",
+              "magento2",
+              "magento2-extension",
+              "magento2-extension-free",
+              "magento2-module",
+              "mageplaza"
+            ]
+          },
+          "first_seen": "2026-09-01T09:31:17.533Z"
+        },
+        {
+          "node_type": "item",
           "title": "MarkShust_Messages",
           "description": "This extensions allows us to send success, notice, warning, and error messages with embedded HTML.",
           "children": [],
@@ -5494,7 +5585,7 @@
             "id": 291080111,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-02-16T08:46:00Z",
+            "last_commit": "2026-08-31T19:03:20Z",
             "open_issues": 10,
             "owner": "yireo",
             "repo": "Yireo_NextGenImages",
@@ -6024,6 +6115,30 @@
         },
         {
           "node_type": "item",
+          "title": "Gift Sales Rule",
+          "description": "This module provides 2 new actions to Magento cart price rule feature to: offer gift product(s) to customer based on native conditions, or offer gift product(s) each time a threshold is reached.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento2 module to create gift product sales rules.",
+            "homepage": null,
+            "id": 168359119,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2026-04-07T11:17:04Z",
+            "open_issues": 18,
+            "owner": "Smile-SA",
+            "repo": "magento2-module-gift-sales-rule",
+            "stars": 36,
+            "topics": [
+              "magento2",
+              "magento2-extension"
+            ]
+          },
+          "first_seen": "2026-09-01T09:31:17.533Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 Database Seeder",
           "description": "Populate your dev environment with realistic products, categories, customers, orders, CMS content, reviews, cart rules, wishlists, and newsletter subscribers using a Laravel-style database seeding tool.",
           "children": [],
@@ -6265,7 +6380,7 @@
             "id": 488871436,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-08-18T14:37:25Z",
+            "last_commit": "2026-08-31T19:06:09Z",
             "open_issues": 7,
             "owner": "yireo",
             "repo": "Yireo_EmailTester2",
@@ -6386,33 +6501,6 @@
         },
         {
           "node_type": "item",
-          "title": "Aimes Checkout Designs",
-          "description": "This module provides the ability to change checkout page designs/layout per store and customer group",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Allow multiple options for Magento 2 checkout layout. Provides capabilities to AB test checkout changes and more.",
-            "homepage": null,
-            "id": 348509728,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2026-06-29T22:12:55Z",
-            "open_issues": 1,
-            "owner": "robaimes",
-            "repo": "module-checkout-designs",
-            "stars": 33,
-            "topics": [
-              "magento2",
-              "magento2-extension",
-              "magento2-extension-free",
-              "magento2-module",
-              "magento2-module-free"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "MarkShust_ExtraBodyClasses",
           "description": "Adds the website and store codes to the body class attribute.",
           "children": [],
@@ -6429,6 +6517,33 @@
             "repo": "magento2-module-extrabodyclasses",
             "stars": 33,
             "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Aimes Checkout Designs",
+          "description": "This module provides the ability to change checkout page designs/layout per store and customer group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Allow multiple options for Magento 2 checkout layout. Provides capabilities to AB test checkout changes and more.",
+            "homepage": null,
+            "id": 348509728,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-06-29T22:12:55Z",
+            "open_issues": 1,
+            "owner": "robaimes",
+            "repo": "module-checkout-designs",
+            "stars": 32,
+            "topics": [
+              "magento2",
+              "magento2-extension",
+              "magento2-extension-free",
+              "magento2-module",
+              "magento2-module-free"
+            ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -6656,6 +6771,42 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 MageAI Extension",
+          "description": "Magento 2 extension to generate product short/long descriptions and product images with OpenAI (ChatGPT), Anthropic (Claude) & Google Gemini. Customizable prompts, multiple models, and clean HTML output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 extension to generate product short/long descriptions and product images with OpenAI (ChatGPT), Anthropic (Claude) & Google Gemini. Customizable prompts, multiple models, and clean HTML output. Save time and enhance your catalog with AI.",
+            "homepage": null,
+            "id": 961740656,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-06T09:22:49Z",
+            "open_issues": 2,
+            "owner": "mageprince",
+            "repo": "magento2-mage-ai",
+            "stars": 28,
+            "topics": [
+              "ai-content-generation",
+              "anthropic",
+              "chatgpt",
+              "cluade",
+              "free-extension",
+              "free-module",
+              "gemini",
+              "magento",
+              "magento2",
+              "magento2-extension-free",
+              "magento2-mageai",
+              "mageprince-extensions",
+              "mageprince-mageai",
+              "openai"
+            ]
+          },
+          "first_seen": "2026-09-01T09:31:17.533Z"
         },
         {
           "node_type": "item",
@@ -7088,6 +7239,27 @@
         },
         {
           "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Developer debug bar for Magento 2, with findings and an MCP server",
+            "homepage": null,
+            "id": 1338543536,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-21T14:42:16Z",
+            "open_issues": 1,
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Dark Mode for Admin Panel",
           "description": "A dark mode theme for Magento Admin Panel.",
           "children": [],
@@ -7262,27 +7434,6 @@
               "magento2",
               "magento2-module"
             ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Developer debug bar for Magento 2, with findings and an MCP server",
-            "homepage": null,
-            "id": 1338543536,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-08-21T14:42:16Z",
-            "open_issues": 1,
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
-            "stars": 23,
-            "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -8014,8 +8165,8 @@
             "id": 212835225,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-08-31T10:17:30Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-01T09:00:41Z",
+            "open_issues": 0,
             "owner": "swissup",
             "repo": "module-marketplace",
             "stars": 17,
@@ -8686,6 +8837,27 @@
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Inchoo SEO Manager",
+          "description": "A powerful Magento 2 extension that incorporates a wide range of SEO tools designed to enhance your website’s search engine optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Inchoo Seo Manager",
+            "homepage": null,
+            "id": 926457750,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2026-02-01T20:03:51Z",
+            "open_issues": 0,
+            "owner": "Inchoo",
+            "repo": "seo-manager",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-09-01T09:31:17.533Z"
         },
         {
           "node_type": "item",
@@ -9871,6 +10043,27 @@
         },
         {
           "node_type": "item",
+          "title": "Offers Page",
+          "description": "Offers Page extension for Magento 2 provides a centralized and automated way to showcase all current catalog and cart price rules on a dedicated frontend page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Offers Page extension for Magento 2 provides a centralized and automated way to showcase all current catalog and cart price rules on a dedicated frontend page.",
+            "homepage": null,
+            "id": 977906355,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2025-05-05T07:24:37Z",
+            "open_issues": 0,
+            "owner": "Ribog-Digital",
+            "repo": "magento2-module-offers-page",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-09-01T09:31:17.533Z"
+        },
+        {
+          "node_type": "item",
           "title": "Sales Rule Condition – Not In Sale",
           "description": "This extension enhances Magento's cart price rules by introducing a condition that excludes products currently on sale. This condition checks whether a product has an active catalog price rule or a special price lower than its regular price, and if so, the product is excluded from the sales rule. It applies to simple and virtual products, while other product types are bypassed.",
           "children": [],
@@ -10250,6 +10443,33 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Validator",
+          "description": "The Advanced Validator module for Magento 2 allows you to implement custom validation rules for checkout fields. You can use regular expressions to validate fields like city, postcode, and more during the checkout process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 Checkout Validator ",
+            "homepage": null,
+            "id": 903502542,
+            "language": "PHP",
+            "license": "Apache-2.0",
+            "last_commit": "2025-01-06T19:12:55Z",
+            "open_issues": 0,
+            "owner": "piotrwx",
+            "repo": "advanced-validator",
+            "stars": 4,
+            "topics": [
+              "admin-panel",
+              "checkout-extension",
+              "magento2-module",
+              "magento2-module-free",
+              "validator"
+            ]
+          },
+          "first_seen": "2026-09-01T09:31:17.533Z"
         },
         {
           "node_type": "item",
@@ -11204,8 +11424,8 @@
                 "id": 414967404,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T09:32:29Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-01T09:14:10Z",
+                "open_issues": 7,
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 262,
@@ -12067,7 +12287,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-08-10T13:34:25Z",
-                "open_issues": 2,
+                "open_issues": 7,
                 "owner": "mage-os",
                 "repo": "module-page-builder-widget",
                 "stars": 30,
@@ -12181,7 +12401,7 @@
                 "language": "PHP",
                 "license": "OSL-3.0",
                 "last_commit": "2026-08-28T16:52:23Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
                 "stars": 22,
@@ -12434,8 +12654,8 @@
             "id": 176821265,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-06-28T08:23:06Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-31T16:20:21Z",
+            "open_issues": 13,
             "owner": "bitExpert",
             "repo": "phpstan-magento",
             "stars": 148,
@@ -12558,7 +12778,7 @@
             "id": 867651548,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T10:30:55Z",
+            "last_commit": "2026-09-01T09:16:02Z",
             "open_issues": 6,
             "owner": "elgentos",
             "repo": "magento2-playwright",
@@ -12885,7 +13105,7 @@
             "open_issues": 7,
             "owner": "magento",
             "repo": "pwa-studio",
-            "stars": 1084,
+            "stars": 1083,
             "topics": [
               "magento",
               "pwa",
@@ -12912,7 +13132,7 @@
             "open_issues": 7,
             "owner": "magento",
             "repo": "pwa-studio",
-            "stars": 1084,
+            "stars": 1083,
             "topics": [
               "magento",
               "pwa",
@@ -13151,7 +13371,7 @@
             "open_issues": 18,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11102,
+            "stars": 11103,
             "topics": [
               "deploy",
               "deployment",
@@ -13358,11 +13578,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T09:42:27Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-01T06:34:59Z",
+                "open_issues": 161,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3821,
+                "stars": 3824,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -13622,12 +13842,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Docker Configuration for Magento 2. Deploy secure, flexible and reusable docker infrastructure for Magento 2 in a matter of seconds.",
+                "description": "Hardened Docker Configuration for Magento 2. Deploy production, secure, flexible and reusable docker infrastructure for Magento 2 in a matter of seconds.",
                 "homepage": "https://www.magenx.com",
                 "id": 422907007,
                 "language": "Dockerfile",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T09:24:50Z",
+                "last_commit": "2026-08-31T19:09:15Z",
                 "open_issues": 4,
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
@@ -13657,7 +13877,7 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-31T10:44:06Z",
+                "last_commit": "2026-08-31T14:34:33Z",
                 "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
@@ -13957,7 +14177,7 @@
                 "id": 184573600,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2026-08-25T10:45:35Z",
+                "last_commit": "2026-08-31T18:57:50Z",
                 "open_issues": 0,
                 "owner": "magenx",
                 "repo": "Magento-2-server-installation",
@@ -14366,7 +14586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:00:59.646Z",
+    "last_updated": "2026-09-01T09:31:17.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14374,18 +14594,18 @@
       "id": 29300306,
       "language": "PHP",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-22T10:06:29Z",
+      "last_commit": "2026-09-01T07:43:02Z",
       "open_issues": 2,
       "owner": "aleron75",
       "repo": "mageres",
-      "stars": 1020,
+      "stars": 1017,
       "topics": [
         "awesome-list",
         "magento",
         "magento2"
       ]
     },
-    "original_repository_sha": "f43a7c2630d96f3c8ca84490f56182695c1e0980",
+    "original_repository_sha": "896056eeebe6413834059472510d26da80a773af",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 Resources with stars"
