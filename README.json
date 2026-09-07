@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-04T17:56:32Z",
-            "open_issues": 2177,
+            "open_issues": 2175,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12178,
+            "stars": 12180,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -44,10 +44,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-04T17:56:32Z",
-            "open_issues": 2177,
+            "open_issues": 2175,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12178,
+            "stars": 12180,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -398,8 +398,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T21:32:40Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-06T18:36:21Z",
+                "open_issues": 19,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 925,
@@ -444,8 +444,8 @@
                 "id": 113209707,
                 "language": "Java",
                 "license": "OSL-3.0",
-                "last_commit": "2026-08-28T18:03:08Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-07T09:30:11Z",
+                "open_issues": 65,
                 "owner": "magento",
                 "repo": "magento2-phpstorm-plugin",
                 "stars": 463,
@@ -1368,7 +1368,7 @@
                 "id": 362601665,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-02T20:07:27Z",
+                "last_commit": "2026-09-07T00:08:48Z",
                 "open_issues": 2,
                 "owner": "michielgerritsen",
                 "repo": "magento2-model-generator",
@@ -3161,7 +3161,7 @@
             "open_issues": 7,
             "owner": "vpietri",
             "repo": "magento2-developer-quickdevbar",
-            "stars": 578,
+            "stars": 577,
             "topics": [
               "developer-toolbar",
               "developer-tools",
@@ -3299,7 +3299,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-19T15:16:12Z",
-            "open_issues": 29,
+            "open_issues": 31,
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
             "stars": 332,
@@ -3369,7 +3369,7 @@
             "id": 98162452,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T10:46:15Z",
+            "last_commit": "2026-09-07T04:54:20Z",
             "open_issues": 55,
             "owner": "mageplaza",
             "repo": "magento-2-smtp",
@@ -7543,31 +7543,6 @@
         },
         {
           "node_type": "item",
-          "title": "Magehook",
-          "description": "This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Webhook abstraction for Magento 2.",
-            "homepage": null,
-            "id": 283500094,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2023-09-03T09:01:45Z",
-            "open_issues": 0,
-            "owner": "wpoortman",
-            "repo": "magehook",
-            "stars": 22,
-            "topics": [
-              "magento2",
-              "magento2-extension",
-              "webhook"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Magento 2 Admin Locale Switcher",
           "description": "A simple module that allows you to switch locale in Magento 2 Admin Panel.",
           "children": [],
@@ -7651,6 +7626,31 @@
               "magento2-extension",
               "magento2-extension-free",
               "magento2-module"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magehook",
+          "description": "This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Webhook abstraction for Magento 2.",
+            "homepage": null,
+            "id": 283500094,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2023-09-03T09:01:45Z",
+            "open_issues": 0,
+            "owner": "wpoortman",
+            "repo": "magehook",
+            "stars": 21,
+            "topics": [
+              "magento2",
+              "magento2-extension",
+              "webhook"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -13063,7 +13063,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940,
+            "stars": 10941,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13578,8 +13578,8 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T06:29:04Z",
-                "open_issues": 169,
+                "last_commit": "2026-09-07T06:41:57Z",
+                "open_issues": 171,
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3831,
@@ -13851,7 +13851,7 @@
                 "open_issues": 4,
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -13974,7 +13974,7 @@
                 "open_issues": 5,
                 "owner": "cmtickle",
                 "repo": "docker-stack",
-                "stars": 16,
+                "stars": 15,
                 "topics": [
                   "bash",
                   "docker",
@@ -14586,7 +14586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:45:20.290Z",
+    "last_updated": "2026-09-07T09:32:18.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14594,8 +14594,8 @@
       "id": 29300306,
       "language": "PHP",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-01T07:43:02Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-07T07:32:28Z",
+      "open_issues": 2,
       "owner": "aleron75",
       "repo": "mageres",
       "stars": 1016,
@@ -14605,7 +14605,7 @@
         "magento2"
       ]
     },
-    "original_repository_sha": "896056eeebe6413834059472510d26da80a773af",
+    "original_repository_sha": "7209c1a38356a7dcc0f7ff938916ea2ad9160758",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 Resources with stars"
