@@ -15,11 +15,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-10T12:53:11Z",
-            "open_issues": 2182,
+            "last_commit": "2026-09-15T07:10:03Z",
+            "open_issues": 2183,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12188,
+            "stars": 12191,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -43,11 +43,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-10T12:53:11Z",
-            "open_issues": 2182,
+            "last_commit": "2026-09-15T07:10:03Z",
+            "open_issues": 2183,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12188,
+            "stars": 12191,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -107,7 +107,7 @@
             "open_issues": 4,
             "owner": "magento-notes",
             "repo": "magento2-exam-notes",
-            "stars": 699,
+            "stars": 698,
             "topics": [
               "exam",
               "magento-certified-developer",
@@ -1762,7 +1762,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-08T09:50:00Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "GrimLink",
                 "repo": "mage",
                 "stars": 25,
@@ -2581,8 +2581,8 @@
                 "id": 1189835787,
                 "language": "Go",
                 "license": null,
-                "last_commit": "2026-09-12T16:44:15Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-15T08:34:34Z",
+                "open_issues": 0,
                 "owner": "mage-os-lab",
                 "repo": "mage-os-installer",
                 "stars": 3,
@@ -3298,7 +3298,7 @@
             "id": 93260571,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T07:15:15Z",
+            "last_commit": "2026-09-14T17:41:02Z",
             "open_issues": 32,
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
@@ -3918,8 +3918,8 @@
             "id": 67938822,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-11T15:35:57Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-14T22:45:45Z",
+            "open_issues": 11,
             "owner": "mailchimp",
             "repo": "mc-magento2",
             "stars": 160,
@@ -4514,27 +4514,6 @@
         },
         {
           "node_type": "item",
-          "title": "Advanced Shipping Module for Magento 2",
-          "description": "This extension helps configure the shipping fees in a very flexible manner. It uses almost all available variables: destination, weight, price, quantity, categories, product attributes, item options, customer group, customer attributes, coupon code, Magento custom variables, date, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 63969173,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-22T16:17:41Z",
-            "open_issues": 8,
-            "owner": "owebia",
-            "repo": "magento2-module-advanced-shipping",
-            "stars": 89,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Ignition for Magento2",
           "description": "A beautiful error page and error tracking service for Magento powered by Spatie Ignition.",
           "children": [],
@@ -4549,6 +4528,27 @@
             "open_issues": 0,
             "owner": "swissup",
             "repo": "module-ignition",
+            "stars": 90,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Shipping Module for Magento 2",
+          "description": "This extension helps configure the shipping fees in a very flexible manner. It uses almost all available variables: destination, weight, price, quantity, categories, product attributes, item options, customer group, customer attributes, coupon code, Magento custom variables, date, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 63969173,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-22T16:17:41Z",
+            "open_issues": 8,
+            "owner": "owebia",
+            "repo": "magento2-module-advanced-shipping",
             "stars": 89,
             "topics": []
           },
@@ -6994,6 +6994,35 @@
         },
         {
           "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Developer debug bar for Magento 2, with findings and an MCP server",
+            "homepage": "https://siteation.dev",
+            "id": 1338543536,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-12T14:44:24Z",
+            "open_issues": 1,
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 27,
+            "topics": [
+              "debugbar",
+              "debugging-tool",
+              "hyva-compatible",
+              "magento2-module",
+              "magewire",
+              "mcp",
+              "mcp-server"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "CustomGento_Cookiebot",
           "description": "A Magento 2 module that integrates Cookiebot into your store.",
           "children": [],
@@ -7095,35 +7124,6 @@
               "magento2-module",
               "speculation-rules",
               "view-transitions"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Developer debug bar for Magento 2, with findings and an MCP server",
-            "homepage": "https://siteation.dev",
-            "id": 1338543536,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-09-12T14:44:24Z",
-            "open_issues": 1,
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
-            "stars": 26,
-            "topics": [
-              "debugbar",
-              "debugging-tool",
-              "hyva-compatible",
-              "magento2-module",
-              "magewire",
-              "mcp",
-              "mcp-server"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -7331,33 +7331,6 @@
         },
         {
           "node_type": "item",
-          "title": "LiqPay Extension for Magento 2",
-          "description": "This extension adds LiqPay payment integration to Magento 2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LiqPay integration extension for Magento 2",
-            "homepage": null,
-            "id": 203619908,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2024-05-15T09:32:49Z",
-            "open_issues": 8,
-            "owner": "mcspronko",
-            "repo": "liqpay-magento2",
-            "stars": 23,
-            "topics": [
-              "liqpay-extension",
-              "liqpay-magento2",
-              "magento2",
-              "magento2-module",
-              "open-source-project"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "MageKey AdcPopup",
           "description": "Add to cart popup with upsell products",
           "children": [],
@@ -7545,6 +7518,33 @@
             "stars": 22,
             "topics": [
               "magento2-extension"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LiqPay Extension for Magento 2",
+          "description": "This extension adds LiqPay payment integration to Magento 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LiqPay integration extension for Magento 2",
+            "homepage": null,
+            "id": 203619908,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2024-05-15T09:32:49Z",
+            "open_issues": 8,
+            "owner": "mcspronko",
+            "repo": "liqpay-magento2",
+            "stars": 22,
+            "topics": [
+              "liqpay-extension",
+              "liqpay-magento2",
+              "magento2",
+              "magento2-module",
+              "open-source-project"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -7976,6 +7976,27 @@
         },
         {
           "node_type": "item",
+          "title": "MarkShust_Twilio",
+          "description": "Sends SMS messages in response to Magento events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Twilio module sends SMS messages in response to Magento events.",
+            "homepage": null,
+            "id": 170380145,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2020-08-13T07:37:35Z",
+            "open_issues": 0,
+            "owner": "markshust",
+            "repo": "magento2-module-twilio",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Automatic Persisted Queries",
           "description": "Apollo-compatible automatic persisted queries, to improve GraphQL network performance.",
           "children": [],
@@ -8177,27 +8198,6 @@
             "open_issues": 0,
             "owner": "swissup",
             "repo": "module-marketplace",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MarkShust_Twilio",
-          "description": "Sends SMS messages in response to Magento events.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Twilio module sends SMS messages in response to Magento events.",
-            "homepage": null,
-            "id": 170380145,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2020-08-13T07:37:35Z",
-            "open_issues": 0,
-            "owner": "markshust",
-            "repo": "magento2-module-twilio",
             "stars": 17,
             "topics": []
           },
@@ -10802,6 +10802,27 @@
         },
         {
           "node_type": "item",
+          "title": "Easy PageBuilder",
+          "description": "Declarative PageBuilder widget registration for Magento 2 using PHP attributes. No XML configuration needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1195590709,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-03-29T21:36:58Z",
+            "open_issues": 2,
+            "owner": "SushyDev",
+            "repo": "module-easy-page-builder",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Elgentos Kiyoh for Magento 2",
           "description": "Fetches site review scores from Kiyoh NL and stores them in the Magento database.",
           "children": [],
@@ -11001,27 +11022,6 @@
             "open_issues": 1,
             "owner": "DeployEcommerce",
             "repo": "module-admin-password-restrictions",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Easy PageBuilder",
-          "description": "Declarative PageBuilder widget registration for Magento 2 using PHP attributes. No XML configuration needed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1195590709,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2026-03-29T21:36:58Z",
-            "open_issues": 2,
-            "owner": "SushyDev",
-            "repo": "module-easy-page-builder",
             "stars": 2,
             "topics": []
           },
@@ -11432,11 +11432,11 @@
                 "id": 414967404,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T20:25:18Z",
+                "last_commit": "2026-09-14T12:27:41Z",
                 "open_issues": 9,
                 "owner": "magewirephp",
                 "repo": "magewire",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "magento2",
                   "magento2-module"
@@ -12378,10 +12378,10 @@
                 "language": "PHP",
                 "license": "OSL-3.0",
                 "last_commit": "2026-08-28T16:52:23Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "blog",
                   "ecommerce",
@@ -12662,8 +12662,8 @@
             "id": 176821265,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-02T09:32:32Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-14T18:05:37Z",
+            "open_issues": 9,
             "owner": "bitExpert",
             "repo": "phpstan-magento",
             "stars": 149,
@@ -12786,7 +12786,7 @@
             "id": 867651548,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T10:22:28Z",
+            "last_commit": "2026-09-15T07:44:29Z",
             "open_issues": 8,
             "owner": "elgentos",
             "repo": "magento2-playwright",
@@ -12828,7 +12828,7 @@
             "id": 206756590,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-11T07:22:19Z",
+            "last_commit": "2026-09-15T08:52:19Z",
             "open_issues": 0,
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
@@ -12849,7 +12849,7 @@
             "id": 206756590,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-11T07:22:19Z",
+            "last_commit": "2026-09-15T08:52:19Z",
             "open_issues": 0,
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
@@ -13113,7 +13113,7 @@
             "open_issues": 7,
             "owner": "magento",
             "repo": "pwa-studio",
-            "stars": 1083,
+            "stars": 1082,
             "topics": [
               "magento",
               "pwa",
@@ -13140,7 +13140,7 @@
             "open_issues": 7,
             "owner": "magento",
             "repo": "pwa-studio",
-            "stars": 1083,
+            "stars": 1082,
             "topics": [
               "magento",
               "pwa",
@@ -13379,7 +13379,7 @@
             "open_issues": 18,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11104,
+            "stars": 11105,
             "topics": [
               "deploy",
               "deployment",
@@ -13548,7 +13548,7 @@
                 "open_issues": 90,
                 "owner": "cytopia",
                 "repo": "devilbox",
-                "stars": 4470,
+                "stars": 4471,
                 "topics": [
                   "apache",
                   "devilbox",
@@ -13586,11 +13586,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T06:42:55Z",
-                "open_issues": 161,
+                "last_commit": "2026-09-15T06:33:59Z",
+                "open_issues": 163,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3841,
+                "stars": 3871,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -13631,7 +13631,7 @@
                 "open_issues": 2,
                 "owner": "markshust",
                 "repo": "docker-magento",
-                "stars": 2864,
+                "stars": 2863,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -13855,8 +13855,8 @@
                 "id": 422907007,
                 "language": "Dockerfile",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T11:36:10Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-14T12:47:36Z",
+                "open_issues": 6,
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
                 "stars": 43,
@@ -14165,7 +14165,7 @@
                 "open_issues": 7,
                 "owner": "weprovide",
                 "repo": "valet-plus",
-                "stars": 1548,
+                "stars": 1547,
                 "topics": [
                   "development-environment",
                   "php"
@@ -14594,7 +14594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:01:10.609Z",
+    "last_updated": "2026-09-15T09:31:43.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
