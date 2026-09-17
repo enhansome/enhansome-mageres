@@ -19,7 +19,7 @@
             "open_issues": 2187,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12191,
+            "stars": 12195,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -47,7 +47,7 @@
             "open_issues": 2187,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12191,
+            "stars": 12195,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -398,8 +398,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T21:32:29Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-16T21:32:32Z",
+                "open_issues": 21,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 925,
@@ -553,8 +553,8 @@
                 "id": 52349469,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-15T15:29:57Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-16T15:11:23Z",
+                "open_issues": 39,
                 "owner": "vaimo",
                 "repo": "composer-patches",
                 "stars": 304,
@@ -900,6 +900,36 @@
             },
             {
               "node_type": "item",
+              "title": "Database synchronizer for Magento 2",
+              "description": "A tool to download clean/stripped Magento databases over SSH, import and configure it for development purposes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.",
+                "homepage": "https://www.berrypath.eu",
+                "id": 384900364,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-07-29T08:37:54Z",
+                "open_issues": 2,
+                "owner": "jellesiderius",
+                "repo": "mage-db-sync",
+                "stars": 86,
+                "topics": [
+                  "development-environment",
+                  "import",
+                  "magento",
+                  "magento2",
+                  "magerun2",
+                  "php",
+                  "synchronization",
+                  "wordpress"
+                ]
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
               "title": "NodeJento",
               "description": "NodeJS implementation of the Magento 2 ORM without using legacy PHP",
               "children": [],
@@ -923,36 +953,6 @@
                   "nodejs",
                   "orm",
                   "sequelize"
-                ]
-              },
-              "first_seen": "2026-08-28T16:46:38.972Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Database synchronizer for Magento 2",
-              "description": "A tool to download clean/stripped Magento databases over SSH, import and configure it for development purposes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.",
-                "homepage": "https://www.berrypath.eu",
-                "id": 384900364,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-07-29T08:37:54Z",
-                "open_issues": 2,
-                "owner": "jellesiderius",
-                "repo": "mage-db-sync",
-                "stars": 85,
-                "topics": [
-                  "development-environment",
-                  "import",
-                  "magento",
-                  "magento2",
-                  "magerun2",
-                  "php",
-                  "synchronization",
-                  "wordpress"
                 ]
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
@@ -1372,7 +1372,7 @@
                 "open_issues": 2,
                 "owner": "michielgerritsen",
                 "repo": "magento2-model-generator",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
@@ -2067,6 +2067,27 @@
             },
             {
               "node_type": "item",
+              "title": "fast-di-compile (Rust Magento DI Compiler)",
+              "description": "A faster DI compiler written in Rust that should bring a 10x performance improvement.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rust-Powered di:compile to replace setup:di:compile for Magento, Mage-OS & Adobe Commerce",
+                "homepage": null,
+                "id": 1177633669,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-16T14:16:07Z",
+                "open_issues": 0,
+                "owner": "speedupmate",
+                "repo": "di-compiler",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
               "title": "DotEnv",
               "description": "Magento 2 component implementing Symfony dotenv to create environment variables",
               "children": [],
@@ -2088,27 +2109,6 @@
                   "magento2",
                   "symfony-dotenv"
                 ]
-              },
-              "first_seen": "2026-08-28T16:46:38.972Z"
-            },
-            {
-              "node_type": "item",
-              "title": "fast-di-compile (Rust Magento DI Compiler)",
-              "description": "A faster DI compiler written in Rust that should bring a 10x performance improvement.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rust-Powered di:compile to replace setup:di:compile for Magento, Mage-OS & Adobe Commerce",
-                "homepage": null,
-                "id": 1177633669,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-09-15T21:40:32Z",
-                "open_issues": 0,
-                "owner": "speedupmate",
-                "repo": "di-compiler",
-                "stars": 13,
-                "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
             },
@@ -2166,7 +2166,7 @@
                 "id": 1222812664,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-11T16:38:20Z",
+                "last_commit": "2026-09-17T06:01:47Z",
                 "open_issues": 0,
                 "owner": "angeo-dev",
                 "repo": "module-aeo-audit",
@@ -2855,8 +2855,8 @@
             "id": 160542079,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-08-26T07:41:34Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-17T07:25:40Z",
+            "open_issues": 11,
             "owner": "sansecio",
             "repo": "magevulndb",
             "stars": 221,
@@ -3127,7 +3127,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-03T15:20:01Z",
-            "open_issues": 132,
+            "open_issues": 133,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 802,
@@ -3507,7 +3507,7 @@
             "open_issues": 15,
             "owner": "magepal",
             "repo": "magento2-google-tag-manager",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "adobe-commerce",
               "adwords",
@@ -3827,7 +3827,7 @@
             "id": 48577460,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-03T08:43:51Z",
+            "last_commit": "2026-09-17T08:28:28Z",
             "open_issues": 30,
             "owner": "yireo",
             "repo": "Yireo_GoogleTagManager2",
@@ -4480,7 +4480,7 @@
             "open_issues": 5,
             "owner": "yireo",
             "repo": "Yireo_LinkPreload",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "magento2-module"
             ]
@@ -4778,6 +4778,27 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 Partytown",
+          "description": "This extension integrates Magento with Partytown, a lazy-loaded library to help relocate resource-intensive scripts into a web worker. It improves frontend performance by moving heavy scripts (like analytics or tracking) off the main thread, reducing blocking time and speeding up page rendering for a smoother user experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A module which adds Partytown to Magento 2",
+            "homepage": null,
+            "id": 881332387,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-12-19T15:28:30Z",
+            "open_issues": 2,
+            "owner": "rossmc",
+            "repo": "magento2-partytown",
+            "stars": 77,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Structured Data Module for Magento 2",
           "description": "This extension lets you quickly add structured data markup (Rich Snippets) to any Magento 2 store by setting a few configuration options.",
           "children": [],
@@ -4813,27 +4834,6 @@
             "open_issues": 11,
             "owner": "magespecialist",
             "repo": "m2-MSP_CmsImportExport",
-            "stars": 76,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 Partytown",
-          "description": "This extension integrates Magento with Partytown, a lazy-loaded library to help relocate resource-intensive scripts into a web worker. It improves frontend performance by moving heavy scripts (like analytics or tracking) off the main thread, reducing blocking time and speeding up page rendering for a smoother user experience.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A module which adds Partytown to Magento 2",
-            "homepage": null,
-            "id": 881332387,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-12-19T15:28:30Z",
-            "open_issues": 2,
-            "owner": "rossmc",
-            "repo": "magento2-partytown",
             "stars": 76,
             "topics": []
           },
@@ -4998,6 +4998,34 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 Message Queue Retry",
+          "description": "An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 RabbitMQ message queue retry module",
+            "homepage": "https://www.run-as-root.sh",
+            "id": 606031797,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2025-10-15T09:06:26Z",
+            "open_issues": 0,
+            "owner": "run-as-root",
+            "repo": "magento2-message-queue-retry",
+            "stars": 65,
+            "topics": [
+              "magento2",
+              "magento2-extension",
+              "magento2-extension-free",
+              "magento2-module",
+              "php",
+              "rabbitmq"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 - Admin Activity by Catgento",
           "description": "Easily track every admin activity, record login attempts and admin page visits, track field changes and give the ability to revert them.",
           "children": [],
@@ -5017,34 +5045,6 @@
               "magento2",
               "magento2-extension",
               "magento2-module"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 Message Queue Retry",
-          "description": "An extension that allows processing the same queue message more than once, utilizing RabbitMQ's dead letter exchange feature.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 RabbitMQ message queue retry module",
-            "homepage": "https://www.run-as-root.sh",
-            "id": 606031797,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2025-10-15T09:06:26Z",
-            "open_issues": 0,
-            "owner": "run-as-root",
-            "repo": "magento2-message-queue-retry",
-            "stars": 64,
-            "topics": [
-              "magento2",
-              "magento2-extension",
-              "magento2-extension-free",
-              "magento2-module",
-              "php",
-              "rabbitmq"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -5161,6 +5161,41 @@
         },
         {
           "node_type": "item",
+          "title": "Catalog Images Lazy Load",
+          "description": "Improves page loading time and Google Page Ranking by only loading product images as the user scrolls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Improve the load time of your Magento 2 categories pages by loading your images on demand with our Lazy Load  Extension",
+            "homepage": "https://www.magepal.com",
+            "id": 97182564,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-05-15T16:56:27Z",
+            "open_issues": 1,
+            "owner": "magepal",
+            "repo": "magento2-catalog-lazy-load",
+            "stars": 57,
+            "topics": [
+              "adobe-commerce",
+              "adobe-commerce-cloud",
+              "catalog-images-lazy",
+              "lazy-loading",
+              "lazyload",
+              "lazyload-images",
+              "lazyloading",
+              "magento",
+              "magento-extension",
+              "magento2",
+              "magento2-extension",
+              "magento2-module",
+              "magepal"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 Delete Orders extension Free",
           "description": "Helps admins completely remove unnecessary orders, invoices, shipments and credit memos which are arised during testing process. This helps simplify order management and get these arranged neater.",
           "children": [],
@@ -5189,6 +5224,37 @@
         },
         {
           "node_type": "item",
+          "title": "Magento Cloudflare Turnstile",
+          "description": "The module allows Turnstile (Cloudflare's smart CAPTCHA alternative) to protect your Magento OpenSource or Adobe Commerce forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Protect your Magento store from spam messages and spam user accounts with Cloudflare Turnstile ",
+            "homepage": "https://pixel-open.org/",
+            "id": 561783968,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-01-09T16:59:48Z",
+            "open_issues": 7,
+            "owner": "Pixel-Open",
+            "repo": "magento-cloudflare-turnstile",
+            "stars": 57,
+            "topics": [
+              "adobe-commerce",
+              "captcha",
+              "cloudflare",
+              "form",
+              "magento",
+              "magento-2",
+              "magento-module",
+              "security",
+              "turnstile"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "MarkShust_Messages",
           "description": "This extensions allows us to send success, notice, warning, and error messages with embedded HTML.",
           "children": [],
@@ -5205,41 +5271,6 @@
             "repo": "magento2-module-messages",
             "stars": 57,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Catalog Images Lazy Load",
-          "description": "Improves page loading time and Google Page Ranking by only loading product images as the user scrolls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Improve the load time of your Magento 2 categories pages by loading your images on demand with our Lazy Load  Extension",
-            "homepage": "https://www.magepal.com",
-            "id": 97182564,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2026-05-15T16:56:27Z",
-            "open_issues": 1,
-            "owner": "magepal",
-            "repo": "magento2-catalog-lazy-load",
-            "stars": 56,
-            "topics": [
-              "adobe-commerce",
-              "adobe-commerce-cloud",
-              "catalog-images-lazy",
-              "lazy-loading",
-              "lazyload",
-              "lazyload-images",
-              "lazyloading",
-              "magento",
-              "magento-extension",
-              "magento2",
-              "magento2-extension",
-              "magento2-module",
-              "magepal"
-            ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -5294,31 +5325,29 @@
         },
         {
           "node_type": "item",
-          "title": "Magento Cloudflare Turnstile",
-          "description": "The module allows Turnstile (Cloudflare's smart CAPTCHA alternative) to protect your Magento OpenSource or Adobe Commerce forms.",
+          "title": "Custom Product Relation Sample Extension",
+          "description": "This extension creates a new product accessory relationship in addition to the default ones.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Protect your Magento store from spam messages and spam user accounts with Cloudflare Turnstile ",
-            "homepage": "https://pixel-open.org/",
-            "id": 561783968,
+            "description": "Custom Product Relation for Magento 2.2.x and 2.3.x sample extension ",
+            "homepage": "https://www.magepal.com",
+            "id": 158561972,
             "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-01-09T16:59:48Z",
-            "open_issues": 7,
-            "owner": "Pixel-Open",
-            "repo": "magento-cloudflare-turnstile",
-            "stars": 56,
+            "license": null,
+            "last_commit": "2025-04-16T20:23:26Z",
+            "open_issues": 2,
+            "owner": "magepal",
+            "repo": "magento2-link-product",
+            "stars": 55,
             "topics": [
-              "adobe-commerce",
-              "captcha",
-              "cloudflare",
-              "form",
-              "magento",
+              "custom-module",
               "magento-2",
-              "magento-module",
-              "security",
-              "turnstile"
+              "magento-2-extension",
+              "magento2",
+              "magento2-extension",
+              "magento2-extension-free",
+              "magento2-module"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -5347,35 +5376,6 @@
               "meilisearch",
               "search",
               "search-engine"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Custom Product Relation Sample Extension",
-          "description": "This extension creates a new product accessory relationship in addition to the default ones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Custom Product Relation for Magento 2.2.x and 2.3.x sample extension ",
-            "homepage": "https://www.magepal.com",
-            "id": 158561972,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2025-04-16T20:23:26Z",
-            "open_issues": 2,
-            "owner": "magepal",
-            "repo": "magento2-link-product",
-            "stars": 54,
-            "topics": [
-              "custom-module",
-              "magento-2",
-              "magento-2-extension",
-              "magento2",
-              "magento2-extension",
-              "magento2-extension-free",
-              "magento2-module"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -7640,6 +7640,27 @@
         },
         {
           "node_type": "item",
+          "title": "Elgentos Remove Duplicate Product images in Magento 2",
+          "description": "This extension allows you to find duplicate product images from your product list and easily remove them by running a command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 extension to remove duplicate product images",
+            "homepage": null,
+            "id": 824456003,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2024-08-08T09:47:44Z",
+            "open_issues": 0,
+            "owner": "elgentos",
+            "repo": "magento2-product-duplicate-images-remove",
+            "stars": 21,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magehook",
           "description": "This extension adds an abstraction layer to create and dispatch custom webhooks for Magento 2.",
           "children": [],
@@ -7759,27 +7780,6 @@
         },
         {
           "node_type": "item",
-          "title": "Elgentos Remove Duplicate Product images in Magento 2",
-          "description": "This extension allows you to find duplicate product images from your product list and easily remove them by running a command.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 extension to remove duplicate product images",
-            "homepage": null,
-            "id": 824456003,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2024-08-08T09:47:44Z",
-            "open_issues": 0,
-            "owner": "elgentos",
-            "repo": "magento2-product-duplicate-images-remove",
-            "stars": 20,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Store Entity Creator",
           "description": "An extension that adds a CLI command to quickly create store entities (websites, stores, and store views).",
           "children": [],
@@ -7890,7 +7890,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-06-17T07:54:10Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "iMi-digital",
             "repo": "magento2-friendly-captcha",
             "stars": 19,
@@ -8131,7 +8131,7 @@
             "id": 185574869,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T07:26:23Z",
+            "last_commit": "2026-09-17T09:28:15Z",
             "open_issues": 3,
             "owner": "EmicoEcommerce",
             "repo": "Magento2AttributeLanding",
@@ -8520,8 +8520,8 @@
             "id": 884175504,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-07-16T15:25:32Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-17T08:08:45Z",
+            "open_issues": 4,
             "owner": "SamJUK",
             "repo": "m2-module-cache-debounce",
             "stars": 15,
@@ -8622,8 +8622,8 @@
             "id": 639479577,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-17T19:29:53Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-16T16:38:10Z",
+            "open_issues": 1,
             "owner": "ParadoxLabs-Inc",
             "repo": "authnetcim",
             "stars": 14,
@@ -8651,8 +8651,8 @@
             "id": 639479577,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-17T19:29:53Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-16T16:38:10Z",
+            "open_issues": 1,
             "owner": "ParadoxLabs-Inc",
             "repo": "authnetcim",
             "stars": 14,
@@ -9139,7 +9139,7 @@
             "id": 122570551,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-05-29T15:24:11Z",
+            "last_commit": "2026-09-16T09:40:09Z",
             "open_issues": 0,
             "owner": "shipperhq",
             "repo": "module-shipping-tracker",
@@ -10554,7 +10554,7 @@
             "id": 639481661,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-12T17:43:10Z",
+            "last_commit": "2026-09-16T16:38:15Z",
             "open_issues": 0,
             "owner": "ParadoxLabs-Inc",
             "repo": "cybersource",
@@ -11432,8 +11432,8 @@
                 "id": 414967404,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T13:03:34Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-17T08:29:51Z",
+                "open_issues": 10,
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 264,
@@ -12216,7 +12216,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-04-19T21:40:27Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "mage-os-lab",
                 "repo": "module-catalog-data-ai",
                 "stars": 40,
@@ -12445,7 +12445,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-08-10T13:35:39Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "mage-os",
                 "repo": "module-pagebuilder-template-import-export",
                 "stars": 20,
@@ -12828,7 +12828,7 @@
             "id": 206756590,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-15T08:52:19Z",
+            "last_commit": "2026-09-17T09:33:28Z",
             "open_issues": 0,
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
@@ -12849,7 +12849,7 @@
             "id": 206756590,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-15T08:52:19Z",
+            "last_commit": "2026-09-17T09:33:28Z",
             "open_issues": 0,
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
@@ -13239,7 +13239,7 @@
             "open_issues": 5,
             "owner": "monsoonconsulting",
             "repo": "magento2-pwa",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -13379,7 +13379,7 @@
             "open_issues": 18,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11105,
+            "stars": 11104,
             "topics": [
               "deploy",
               "deployment",
@@ -13586,11 +13586,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T06:33:21Z",
-                "open_issues": 166,
+                "last_commit": "2026-09-17T06:33:24Z",
+                "open_issues": 172,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3878,
+                "stars": 3884,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -13885,7 +13885,7 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-11T21:58:42Z",
+                "last_commit": "2026-09-16T13:19:36Z",
                 "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
@@ -14594,7 +14594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:24:00.997Z",
+    "last_updated": "2026-09-17T09:33:52.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
