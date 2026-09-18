@@ -15,11 +15,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-15T18:27:28Z",
-            "open_issues": 2187,
+            "last_commit": "2026-09-17T14:34:07Z",
+            "open_issues": 2191,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12195,
+            "stars": 12198,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -43,11 +43,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-15T18:27:28Z",
-            "open_issues": 2187,
+            "last_commit": "2026-09-17T14:34:07Z",
+            "open_issues": 2191,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12195,
+            "stars": 12198,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -398,8 +398,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T21:32:32Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-17T12:55:15Z",
+                "open_issues": 17,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 925,
@@ -445,7 +445,7 @@
                 "language": "Java",
                 "license": "OSL-3.0",
                 "last_commit": "2026-09-07T11:52:38Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "magento",
                 "repo": "magento2-phpstorm-plugin",
                 "stars": 463,
@@ -1368,7 +1368,7 @@
                 "id": 362601665,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-14T00:08:23Z",
+                "last_commit": "2026-09-18T03:02:32Z",
                 "open_issues": 2,
                 "owner": "michielgerritsen",
                 "repo": "magento2-model-generator",
@@ -1548,7 +1548,7 @@
               "description": "A module that uses Terraform Cloud to deploy Magento on the Amazon Web Services (AWS) Cloud.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Adobe Magento",
                 "homepage": null,
                 "id": 406115080,
@@ -1625,7 +1625,7 @@
                 "open_issues": 0,
                 "owner": "Inchoo",
                 "repo": "magento-bricklayer",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
@@ -2166,7 +2166,7 @@
                 "id": 1222812664,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-17T06:01:47Z",
+                "last_commit": "2026-09-17T18:20:37Z",
                 "open_issues": 0,
                 "owner": "angeo-dev",
                 "repo": "module-aeo-audit",
@@ -2856,7 +2856,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-09-17T07:25:40Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "sansecio",
             "repo": "magevulndb",
             "stars": 221,
@@ -3130,7 +3130,7 @@
             "open_issues": 133,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
-            "stars": 802,
+            "stars": 803,
             "topics": [
               "autocomplete",
               "elasticsearch",
@@ -3161,7 +3161,7 @@
             "open_issues": 7,
             "owner": "vpietri",
             "repo": "magento2-developer-quickdevbar",
-            "stars": 576,
+            "stars": 575,
             "topics": [
               "developer-toolbar",
               "developer-tools",
@@ -3302,7 +3302,7 @@
             "open_issues": 32,
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
-            "stars": 332,
+            "stars": 331,
             "topics": [
               "extenstions",
               "hacktoberfest",
@@ -3597,7 +3597,7 @@
             "open_issues": 19,
             "owner": "yireo",
             "repo": "Yireo_Webp2",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "magento2-module"
             ]
@@ -3780,7 +3780,7 @@
             "open_issues": 5,
             "owner": "boldcommerce",
             "repo": "magento2-ordercomments",
-            "stars": 170,
+            "stars": 169,
             "topics": [
               "magento2"
             ]
@@ -3827,7 +3827,7 @@
             "id": 48577460,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-17T08:28:28Z",
+            "last_commit": "2026-09-18T04:00:01Z",
             "open_issues": 30,
             "owner": "yireo",
             "repo": "Yireo_GoogleTagManager2",
@@ -6784,8 +6784,8 @@
             "id": 961740656,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-06T09:22:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-18T07:43:20Z",
+            "open_issues": 1,
             "owner": "mageprince",
             "repo": "magento2-mage-ai",
             "stars": 28,
@@ -6878,6 +6878,35 @@
             "repo": "perspective-partytown",
             "stars": 28,
             "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Siteation_DebugBar",
+          "description": "A debug bar for Magento 2 built for developers and coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Developer debug bar for Magento 2, with findings and an MCP server",
+            "homepage": "https://siteation.dev",
+            "id": 1338543536,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-12T14:44:24Z",
+            "open_issues": 1,
+            "owner": "Siteation",
+            "repo": "magento2-debugbar",
+            "stars": 28,
+            "topics": [
+              "debugbar",
+              "debugging-tool",
+              "hyva-compatible",
+              "magento2-module",
+              "magewire",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -6989,35 +7018,6 @@
             "repo": "m2-catalog-generator",
             "stars": 27,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Siteation_DebugBar",
-          "description": "A debug bar for Magento 2 built for developers and coding agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Developer debug bar for Magento 2, with findings and an MCP server",
-            "homepage": "https://siteation.dev",
-            "id": 1338543536,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-09-12T14:44:24Z",
-            "open_issues": 1,
-            "owner": "Siteation",
-            "repo": "magento2-debugbar",
-            "stars": 27,
-            "topics": [
-              "debugbar",
-              "debugging-tool",
-              "hyva-compatible",
-              "magento2-module",
-              "magewire",
-              "mcp",
-              "mcp-server"
-            ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -8097,30 +8097,6 @@
         },
         {
           "node_type": "item",
-          "title": "Galactic Labs - Customer Group Payment Filters",
-          "description": "Magento 2 extension to exclude payment methods for selected customer groups.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 Customer Group Payment Option Filter",
-            "homepage": null,
-            "id": 114507967,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2020-10-15T17:24:48Z",
-            "open_issues": 3,
-            "owner": "galacticlabs",
-            "repo": "customer-group-payment-filters",
-            "stars": 17,
-            "topics": [
-              "magento2",
-              "magento2-module"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Magento 2 Attribute Landing",
           "description": "This extension lets you create landing pages based on predefined filters and categories. You can assign them a custom URL and rich text descriptions for SEO purposes. The landing pages will also be published in the sitemap.",
           "children": [],
@@ -8352,6 +8328,30 @@
         },
         {
           "node_type": "item",
+          "title": "Galactic Labs - Customer Group Payment Filters",
+          "description": "Magento 2 extension to exclude payment methods for selected customer groups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 Customer Group Payment Option Filter",
+            "homepage": null,
+            "id": 114507967,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2020-10-15T17:24:48Z",
+            "open_issues": 3,
+            "owner": "galacticlabs",
+            "repo": "customer-group-payment-filters",
+            "stars": 16,
+            "topics": [
+              "magento2",
+              "magento2-module"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Hryvinskyi Email Template Editor for Magento 2",
           "description": "A professional, feature-rich email template editor for Magento 2 that replaces the default email template management with a modern, real-time editing experience.",
           "children": [],
@@ -8520,8 +8520,8 @@
             "id": 884175504,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-17T08:08:45Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-17T21:51:50Z",
+            "open_issues": 2,
             "owner": "SamJUK",
             "repo": "m2-module-cache-debounce",
             "stars": 15,
@@ -9139,7 +9139,7 @@
             "id": 122570551,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-16T09:40:09Z",
+            "last_commit": "2026-09-18T08:54:24Z",
             "open_issues": 0,
             "owner": "shipperhq",
             "repo": "module-shipping-tracker",
@@ -9165,6 +9165,27 @@
             "owner": "zepgram",
             "repo": "module-rest",
             "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ai Dashboard",
+          "description": "AI-powered analytics dashboard for Magento 2. Replaces the stock admin dashboard with KPI cards, charts, and an embedded store assistant. All built from data computed on cron and served from cache.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1190825680,
+            "language": "PHP",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-25T00:44:38Z",
+            "open_issues": 0,
+            "owner": "gabrielgts",
+            "repo": "module-ai-dashboard",
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -9333,8 +9354,8 @@
             "id": 619501627,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-08-26T07:59:51Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-17T13:16:37Z",
+            "open_issues": 0,
             "owner": "mollie",
             "repo": "magento2-hyva-checkout",
             "stars": 11,
@@ -9368,27 +9389,6 @@
               "magento2-module",
               "menus"
             ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ai Dashboard",
-          "description": "AI-powered analytics dashboard for Magento 2. Replaces the stock admin dashboard with KPI cards, charts, and an embedded store assistant. All built from data computed on cron and served from cache.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1190825680,
-            "language": "PHP",
-            "license": "NOASSERTION",
-            "last_commit": "2026-04-25T00:44:38Z",
-            "open_issues": 0,
-            "owner": "gabrielgts",
-            "repo": "module-ai-dashboard",
-            "stars": 10,
-            "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -10681,7 +10681,7 @@
             "id": 527893556,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T14:08:29Z",
+            "last_commit": "2026-09-17T12:49:21Z",
             "open_issues": 9,
             "owner": "EmicoEcommerce",
             "repo": "Magento2Tweakwise",
@@ -11693,8 +11693,8 @@
                 "id": 619501627,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-08-26T07:59:51Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-17T13:16:37Z",
+                "open_issues": 0,
                 "owner": "mollie",
                 "repo": "magento2-hyva-checkout",
                 "stars": 11,
@@ -12755,8 +12755,8 @@
             "id": 507325788,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-15T13:32:04Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-17T13:12:50Z",
+            "open_issues": 10,
             "owner": "graycoreio",
             "repo": "github-actions-magento2",
             "stars": 72,
@@ -13109,8 +13109,8 @@
             "id": 137249745,
             "language": "JavaScript",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-04T05:26:54Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-17T09:45:28Z",
+            "open_issues": 8,
             "owner": "magento",
             "repo": "pwa-studio",
             "stars": 1082,
@@ -13136,8 +13136,8 @@
             "id": 137249745,
             "language": "JavaScript",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-04T05:26:54Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-17T09:45:28Z",
+            "open_issues": 8,
             "owner": "magento",
             "repo": "pwa-studio",
             "stars": 1082,
@@ -13379,7 +13379,7 @@
             "open_issues": 18,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11104,
+            "stars": 11103,
             "topics": [
               "deploy",
               "deployment",
@@ -13586,11 +13586,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T06:33:24Z",
-                "open_issues": 172,
+                "last_commit": "2026-09-18T06:32:07Z",
+                "open_issues": 174,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3884,
+                "stars": 3888,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -13982,7 +13982,7 @@
                 "open_issues": 5,
                 "owner": "cmtickle",
                 "repo": "docker-stack",
-                "stars": 15,
+                "stars": 14,
                 "topics": [
                   "bash",
                   "docker",
@@ -14374,7 +14374,7 @@
                 "open_issues": 50,
                 "owner": "paliarush",
                 "repo": "magento2-vagrant-for-developers",
-                "stars": 440,
+                "stars": 439,
                 "topics": [
                   "devbox",
                   "developer-tools",
@@ -14594,7 +14594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:33:52.985Z",
+    "last_updated": "2026-09-18T09:06:16.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
