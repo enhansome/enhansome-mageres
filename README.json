@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-17T14:34:07Z",
-            "open_issues": 2192,
+            "open_issues": 2197,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12198,
@@ -44,7 +44,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-17T14:34:07Z",
-            "open_issues": 2192,
+            "open_issues": 2197,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12198,
@@ -13071,7 +13071,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10943,
+            "stars": 10944,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13586,11 +13586,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T06:29:03Z",
-                "open_issues": 175,
+                "last_commit": "2026-09-20T06:29:22Z",
+                "open_issues": 176,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3891,
+                "stars": 3892,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -14594,7 +14594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:53:13.709Z",
+    "last_updated": "2026-09-20T09:22:56.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14603,10 +14603,10 @@
       "language": "PHP",
       "license": "CC0-1.0",
       "last_commit": "2026-09-07T07:32:28Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "aleron75",
       "repo": "mageres",
-      "stars": 1016,
+      "stars": 1017,
       "topics": [
         "awesome-list",
         "magento",
