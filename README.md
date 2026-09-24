@@ -78,8 +78,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Official Resources
 
-* [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) ⭐ 12,199 | 🐛 2,203 | 🌐 PHP | 📅 2026-09-21 - All you have to know to start contributing to Magento.
-* [Magento 2 code repository](https://github.com/magento/magento2) ⭐ 12,199 | 🐛 2,203 | 🌐 PHP | 📅 2026-09-21 - Official Magento 2 GitHub repository
+* [Beginner's Guide to Contribution](https://github.com/magento/magento2/wiki/Getting-Started) ⭐ 12,199 | 🐛 2,209 | 🌐 PHP | 📅 2026-09-21 - All you have to know to start contributing to Magento.
+* [Magento 2 code repository](https://github.com/magento/magento2) ⭐ 12,199 | 🐛 2,209 | 🌐 PHP | 📅 2026-09-21 - Official Magento 2 GitHub repository
 * [Magento Translation Projects](https://github.com/magento-l10n/i18n) ⭐ 4 | 🐛 2 | 📅 2020-12-14 - This is a home repository for all activities related to translation of Magento itself including all available editions and extensions developed by Magento, an Adobe Company and 3rd party Magento components.
 * [Adobe Commerce Documentation](https://experienceleague.adobe.com/docs/commerce.html) - Adobe Commerce product and technical documentation home page.
 * [Adobe Commerce Performance Best Practices](https://experienceleague.adobe.com/docs/commerce-operations/performance-best-practices/overview.html) - Recommendations and instructions for optimizing the performance of your production deployment.
@@ -91,7 +91,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Other Resources
 
-* [Awesome Magento 2](https://github.com/run-as-root/awesome-magento2/) ⭐ 1,176 | 🐛 6 | 🌐 PHP | 📅 2026-09-21 - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
+* [Awesome Magento 2](https://github.com/run-as-root/awesome-magento2/) ⭐ 1,177 | 🐛 6 | 🌐 PHP | 📅 2026-09-21 - A curated list of awesome Magento 2 Extensions & Resources by David Lambauer
 * [Community Resources](https://devdocs.magento.com/community/resources/resources.html) - Collection of resources links to blog posts, podcasts, presentations, and books separated into popular topics.
 * [ExtDN Resources](https://extdn.org/resources/) - Resources that help improve the ecosystem of Magento extensions.
 * [Fooman Magento Mirror](https://repo-magento-mirror.fooman.co.nz/) - An alternative authentication free Magento 2 mirror
@@ -166,8 +166,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Free
 
-* [Composer Patches](https://github.com/cweagans/composer-patches) ⭐ 1,729 | 🐛 57 | 🌐 PHP | 📅 2026-08-31 - Simple patches plugin for Composer - usage guide: <https://devdocs.magento.com/guides/v2.4/comp-mgr/patching.html#custom-patches>
-* [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) ⭐ 926 | 🐛 19 | 🌐 PHP | 📅 2026-09-22 - The swiss army knife for Magento 2 developers
+* [Composer Patches](https://github.com/cweagans/composer-patches) ⭐ 1,731 | 🐛 57 | 🌐 PHP | 📅 2026-08-31 - Simple patches plugin for Composer - usage guide: <https://devdocs.magento.com/guides/v2.4/comp-mgr/patching.html#custom-patches>
+* [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) ⭐ 926 | 🐛 21 | 🌐 PHP | 📅 2026-09-22 - The swiss army knife for Magento 2 developers
 * [Pestle by Alan Storm](https://github.com/astorm/pestle) ⭐ 531 | 🐛 184 | 🌐 PHP | 📅 2023-04-19 - A collection of command line scripts for Magento 2 code generation  and a PHP module system for organizing command line scripts.
 * [PhpStorm Magento 2 Plugin](https://github.com/magento/magento2-phpstorm-plugin) ⭐ 463 | 🐛 61 | 🌐 Java | 📅 2026-09-23 - Magento PhpStorm plugin, created to improve life-work balance while working with Magento 2
 * [Divante Anonymizer](https://github.com/DivanteLtd/anonymizer) ⭐ 380 | 🐛 17 | 🌐 Ruby | 📅 2022-06-17 - Universal tool to create anonymized DBs
@@ -309,7 +309,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Regenerate URL rewrites extension](https://github.com/olegkoval/magento2-regenerate_url_rewrites) ⭐ 444 | 🐛 10 | 🌐 PHP | 📅 2026-08-27 - This extension adds a CLI command that allows the regeneration of URL rewrites of products and categories in all stores or a specific store.
 * [Magento 2 Frontools](https://github.com/SnowdogApps/magento2-frontools) ⭐ 422 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-08 - Set of front-end tools for Magento 2, based on Gulp.js
 * [Magento 2 Cron Job Manager](https://github.com/Ethan3600/magento2-CronjobManager) ⭐ 365 | 🐛 13 | 🌐 PHP | 📅 2026-07-21 - A Cron Job Manager Module by Ethan Yehuda
-* [Magento 2 Menu](https://github.com/SnowdogApps/magento2-menu) ⭐ 331 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-21 - Provides powerful menu editor to replace category based menus in Magento 2.
+* [Magento 2 Menu](https://github.com/SnowdogApps/magento2-menu) ⭐ 331 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-23 - Provides powerful menu editor to replace category based menus in Magento 2.
 * [Magento 2 SMTP by MagePal](https://github.com/magepal/magento2-gmail-smtp-app) ⭐ 327 | 🐛 7 | 🌐 PHP | 📅 2026-05-13 - Configure Magento 2 to send email using custom SMTP server, Gmail, Amazon SES, Office365 and other
 * [Magento 2 SMTP](https://github.com/mageplaza/magento-2-smtp) ⭐ 304 | 🐛 56 | 🌐 PHP | 📅 2026-09-22 - This extension allows custom SMTP server configuration to transmit email messages.
 * [Mgt Developer Toolbar for Magento 2](https://github.com/mgtcommerce/Mgt_Developertoolbar) ⭐ 304 | 🐛 2 | 🌐 PHP | 📅 2023-12-11 - A dev toolbar that shows all important information for performance optimization and Magento development.
@@ -328,7 +328,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [AvS\_ScopeHint for Magento 2](https://github.com/avstudnitz/AvS_ScopeHint2) ⭐ 172 | 🐛 7 | 🌐 PHP | 📅 2026-07-13 - This extension displays a hint when a configuration value is overwritten on a lower scope (website or store view).
 * [Add an order comments field in the default checkout for Magento 2](https://github.com/boldcommerce/magento2-ordercomments) ⭐ 169 | 🐛 5 | 🌐 PHP | 📅 2023-11-03 - Add an order comments field in the default checkout for Magento 2.
 * [BitExpert\_ForceCustomerLogin](https://github.com/bitExpert/magento2-force-login) ⭐ 168 | 🐛 5 | 🌐 PHP | 📅 2026-08-17 - Magento 2 module that forces customer login to see website pages.
-* [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) ⭐ 168 | 🐛 30 | 🌐 PHP | 📅 2026-09-22 - Add Google Tag Manager to Magento2
+* [Yireo GoogleTagManager2](https://github.com/yireo/Yireo_GoogleTagManager2) ⭐ 168 | 🐛 30 | 🌐 PHP | 📅 2026-09-23 - Add Google Tag Manager to Magento2
 * [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) ⭐ 165 | 🐛 0 | 🌐 PHP | 📅 2025-04-16 - Merge all 3rd party extensions menu items in a common menu item
 * [ConfigImportExport](https://github.com/semaio/Magento2-ConfigImportExport) ⭐ 165 | 🐛 2 | 🌐 PHP | 📅 2026-08-25 - This extension provides CLI commands for Magento 2 to import/export system configuration data.
 * [MageMojo cron project](https://github.com/magemojo/m2-ce-cron) ⭐ 163 | 🐛 20 | 🌐 PHP | 📅 2025-09-09 - This module for Magento 2 overrides base Magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution.
@@ -502,7 +502,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Basecom Speculation Rules Toolbox](https://github.com/basecom/magento2-speculation-rules-toolbox) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2025-10-07 - This module provides extensive functionality for utilizing the Speculation Rules API that can vastly improve the core web vitals of a website.
 * [Customer Group Payments](https://github.com/smaex/customer-group-payments) ⚠️ Archived - Restricts payment methods to specific customer groups in Magento 2.
 * [Elgentos Improved Customer Address Validation](https://github.com/elgentos/magento2-improved-customer-address-validation) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2025-09-15
-* [Magento 2 Attribute Landing](https://github.com/EmicoEcommerce/Magento2AttributeLanding) ⭐ 17 | 🐛 3 | 🌐 PHP | 📅 2026-09-18 - This extension lets you create landing pages based on predefined filters and categories. You can assign them a custom URL and rich text descriptions for SEO purposes. The landing pages will also be published in the sitemap.
+* [Magento 2 Attribute Landing](https://github.com/EmicoEcommerce/Magento2AttributeLanding) ⭐ 17 | 🐛 3 | 🌐 PHP | 📅 2026-09-24 - This extension lets you create landing pages based on predefined filters and categories. You can assign them a custom URL and rich text descriptions for SEO purposes. The landing pages will also be published in the sitemap.
 * [Magento 2 Cache Log Module](https://github.com/develodesign/magento2-module-cachelog) ⭐ 17 | 🐛 2 | 🌐 PHP | 📅 2025-12-15 - This module provides a logging mechanism for cache invalidation and cleaning events in Magento 2. It helps developers and administrators track when, how, and from where the cache is being flushed, which is invaluable for debugging complex caching issues, especially those related to Varnish and third-party integrations.
 * [MageQuest\_PpcLandingPages](https://github.com/MageQuest/magento2-module-ppc-landing-pages) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2022-08-14 - Customise your PDP (Product Detail Pages) for PPC (Pay Per Click) visitors.
 * [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2025-02-27 - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals and "Parent Products" tab.
@@ -529,7 +529,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Content Fuzzyfyr Module for Magento 2](https://github.com/hivecommerce/magento2-content-fuzzyfyr) ⚠️ Archived - The Content Fuzzyfyr module for Magento2 replaces real content with dummy content. This is for development purposes to prepare test data that matches GDPR restrictions.
 * [Magento 2 Debug Helper](https://github.com/shkoliar/magento-debug-helper) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2020-01-14 - Automatic breakpoints on PhpStorm based on search parameters.
 * [MarkShust\_SpecialRouter](https://github.com/markshust/magento2-module-specialrouter) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2026-04-27 - This extension provides the ability to use special characters in controller or action names.
-* [Agentic Commerce Protocol for Magento 2](https://github.com/run-as-root/ACP-for-Magento-2) ⭐ 13 | 🐛 5 | 🌐 PHP | 📅 2025-10-10 - This is a Magento 2 extension that enables ChatGPT purchases directly from your store using the Agentic Commerce Protocol (ACP). This open standard allows conversations between buyers, their AI agents, and businesses to complete purchases.
+* [Agentic Commerce Protocol for Magento 2](https://github.com/run-as-root/ACP-for-Magento-2) ⭐ 13 | 🐛 4 | 🌐 PHP | 📅 2025-10-10 - This is a Magento 2 extension that enables ChatGPT purchases directly from your store using the Agentic Commerce Protocol (ACP). This open standard allows conversations between buyers, their AI agents, and businesses to complete purchases.
 * [Devall\_Wholesale](https://github.com/developersalliance/module-wholesale) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-21 - This extension allows the showcase of all simple products in a table grid view, facilitating customers' selection of all their desired items at once.
 * [Hypershop Spike Performance](https://github.com/hypershopbv/Hypershop_SpikePerformance) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2023-10-26 - This extension prevents cache flushes during peak traffic periods, ensuring optimal performance. It offers an optional cron job to reindex and flush caches daily at 3:00 AM.
 * [Inchoo SEO Manager](https://github.com/Inchoo/seo-manager/) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2026-02-01 - A powerful Magento 2 extension that incorporates a wide range of SEO tools designed to enhance your website’s search engine optimization.
@@ -562,7 +562,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Check IP](https://github.com/olivertar/m2_checkip) ⭐ 10 | 🐛 0 | 🌐 Less | 📅 2025-11-23 - This extension provides a simple way to check and display the server’s current external IP address from the admin panel. It’s mainly a developer and maintenance utility, helpful in troubleshooting hosting, networking, or configuration issues where knowing the store’s public IP is necessary.
 * [Magento 2 DataPatchCreator - Compatibility for MarkShust SimpleData](https://github.com/enanobots/m2-datapatchcreator-simpledata) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2026-01-31 - A compatibility extension to use with Magento 2 DataPatchCreator and MarkShust\_SimpleData extensions.
 * [Magento 2 FREE SEO Suite](https://github.com/MagePsycho/magento2-seo-suite) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2023-02-12 - This extension optimizes SEO strategies for your e-commerce store.
-* [Magento 2 GraphQL Introspection Cache](https://github.com/graycoreio/magento2-graphql-introspection-cache) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2026-09-02 - This module allows you to use the same mechanism that is used for caching regular GraphQL resolvers, for introspection queries. This helps minimize the number of times Magento is bootstrapped.
+* [Magento 2 GraphQL Introspection Cache](https://github.com/graycoreio/magento2-graphql-introspection-cache) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2026-09-23 - This module allows you to use the same mechanism that is used for caching regular GraphQL resolvers, for introspection queries. This helps minimize the number of times Magento is bootstrapped.
 * [Magento 2 Snowflake](https://github.com/opengento/magento2-snowflake) ⭐ 10 | 🐛 5 | 🌐 PHP | 📅 2024-11-10 - This extension adds a snow effect to your website, enhancing the user experience during winter seasons. It can display snowflakes continuously or based on the visitor's local weather conditions, providing a festive and engaging atmosphere for your online store.
 * [Mooore Wordpress Integration Cms](https://github.com/mooore-digital/magento2-module-wordpress-integration-cms) ⭐ 10 | 🐛 4 | 🌐 PHP | 📅 2026-03-19 - A module for integrating WordPress pages into Magento 2 frontend.
 * [OpenGento Magento2 Registration Plugin](https://github.com/opengento/magento2-registration-plugin) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2022-03-24 - A Composer plugin that adds a global registration.php that replaces the default glob search performed for each request to discover the components not installed from composer.
@@ -652,7 +652,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ### Hyvä
 
-* [Magewire](https://github.com/magewirephp/magewire) ⭐ 263 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-22 - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
+* [Magewire](https://github.com/magewirephp/magewire) ⭐ 263 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-23 - A Hyva Themes first Magento 2 extension to make it fun and easy to build modern, reactive and dynamic interfaces.
 * [Hyvä Admin](https://github.com/hyva-themes/magento2-hyva-admin) ⭐ 177 | 🐛 34 | 🌐 CSS | 📅 2026-06-26 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast, without usage of UI components.
 * [Product Collective Packages Module for Magento 2 / Adobe Commerce](https://github.com/enanobots/m2-product-pack) ⭐ 36 | 🐛 2 | 🌐 PHP | 📅 2026-01-31 - This (Hyva-compatible) extension enhances the functionality of Magento 2 by providing a new feature for product collective packages.
 * [Preload Images via HTTP Link response header](https://github.com/friends-of-hyva/magento2-preload-images) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2022-10-12 - This extension improves the user experience by loading images that are guaranteed to be displayed above the fold earlier.
@@ -709,7 +709,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 * [Elgentos Magento 2 Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite) ⭐ 172 | 🐛 19 | 🌐 JavaScript | 📅 2024-03-28 - A community-driven Cypress testing suite for Magento 2.
 * [bitexpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) ⭐ 149 | 🐛 9 | 🌐 PHP | 📅 2026-09-14 - Magento specific extension for PHPStan
-* [GitHub Actions for Magento 2 Extensions](https://github.com/extdn/github-actions-m2) ⭐ 141 | 🐛 20 | 🌐 Shell | 📅 2026-09-23 - A repository that provides a set of open-sourced GitHub actions to write better tested Magento 2 extensions.
+* [GitHub Actions for Magento 2 Extensions](https://github.com/extdn/github-actions-m2) ⭐ 141 | 🐛 19 | 🌐 Shell | 📅 2026-09-23 - A repository that provides a set of open-sourced GitHub actions to write better tested Magento 2 extensions.
 * [ExtDN PHP\_CodeSniffer rules for Magento 2](https://github.com/extdn/extdn-phpcs) ⭐ 81 | 🐛 38 | 🌐 PHP | 📅 2019-03-04 - Advanced PHP CodeSniffer rules to aid in Magento 2 development.
 * [ReachDigital Magento 2 Performance tuned integration tests](https://github.com/ho-nl/magento2-ReachDigital_TestFramework) ⭐ 76 | 🐛 8 | 🌐 PHP | 📅 2026-08-11 - Boots up the integration test framework in less than 300ms when caches are primed.
 * [Magento 2 GitHub Actions](https://github.com/graycoreio/github-actions-magento2) ⭐ 72 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-17 - Opinionated Github Actions and Workflows to make building, testing, and maintaining Magento 2 Modules easier.
@@ -731,13 +731,13 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## PWA
 
-* [Vue Storefront](https://github.com/vuestorefront/vue-storefront) ⭐ 10,951 | 🐛 52 | 📅 2026-06-09 - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
+* [Vue Storefront](https://github.com/vuestorefront/vue-storefront) ⭐ 10,952 | 🐛 52 | 📅 2026-06-09 - A standalone PWA storefront for your eCommerce, possible to connect with any eCommerce backend through the API.
 * [PWA Studio](https://github.com/magento/pwa-studio) ⭐ 1,082 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-17 - A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 * [PWA Studio Roadmap](https://github.com/magento/pwa-studio/wiki/Roadmap) ⭐ 1,082 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-17 - The official roadmap of PWA Studio
 * [Fallback Studio](https://github.com/Jordaneisenburger/fallback-studio) ⭐ 113 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-04 - Magento 2 PWA fallback wrapper to easily create custom theme's on top of pwa-studio (deprecated)
 * [Integer\_Net ReactApp](https://github.com/integer-net/magento2-reactapp) ⚠️ Archived - A boilerplate for React apps to be loaded into the Magento 2 (Venia/Blank) theme.
 * [PWA Studio extension generator](https://github.com/larsroettig/create-pwa-studio-extension) ⚠️ Archived - An extension generator for Magento PWA Studio: includes all you need to build an amazing extension.
-* [Monsoon PWA](https://github.com/monsoonconsulting/magento2-pwa) ⭐ 24 | 🐛 6 | 🌐 PHP | 📅 2026-09-23 - Adds icons, a web manifest file and a service-worker file to make magento 2 a PWA.
+* [Monsoon PWA](https://github.com/monsoonconsulting/magento2-pwa) ⭐ 24 | 🐛 5 | 🌐 PHP | 📅 2026-09-23 - Adds icons, a web manifest file and a service-worker file to make magento 2 a PWA.
 * [Venia UI Override Resolver](https://github.com/fooman/venia-ui-override-resolver) ⭐ 19 | 🐛 2 | 🌐 JavaScript | 📅 2021-03-10 - A Magento PWA Studio extension that enables extending Venia & Peregrine
 * [Yireo GraphQlRateLimiting](https://github.com/yireo/Yireo_GraphQlRateLimiting) ⭐ 14 | 🐛 3 | 🌐 PHP | 📅 2026-09-03 - Magento 2 module to add rate limiting to GraphQL resources.
 * [Additional GraphQL endpoints for Magento 2](https://github.com/yireo/Yireo_AdditionalEndpointsGraphQl) ⭐ 11 | 🐛 1 | 🌐 PHP | 📅 2026-09-03 - Additional endpoints for loading information through GraphQL.
@@ -867,7 +867,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ## Quickies & Tutorials
 
-* [Deployer recipe for Magento 2](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) ⭐ 11,104 | 🐛 18 | 🌐 PHP | 📅 2026-08-26 - Michał Giza’s Deployer recipe for Magento 2.
+* [Deployer recipe for Magento 2](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) ⭐ 11,103 | 🐛 18 | 🌐 PHP | 📅 2026-08-26 - Michał Giza’s Deployer recipe for Magento 2.
 * [Magento 2 Repository Example](https://github.com/pronkoconsulting/magento-2-repository-example) ⭐ 23 | 🐛 0 | 📅 2020-02-18 - Example on how Magento 2 project should look like in a repository
 * [Magento Postman repository](https://github.com/nuzil/magento-postman/) ⭐ 15 | 🐛 0 | 📅 2019-05-03 - A storage of Postman collections for Magento
 * [DDEV configuration for Magento 2](https://github.com/jellesiderius/ddev-magento2-setup) ⭐ 13 | 🐛 0 | 📅 2026-01-26 - A step-by-step guide for setting up DDEV for Magento 2.
@@ -1021,8 +1021,8 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 ### Docker
 
 * [The Devilbox](https://github.com/cytopia/devilbox) ⭐ 4,470 | 🐛 90 | 🌐 PHP | 📅 2024-04-19 - A modern dockerized LAMP and MEAN stack alternative to XAMPP
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,895 | 🐛 174 | 🌐 Go | 📅 2026-09-23 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
-* [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) ⭐ 2,862 | 🐛 0 | 🌐 Shell | 📅 2026-09-21 - Magento 1 & 2 support on Linux and Mac
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,895 | 🐛 173 | 🌐 Go | 📅 2026-09-24 - Open source tool that makes it simple to get local PHP development environments up and running in minutes, including Magento 1 and 2.
+* [Mark Shust's Docker Configuration for Magento](https://github.com/markshust/docker-magento) ⭐ 2,861 | 🐛 0 | 🌐 Shell | 📅 2026-09-21 - Magento 1 & 2 support on Linux and Mac
 * [Magento 2 Docker](https://github.com/meanbee/docker-magento2) ⚠️ Archived - A collection of Docker images for running Magento 2 through nginx and on the command line
 * [Magento 2 Docker to development](https://github.com/clean-docker/Magento2) ⭐ 431 | 🐛 46 | 🌐 PHP | 📅 2022-05-22 - Docker image optimized to develop on Mac, Windows, and Linux
 * [Fabrizio Balliano's Magento2](https://github.com/fballiano/docker-magento2) ⭐ 356 | 🐛 12 | 🌐 VCL | 📅 2024-03-23 - Varnish  PHP7  Redis cluster ready docker-compose infrastructure
@@ -1030,7 +1030,7 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 * [Magento 2 Dockergento](https://github.com/ModestCoders/magento2-dockergento) ⭐ 247 | 🐛 22 | 🌐 Shell | 📅 2021-07-29 - Magento 2 docker setup for development optimized for Mac
 * [Mage2click Docker Magento](https://github.com/mage2click/m2c) ⭐ 70 | 🐛 14 | 🌐 Shell | 📅 2021-06-07 - Docker-based development environment for Magento with mutagen.io sync for files on macOS and native filesystem mounts on Linux.
 * [Docker for Magento2](https://github.com/EmakinaFR/docker-magento2) ⭐ 45 | 🐛 0 | 🌐 Makefile | 📅 2025-02-04 - Environment for a Magento2 application using Docker.
-* [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration) ⭐ 43 | 🐛 6 | 🌐 Dockerfile | 📅 2026-09-23
+* [Docker Configuration for Magento 2](https://github.com/magenx/Magento-2-docker-configuration) ⭐ 43 | 🐛 6 | 🌐 Dockerfile | 📅 2026-09-24
 * [Madock](https://github.com/faradey/madock) ⭐ 42 | 🐛 1 | 🌐 Go | 📅 2026-09-21 - A local Docker-based PHP environment that supports Magento2 other than custom projects.
 * [Mage2Docker](https://github.com/graycoreio/mage2docker) ⚠️ Archived - An opinionated, performant, replicable, and production-like Magento 2 local development environment that leverages Docker.
 * [Magento 2 Docker to Development (Apple Silicon)](https://github.com/ityetti/magento2-docker/) ⭐ 31 | 🐛 0 | 🌐 VCL | 📅 2025-03-31 - A complete Docker setup for development, including Traefik, Nginx, Redis, PHP-FPM, MySQL, and more.
@@ -1076,4 +1076,4 @@ If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
