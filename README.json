@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-25T08:22:32Z",
-            "open_issues": 2235,
+            "open_issues": 2239,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12200,
+            "stars": 12198,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -44,10 +44,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-25T08:22:32Z",
-            "open_issues": 2235,
+            "open_issues": 2239,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12200,
+            "stars": 12198,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -808,7 +808,7 @@
                 "open_issues": 7,
                 "owner": "yireo",
                 "repo": "magento2-replace-tools",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "magento2"
                 ]
@@ -1029,6 +1029,27 @@
             },
             {
               "node_type": "item",
+              "title": "Magento 2 MCP Server",
+              "description": "A Model Context Protocol (MCP) server that connects to a Magento 2 REST API, allowing Claude and other MCP clients to query product information from a Magento store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A MCP server for Magento 2",
+                "homepage": null,
+                "id": 967918082,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2025-04-22T07:23:04Z",
+                "open_issues": 2,
+                "owner": "boldcommerce",
+                "repo": "magento2-mcp",
+                "stars": 60,
+                "topics": []
+              },
+              "first_seen": "2026-09-01T09:31:17.533Z"
+            },
+            {
+              "node_type": "item",
               "title": "Magento 2 Ultimate Module Creator",
               "description": "A standalone application for creating Magento 2 CRUD modules",
               "children": [],
@@ -1105,27 +1126,6 @@
                 ]
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Magento 2 MCP Server",
-              "description": "A Model Context Protocol (MCP) server that connects to a Magento 2 REST API, allowing Claude and other MCP clients to query product information from a Magento store.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A MCP server for Magento 2",
-                "homepage": null,
-                "id": 967918082,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2025-04-22T07:23:04Z",
-                "open_issues": 2,
-                "owner": "boldcommerce",
-                "repo": "magento2-mcp",
-                "stars": 59,
-                "topics": []
-              },
-              "first_seen": "2026-09-01T09:31:17.533Z"
             },
             {
               "node_type": "item",
@@ -1266,7 +1266,7 @@
                 "open_issues": 1,
                 "owner": "mrm-commerce",
                 "repo": "magento-coding-standard-phpcs",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "adobe-commerce",
                   "magento2",
@@ -1761,8 +1761,8 @@
                 "id": 191217287,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-08T09:50:00Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-27T08:50:15Z",
+                "open_issues": 3,
                 "owner": "GrimLink",
                 "repo": "mage",
                 "stars": 25,
@@ -3161,7 +3161,7 @@
             "open_issues": 7,
             "owner": "vpietri",
             "repo": "magento2-developer-quickdevbar",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "developer-toolbar",
               "developer-tools",
@@ -3209,8 +3209,8 @@
             "id": 104642467,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-26T00:55:39Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-26T17:36:53Z",
+            "open_issues": 8,
             "owner": "olegkoval",
             "repo": "magento2-regenerate_url_rewrites",
             "stars": 444,
@@ -3302,7 +3302,7 @@
             "open_issues": 33,
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "extenstions",
               "hacktoberfest",
@@ -3662,7 +3662,7 @@
             "open_issues": 15,
             "owner": "justbetter",
             "repo": "magento2-sentry",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "magento2",
               "magento2-extension",
@@ -5051,6 +5051,34 @@
         },
         {
           "node_type": "item",
+          "title": "Performance Dashboard Extension for Magento 2",
+          "description": "An extension that adds a screen to the Admin Panel to get a clear overview of areas where the performance of your Magento 2 can be improved.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Magento 2 Performance Dashboard",
+            "homepage": "https://marketplace.magento.com/magehost-performance-dashboard.html",
+            "id": 98344712,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2024-08-19T17:11:54Z",
+            "open_issues": 6,
+            "owner": "magehost",
+            "repo": "performance-dashboard",
+            "stars": 63,
+            "topics": [
+              "caching",
+              "hosting",
+              "magento",
+              "performance",
+              "performance-analysis",
+              "redis"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Elgentos Lightspeed for Lighthouse optimizations",
           "description": "This module defines several sections where you can define common feedback from Google Lighthouse.",
           "children": [],
@@ -5067,34 +5095,6 @@
             "repo": "magento2-lightspeed",
             "stars": 62,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Performance Dashboard Extension for Magento 2",
-          "description": "An extension that adds a screen to the Admin Panel to get a clear overview of areas where the performance of your Magento 2 can be improved.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Magento 2 Performance Dashboard",
-            "homepage": "https://marketplace.magento.com/magehost-performance-dashboard.html",
-            "id": 98344712,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2024-08-19T17:11:54Z",
-            "open_issues": 6,
-            "owner": "magehost",
-            "repo": "performance-dashboard",
-            "stars": 62,
-            "topics": [
-              "caching",
-              "hosting",
-              "magento",
-              "performance",
-              "performance-analysis",
-              "redis"
-            ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -9794,7 +9794,7 @@
             "id": 126976544,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-09T13:48:38Z",
+            "last_commit": "2026-09-26T11:40:20Z",
             "open_issues": 0,
             "owner": "Alekseon",
             "repo": "AlekseonEav",
@@ -11432,8 +11432,8 @@
                 "id": 414967404,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T20:23:34Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-27T06:32:41Z",
+                "open_issues": 8,
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 263,
@@ -12475,9 +12475,9 @@
                 "homepage": null,
                 "id": 1171285104,
                 "language": "PHP",
-                "license": null,
-                "last_commit": "2026-04-30T01:37:19Z",
-                "open_issues": 3,
+                "license": "OSL-3.0",
+                "last_commit": "2026-09-27T05:33:35Z",
+                "open_issues": 1,
                 "owner": "mage-os-lab",
                 "repo": "module-passkey-auth",
                 "stars": 15,
@@ -12580,7 +12580,7 @@
                 "id": 983254117,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-05-31T03:22:29Z",
+                "last_commit": "2026-09-26T10:05:12Z",
                 "open_issues": 0,
                 "owner": "mage-os-lab",
                 "repo": "module-maxmind-geoip-redirect",
@@ -13071,7 +13071,7 @@
             "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10950,
+            "stars": 10949,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13379,7 +13379,7 @@
             "open_issues": 18,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11104,
+            "stars": 11105,
             "topics": [
               "deploy",
               "deployment",
@@ -13586,11 +13586,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T06:31:58Z",
+                "last_commit": "2026-09-27T06:32:02Z",
                 "open_issues": 177,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3896,
+                "stars": 3897,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -13855,7 +13855,7 @@
                 "id": 422907007,
                 "language": "Dockerfile",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T15:22:53Z",
+                "last_commit": "2026-09-26T19:17:22Z",
                 "open_issues": 6,
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
@@ -14270,7 +14270,7 @@
                 "open_issues": 2,
                 "owner": "develodesign",
                 "repo": "magento-gitpod",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
@@ -14594,7 +14594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:27:14.157Z",
+    "last_updated": "2026-09-27T10:06:56.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14603,10 +14603,10 @@
       "language": "PHP",
       "license": "CC0-1.0",
       "last_commit": "2026-09-20T11:08:41Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "aleron75",
       "repo": "mageres",
-      "stars": 1017,
+      "stars": 1018,
       "topics": [
         "awesome-list",
         "magento",
