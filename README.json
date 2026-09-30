@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-25T08:22:32Z",
-            "open_issues": 2247,
+            "open_issues": 2253,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12197,
+            "stars": 12196,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -44,10 +44,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-09-25T08:22:32Z",
-            "open_issues": 2247,
+            "open_issues": 2253,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12197,
+            "stars": 12196,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -87,6 +87,79 @@
         }
       ],
       "title": "Official Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Magento 2",
+          "description": "A curated list of awesome Magento 2 Extensions & Resources by David Lambauer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Curated list of awesome Magento 2 Extensions, Resources and other Highlights",
+            "homepage": null,
+            "id": 80614782,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-09-28T07:13:12Z",
+            "open_issues": 4,
+            "owner": "run-as-root",
+            "repo": "awesome-magento2",
+            "stars": 1178,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "collection",
+              "documentation",
+              "documentation-tool",
+              "magento-2",
+              "magento-extension",
+              "magento2",
+              "packages",
+              "php"
+            ]
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Magento AI",
+          "description": "A curated list of AI tooling for Magento 2, Adobe Commerce and Mage-OS: agent skills, MCP servers, store modules, CLIs, starter kits and services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS — agent skills, MCP servers, modules, CLIs, starter kits",
+            "homepage": "https://github.com/MagePsycho/awesome-magento-ai",
+            "id": 1331176828,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-09-02T16:26:28Z",
+            "open_issues": 1,
+            "owner": "MagePsycho",
+            "repo": "awesome-magento-ai",
+            "stars": 12,
+            "topics": [
+              "adobe-commerce",
+              "agent-skills",
+              "ai",
+              "awesome",
+              "awesome-list",
+              "claude-code",
+              "ecommerce",
+              "llm",
+              "mage-os",
+              "magento",
+              "magento2",
+              "mcp",
+              "mcp-server"
+            ]
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
+        }
+      ],
+      "title": "Other Resources"
     },
     {
       "description": null,
@@ -398,8 +471,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T09:26:45Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-30T08:36:21Z",
+                "open_issues": 15,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 926,
@@ -448,7 +521,7 @@
                 "open_issues": 61,
                 "owner": "magento",
                 "repo": "magento2-phpstorm-plugin",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "hacktoberfest",
                   "intellij",
@@ -1569,7 +1642,7 @@
               "description": "A module that uses Terraform Cloud to deploy Magento on the Amazon Web Services (AWS) Cloud.",
               "children": [],
               "repo_info": {
-                "archived": true,
+                "archived": false,
                 "description": "Adobe Magento",
                 "homepage": null,
                 "id": 406115080,
@@ -2613,6 +2686,27 @@
             },
             {
               "node_type": "item",
+              "title": "magento2-tools",
+              "description": "A Claude Code plugin of skills for end-to-end Magento 2 engineering: scaffolding, review, testing, bug-fixing, deployment, auditing, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "End-to-end Magento 2 engineering skills — Claude Code plugin",
+                "homepage": null,
+                "id": 1253076361,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-09-17T04:25:42Z",
+                "open_issues": 0,
+                "owner": "muon-m2",
+                "repo": "magento2-tools",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-09-30T10:36:51.103Z"
+            },
+            {
+              "node_type": "item",
               "title": "Magento / Mage-OS / Adobe Commerce perfomance scanner",
               "description": "Qoliber's Mage Scan Mage is a performance scanner for Magento, Mage-OS, and Adobe Commerce websites. It identifies common implementation issues to help store owners, freelancers, and agencies maintain smooth operations.",
               "children": [],
@@ -3078,6 +3172,27 @@
         },
         {
           "node_type": "item",
+          "title": "StyleSmuggler Adobe Patches",
+          "description": "A Composer plugin that applies Adobe's official APSB26-146 fix (CVE-2026-75650) for the StyleSmuggler zero-day to Magento Open Source and Mage-OS automatically, detecting your installed version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "composer require delivery of Adobe's official APSB26-146 (CVE-2026-75650) fix for Magento, via cweagans/composer-patches. Auto-selects the patch for your Magento version.",
+            "homepage": null,
+            "id": 1361089465,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-09-08T10:56:25Z",
+            "open_issues": 0,
+            "owner": "disrex-group",
+            "repo": "stylesmuggler-adobe-patches",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 JWT Authentication Patch",
           "description": "The Magento 2 JWT Authentication Patch is a patch that specifically targets Magento versions 2.4.4 to 2.4.7-p1 to address a security vulnerability that allows JSON Web Tokens (JWTs), particularly admin tokens, to remain valid even after the encryption key has been rotated. It is recommended to install this patch before performing an encryption key rotation to secure the system against potential unauthorized access.",
           "children": [],
@@ -3126,7 +3241,7 @@
             "id": 54476408,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-28T15:18:42Z",
+            "last_commit": "2026-09-29T18:30:18Z",
             "open_issues": 127,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
@@ -3209,7 +3324,7 @@
             "id": 104642467,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-26T17:36:53Z",
+            "last_commit": "2026-09-30T07:49:20Z",
             "open_issues": 8,
             "owner": "olegkoval",
             "repo": "magento2-regenerate_url_rewrites",
@@ -3331,7 +3446,7 @@
             "open_issues": 7,
             "owner": "magepal",
             "repo": "magento2-gmail-smtp-app",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "adobe-commerce",
               "amazon",
@@ -3688,7 +3803,7 @@
             "open_issues": 24,
             "owner": "mageplaza",
             "repo": "magento-2-social-login",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "amazon-login",
               "facebook-login",
@@ -3827,8 +3942,8 @@
             "id": 48577460,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-29T08:34:41Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-29T19:06:46Z",
+            "open_issues": 26,
             "owner": "yireo",
             "repo": "Yireo_GoogleTagManager2",
             "stars": 168,
@@ -7054,7 +7169,7 @@
             "id": 282865346,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T08:23:27Z",
+            "last_commit": "2026-09-30T09:27:45Z",
             "open_issues": 2,
             "owner": "customgento",
             "repo": "module-cookiebot-m2",
@@ -7417,6 +7532,33 @@
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Nebula Admin Theme",
+          "description": "Nebula modernizes the Magento Admin with a faster interface, cleaner workflows, dark mode, and developer-friendly customization, without forcing you to replace Magento itself. Runs on Magento 2.4.7+ or Mage-OS 2.0+.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Nebula — modern admin theme for Magento 2 / Mage-OS. Archived at 0.9.0; current release at qoliber.com/nebula-admin.html",
+            "homepage": "https://qoliber.com/nebula-admin.html",
+            "id": 1238048087,
+            "language": "PHP",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-21T08:55:06Z",
+            "open_issues": 1,
+            "owner": "qoliber",
+            "repo": "nebula-admin-theme",
+            "stars": 23,
+            "topics": [
+              "admin-theme",
+              "mage-os",
+              "magento",
+              "magento2",
+              "nebula"
+            ]
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
         },
         {
           "node_type": "item",
@@ -8107,7 +8249,7 @@
             "id": 1044316581,
             "language": "PHP",
             "license": null,
-            "last_commit": "2025-09-15T10:19:58Z",
+            "last_commit": "2026-09-30T09:03:34Z",
             "open_issues": 0,
             "owner": "elgentos",
             "repo": "magento2-improved-customer-address-validation",
@@ -9436,6 +9578,27 @@
         },
         {
           "node_type": "item",
+          "title": "Gene EnvphpModules",
+          "description": "Magento 2 module to allow enabling a module in env.php rather than config.php, useful for require-dev dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 module to allow enabling a module in env.php rather than config.php, useful for require-dev dependencies",
+            "homepage": null,
+            "id": 1280477584,
+            "language": "PHP",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-07-21T12:17:10Z",
+            "open_issues": 1,
+            "owner": "genecommerce",
+            "repo": "module-envphp-modules",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
+        },
+        {
+          "node_type": "item",
           "title": "M2 Magewire with Breeze theme Module",
           "description": "An extension that allows you to use Magewire with Breeze theme.",
           "children": [],
@@ -9707,6 +9870,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 Fast DI Compile",
+          "description": "Companion Magento module for fast-di-compile, a Rust replacement for bin/magento setup:di:compile. Keeps the normal Magento command name and uses the Rust compiler when a trusted fast-di-compile binary is available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1375832254,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-09-27T12:15:02Z",
+            "open_issues": 0,
+            "owner": "speedupmate",
+            "repo": "magento2-spmt-fast-di-compile",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
         },
         {
           "node_type": "item",
@@ -10681,7 +10865,7 @@
             "id": 527893556,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T08:20:43Z",
+            "last_commit": "2026-09-30T09:23:48Z",
             "open_issues": 9,
             "owner": "EmicoEcommerce",
             "repo": "Magento2Tweakwise",
@@ -11305,6 +11489,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Muon API Schema Export",
+          "description": "Restores per-module attribution of the Magento REST surface and turns any selection of modules into a .http file, a Postman v2.1 collection, an OpenAPI 3.1 document or a Swagger 2.0 document, via CLI or an admin screen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Muon API Schema Export — installs the API description generator together with its admin screen, so the CLI command and the System menu entry arrive as one unit.",
+            "homepage": null,
+            "id": 1345468172,
+            "language": null,
+            "license": "OSL-3.0",
+            "last_commit": "2026-08-24T23:06:07Z",
+            "open_issues": 0,
+            "owner": "muon-m2",
+            "repo": "magento2-api-schema-export",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Muon DevProfiler",
+          "description": "Headless storefront request profiler for Magento 2: theme-fallback forensics, full-page-cache verdicts with named causes, and SQL collection with N+1 detection. Developer mode only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Headless storefront request profiler for Magento 2: theme-fallback forensics, full-page-cache verdicts with named causes, and SQL collection with N+1 detection. Developer mode only.",
+            "homepage": null,
+            "id": 1333558365,
+            "language": "PHP",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-09T16:18:05Z",
+            "open_issues": 0,
+            "owner": "muon-m2",
+            "repo": "magento2-module-dev-profiler",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
         },
         {
           "node_type": "item",
@@ -12156,7 +12382,7 @@
                 "id": 726117893,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-12T21:03:57Z",
+                "last_commit": "2026-09-29T19:08:48Z",
                 "open_issues": 0,
                 "owner": "ParadoxLabs-Inc",
                 "repo": "authnetcim-hyva-checkout",
@@ -12325,7 +12551,7 @@
                 "id": 1074428367,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-08-10T13:34:17Z",
+                "last_commit": "2026-09-30T03:01:08Z",
                 "open_issues": 1,
                 "owner": "mage-os",
                 "repo": "module-admin-activity-log",
@@ -12413,8 +12639,8 @@
                 "id": 1157078608,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-27T20:33:31Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-29T19:30:56Z",
+                "open_issues": 9,
                 "owner": "mage-os",
                 "repo": "module-rma",
                 "stars": 22,
@@ -12477,7 +12703,7 @@
                 "language": "PHP",
                 "license": "OSL-3.0",
                 "last_commit": "2026-09-28T14:37:19Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "mage-os-lab",
                 "repo": "module-passkey-auth",
                 "stars": 15,
@@ -12588,6 +12814,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Mage-OS Store Locator",
+              "description": "Store Locator for Mage-OS / Magento 2 with admin CRUD, Google Maps & OpenStreetMap, geolocation and a Hyvä frontend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A module that allows merchants to manage physical stores and help customers find nearby locations through search, maps and geolocation",
+                "homepage": null,
+                "id": 1246413726,
+                "language": "PHP",
+                "license": null,
+                "last_commit": "2026-06-15T06:10:00Z",
+                "open_issues": 0,
+                "owner": "mage-os-lab",
+                "repo": "module-store-locator",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-30T10:36:51.103Z"
             },
             {
               "node_type": "item",
@@ -13068,10 +13315,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T12:03:34Z",
-            "open_issues": 52,
+            "open_issues": 51,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10951,
+            "stars": 10950,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13586,11 +13833,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T10:31:05Z",
+                "last_commit": "2026-09-30T06:36:22Z",
                 "open_issues": 175,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3898,
+                "stars": 3899,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -13631,7 +13878,7 @@
                 "open_issues": 0,
                 "owner": "markshust",
                 "repo": "docker-magento",
-                "stars": 2862,
+                "stars": 2863,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -13855,7 +14102,7 @@
                 "id": 422907007,
                 "language": "Dockerfile",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T12:32:43Z",
+                "last_commit": "2026-09-29T13:44:44Z",
                 "open_issues": 6,
                 "owner": "magenx",
                 "repo": "Magento-2-docker-configuration",
@@ -14594,7 +14841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:49:17.220Z",
+    "last_updated": "2026-09-30T10:36:51.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14602,18 +14849,18 @@
       "id": 29300306,
       "language": "PHP",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-20T11:08:41Z",
+      "last_commit": "2026-09-29T22:05:20Z",
       "open_issues": 2,
       "owner": "aleron75",
       "repo": "mageres",
-      "stars": 1018,
+      "stars": 1019,
       "topics": [
         "awesome-list",
         "magento",
         "magento2"
       ]
     },
-    "original_repository_sha": "4c6aca2c4fef73064d61ec0badcbeb948f6628a8",
+    "original_repository_sha": "04eb7cdf78112b330763381147674bc5939afb16",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 Resources with stars"
