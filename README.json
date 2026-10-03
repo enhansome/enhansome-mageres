@@ -19,7 +19,7 @@
             "open_issues": 2264,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12196,
+            "stars": 12195,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -47,7 +47,7 @@
             "open_issues": 2264,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12196,
+            "stars": 12195,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -471,8 +471,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T14:34:12Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-02T11:20:10Z",
+                "open_issues": 20,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 926,
@@ -2446,7 +2446,7 @@
             {
               "node_type": "item",
               "title": "Magento utilities Tap for Homebrew",
-              "description": null,
+              "description": "fballiano/homebrew-mageutils",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3241,7 +3241,7 @@
             "id": 54476408,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-29T18:30:18Z",
+            "last_commit": "2026-10-02T11:41:13Z",
             "open_issues": 128,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
@@ -7169,7 +7169,7 @@
             "id": 282865346,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T09:27:45Z",
+            "last_commit": "2026-10-02T15:06:36Z",
             "open_issues": 2,
             "owner": "customgento",
             "repo": "module-cookiebot-m2",
@@ -8240,7 +8240,7 @@
         {
           "node_type": "item",
           "title": "Elgentos Improved Customer Address Validation",
-          "description": null,
+          "description": "elgentos/magento2-improved-customer-address-validation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8443,6 +8443,32 @@
         },
         {
           "node_type": "item",
+          "title": "Custom Admin Logo",
+          "description": "This extension allows administrators to personalize the Magento admin panel logos for both the login screen and the admin menu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Magento 2 module that allows admins to set the logo for their admin panel and login screen.",
+            "homepage": null,
+            "id": 584243282,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-04-03T21:48:45Z",
+            "open_issues": 1,
+            "owner": "element119",
+            "repo": "module-custom-admin-logo",
+            "stars": 16,
+            "topics": [
+              "admin",
+              "customisation",
+              "magento2",
+              "utility"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Elgentos Magento 2 extension for Imgix",
           "description": "An extension to automatically processes product images with Imgix service.",
           "children": [],
@@ -8605,32 +8631,6 @@
         },
         {
           "node_type": "item",
-          "title": "Custom Admin Logo",
-          "description": "This extension allows administrators to personalize the Magento admin panel logos for both the login screen and the admin menu",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Magento 2 module that allows admins to set the logo for their admin panel and login screen.",
-            "homepage": null,
-            "id": 584243282,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-04-03T21:48:45Z",
-            "open_issues": 1,
-            "owner": "element119",
-            "repo": "module-custom-admin-logo",
-            "stars": 15,
-            "topics": [
-              "admin",
-              "customisation",
-              "magento2",
-              "utility"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Gene Commerce New Relic RUM Page Type",
           "description": "Enhances New Relic Real User Monitoring by tagging Magento pages with their specific type (e.g., product, category, checkout). This helps generate clearer performance insights and better segmentation in New Relic dashboards.",
           "children": [],
@@ -8755,7 +8755,7 @@
         {
           "node_type": "item",
           "title": "Authorize.net's Customer Information Manager for Magento 2",
-          "description": null,
+          "description": "ParadoxLabs-Inc/authnetcim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9012,7 +9012,7 @@
         {
           "node_type": "item",
           "title": "Magento 2 Merge Product Attribute Options",
-          "description": null,
+          "description": "falconmedia/magento2-merge-product-attribute-options",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10157,7 +10157,7 @@
             "id": 274152731,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-05T05:01:11Z",
+            "last_commit": "2026-10-02T12:31:35Z",
             "open_issues": 0,
             "owner": "customgento",
             "repo": "module-cli-tax-editor-m2",
@@ -11841,7 +11841,7 @@
             {
               "node_type": "item",
               "title": "Vendic Hyva Checkout Create Account",
-              "description": null,
+              "description": "Vendic/hyva-checkout-create-account",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11898,8 +11898,8 @@
                 "id": 678835492,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-06-02T12:14:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-02T22:05:43Z",
+                "open_issues": 4,
                 "owner": "Vendic",
                 "repo": "hyva-checkout-hide-business-fields",
                 "stars": 13,
@@ -12273,7 +12273,7 @@
                 "id": 530671398,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:54:27Z",
+                "last_commit": "2026-10-02T12:00:06Z",
                 "open_issues": 1,
                 "owner": "EmicoEcommerce",
                 "repo": "Magento2TweakwiseHyva",
@@ -12411,7 +12411,7 @@
                 "language": "PHP",
                 "license": "OSL-3.0",
                 "last_commit": "2026-08-10T13:35:56Z",
-                "open_issues": 3,
+                "open_issues": 7,
                 "owner": "mage-os",
                 "repo": "module-theme-optimization",
                 "stars": 41,
@@ -13318,7 +13318,7 @@
             "open_issues": 51,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10950,
+            "stars": 10951,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13626,7 +13626,7 @@
             "open_issues": 18,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11108,
+            "stars": 11109,
             "topics": [
               "deploy",
               "deployment",
@@ -13833,11 +13833,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:36:23Z",
+                "last_commit": "2026-10-02T19:00:40Z",
                 "open_issues": 176,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3901,
+                "stars": 3902,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -14093,7 +14093,7 @@
             {
               "node_type": "item",
               "title": "Docker Configuration for Magento 2",
-              "description": null,
+              "description": "magenx/Magento-2-docker-configuration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -14841,7 +14841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:37:29.260Z",
+    "last_updated": "2026-10-03T04:56:39.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
