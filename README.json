@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-10-01T19:16:48Z",
-            "open_issues": 2266,
+            "open_issues": 2312,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12195,
@@ -44,7 +44,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-10-01T19:16:48Z",
-            "open_issues": 2266,
+            "open_issues": 2312,
             "owner": "magento",
             "repo": "magento2",
             "stars": 12195,
@@ -1081,6 +1081,27 @@
             },
             {
               "node_type": "item",
+              "title": "Magento 2 MCP Server",
+              "description": "A Model Context Protocol (MCP) server that connects to a Magento 2 REST API, allowing Claude and other MCP clients to query product information from a Magento store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A MCP server for Magento 2",
+                "homepage": null,
+                "id": 967918082,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2025-04-22T07:23:04Z",
+                "open_issues": 2,
+                "owner": "boldcommerce",
+                "repo": "magento2-mcp",
+                "stars": 61,
+                "topics": []
+              },
+              "first_seen": "2026-09-01T09:31:17.533Z"
+            },
+            {
+              "node_type": "item",
               "title": "SwiftOtter Driver",
               "description": "A database task-runner specifically used for transforming a production database to a sandbox.",
               "children": [],
@@ -1099,27 +1120,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Magento 2 MCP Server",
-              "description": "A Model Context Protocol (MCP) server that connects to a Magento 2 REST API, allowing Claude and other MCP clients to query product information from a Magento store.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A MCP server for Magento 2",
-                "homepage": null,
-                "id": 967918082,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2025-04-22T07:23:04Z",
-                "open_issues": 2,
-                "owner": "boldcommerce",
-                "repo": "magento2-mcp",
-                "stars": 60,
-                "topics": []
-              },
-              "first_seen": "2026-09-01T09:31:17.533Z"
             },
             {
               "node_type": "item",
@@ -2924,7 +2924,7 @@
             "open_issues": 7,
             "owner": "gwillem",
             "repo": "magento-malware-scanner",
-            "stars": 690,
+            "stars": 689,
             "topics": [
               "cryptojacking",
               "ecommerce",
@@ -3566,8 +3566,8 @@
             "id": 196749733,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-04-14T16:28:58Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-04T09:39:39Z",
+            "open_issues": 10,
             "owner": "baldwin-agency",
             "repo": "magento2-module-url-data-integrity-checker",
             "stars": 281,
@@ -6468,14 +6468,14 @@
           "description": "The DevDashboard2 project is a developer-focused dashboard for Magento 2, created during a Magento Hackathon. It provides a centralized interface to access and manage useful developer tools, logs, caches, indexes, and system information. Its goal is to streamline the developer experience by offering quick access to common Magento 2 backend functions in a user-friendly way.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Developer Dashboard for Magento 2",
             "homepage": null,
             "id": 124638500,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-06T04:06:37Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-03T13:35:35Z",
+            "open_issues": 17,
             "owner": "magento-hackathon",
             "repo": "DevDashboard2",
             "stars": 34,
@@ -9662,6 +9662,27 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 Fast DI Compile",
+          "description": "Companion Magento module for fast-di-compile, a Rust replacement for bin/magento setup:di:compile. Keeps the normal Magento command name and uses the Rust compiler when a trusted fast-di-compile binary is available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1375832254,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-09-27T12:15:02Z",
+            "open_issues": 0,
+            "owner": "speedupmate",
+            "repo": "magento2-spmt-fast-di-compile",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 FREE SEO Suite",
           "description": "This extension optimizes SEO strategies for your e-commerce store.",
           "children": [],
@@ -9870,27 +9891,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 Fast DI Compile",
-          "description": "Companion Magento module for fast-di-compile, a Rust replacement for bin/magento setup:di:compile. Keeps the normal Magento command name and uses the Rust compiler when a trusted fast-di-compile binary is available.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1375832254,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2026-09-27T12:15:02Z",
-            "open_issues": 0,
-            "owner": "speedupmate",
-            "repo": "magento2-spmt-fast-di-compile",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-09-30T10:36:51.103Z"
         },
         {
           "node_type": "item",
@@ -13076,7 +13076,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-09-17T09:33:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38,
@@ -13097,7 +13097,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-09-17T09:33:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "controlaltdelete-nl",
             "repo": "magento2-in-a-box",
             "stars": 38,
@@ -13318,7 +13318,7 @@
             "open_issues": 51,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10951,
+            "stars": 10953,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13626,7 +13626,7 @@
             "open_issues": 18,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11109,
+            "stars": 11111,
             "topics": [
               "deploy",
               "deployment",
@@ -13833,8 +13833,8 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T06:33:50Z",
-                "open_issues": 176,
+                "last_commit": "2026-10-04T08:11:52Z",
+                "open_issues": 177,
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3902,
@@ -14841,7 +14841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:58:04.499Z",
+    "last_updated": "2026-10-04T10:41:18.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14850,7 +14850,7 @@
       "language": "PHP",
       "license": "CC0-1.0",
       "last_commit": "2026-10-01T10:09:24Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "aleron75",
       "repo": "mageres",
       "stars": 1019,
