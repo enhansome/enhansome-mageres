@@ -12604,7 +12604,7 @@
                 "language": "PHP",
                 "license": "OSL-3.0",
                 "last_commit": "2026-09-18T13:34:05Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
                 "stars": 25,
@@ -14841,7 +14841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:05.981Z",
+    "last_updated": "2026-10-06T11:24:19.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
