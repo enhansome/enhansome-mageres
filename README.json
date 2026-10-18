@@ -521,7 +521,7 @@
                 "open_issues": 56,
                 "owner": "magento",
                 "repo": "magento2-phpstorm-plugin",
-                "stars": 464,
+                "stars": 467,
                 "topics": [
                   "hacktoberfest",
                   "intellij",
@@ -1067,7 +1067,7 @@
                 "open_issues": 2,
                 "owner": "boldcommerce",
                 "repo": "magento2-mcp",
-                "stars": 66,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-09-01T09:31:17.533Z"
@@ -2238,7 +2238,7 @@
                 "id": 1222812664,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-15T18:22:02Z",
+                "last_commit": "2026-10-17T14:48:46Z",
                 "open_issues": 0,
                 "owner": "angeo-dev",
                 "repo": "module-aeo-audit",
@@ -3707,7 +3707,7 @@
             "id": 176673041,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-15T17:26:34Z",
+            "last_commit": "2026-10-17T18:20:59Z",
             "open_issues": 19,
             "owner": "yireo",
             "repo": "Yireo_Webp2",
@@ -3903,6 +3903,29 @@
         },
         {
           "node_type": "item",
+          "title": "Yireo GoogleTagManager2",
+          "description": "Add Google Tag Manager to Magento2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 48577460,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2026-10-12T14:23:20Z",
+            "open_issues": 27,
+            "owner": "yireo",
+            "repo": "Yireo_GoogleTagManager2",
+            "stars": 169,
+            "topics": [
+              "magento2-module"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "BitExpert_ForceCustomerLogin",
           "description": "Magento 2 module that forces customer login to see website pages.",
           "children": [],
@@ -3925,29 +3948,6 @@
               "magento2-module",
               "php",
               "whitelist-login"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Yireo GoogleTagManager2",
-          "description": "Add Google Tag Manager to Magento2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 48577460,
-            "language": "PHP",
-            "license": "OSL-3.0",
-            "last_commit": "2026-10-12T14:23:20Z",
-            "open_issues": 27,
-            "owner": "yireo",
-            "repo": "Yireo_GoogleTagManager2",
-            "stars": 168,
-            "topics": [
-              "magento2-module"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -5478,8 +5478,8 @@
             "id": 1005439139,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-16T06:58:31Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-18T08:24:20Z",
+            "open_issues": 5,
             "owner": "walkwizus",
             "repo": "magento2-module-meilisearch",
             "stars": 55,
@@ -5699,7 +5699,7 @@
             "id": 291080111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-03T08:44:13Z",
+            "last_commit": "2026-10-18T07:22:28Z",
             "open_issues": 12,
             "owner": "yireo",
             "repo": "Yireo_NextGenImages",
@@ -6494,7 +6494,7 @@
             "id": 488871436,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-03T08:43:43Z",
+            "last_commit": "2026-10-17T17:20:57Z",
             "open_issues": 8,
             "owner": "yireo",
             "repo": "Yireo_EmailTester2",
@@ -6997,6 +6997,27 @@
         },
         {
           "node_type": "item",
+          "title": "Orangecat B2B Suite",
+          "description": "A comprehensive B2B suite providing company accounts, custom pricing, credit payments, purchase approvals, quick ordering, RMAs, sales reps, and customer-specific catalog, shipping, and payment rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "B2B Magento OS SDK Installer",
+            "homepage": null,
+            "id": 1262169940,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-08T18:28:36Z",
+            "open_issues": 1,
+            "owner": "olivertar",
+            "repo": "m2_b2bsdk",
+            "stars": 28,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Siteation_DebugBar",
           "description": "A debug bar for Magento 2 built for developers and coding agents.",
           "children": [],
@@ -7162,27 +7183,6 @@
               "store",
               "tier-price"
             ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Orangecat B2B Suite",
-          "description": "A comprehensive B2B suite providing company accounts, custom pricing, credit payments, purchase approvals, quick ordering, RMAs, sales reps, and customer-specific catalog, shipping, and payment rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "B2B Magento OS SDK Installer",
-            "homepage": null,
-            "id": 1262169940,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-08T18:28:36Z",
-            "open_issues": 1,
-            "owner": "olivertar",
-            "repo": "m2_b2bsdk",
-            "stars": 27,
-            "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -10626,7 +10626,7 @@
             "id": 768159089,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-03T08:43:10Z",
+            "last_commit": "2026-10-18T07:27:05Z",
             "open_issues": 0,
             "owner": "yireo",
             "repo": "Yireo_CategoryExtended",
@@ -11657,8 +11657,8 @@
                 "id": 414967404,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T19:24:56Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-17T18:13:49Z",
+                "open_issues": 18,
                 "owner": "magewirephp",
                 "repo": "magewire",
                 "stars": 264,
@@ -12934,7 +12934,7 @@
             "id": 223035548,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-10-01T09:40:15Z",
+            "last_commit": "2026-10-18T07:57:27Z",
             "open_issues": 19,
             "owner": "extdn",
             "repo": "github-actions-m2",
@@ -13001,8 +13001,8 @@
             "id": 507325788,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-12T20:54:10Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-17T10:38:19Z",
+            "open_issues": 13,
             "owner": "graycoreio",
             "repo": "github-actions-magento2",
             "stars": 72,
@@ -13592,7 +13592,7 @@
             "id": 256720812,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-09-03T08:43:27Z",
+            "last_commit": "2026-10-18T07:55:06Z",
             "open_issues": 0,
             "owner": "yireo",
             "repo": "Yireo_CustomGraphQlQueryLimiter",
@@ -13625,7 +13625,7 @@
             "open_issues": 22,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11116,
+            "stars": 11115,
             "topics": [
               "deploy",
               "deployment",
@@ -13794,7 +13794,7 @@
                 "open_issues": 90,
                 "owner": "cytopia",
                 "repo": "devilbox",
-                "stars": 4472,
+                "stars": 4471,
                 "topics": [
                   "apache",
                   "devilbox",
@@ -13832,8 +13832,8 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T06:29:12Z",
-                "open_issues": 165,
+                "last_commit": "2026-10-18T06:28:53Z",
+                "open_issues": 166,
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3922,
@@ -14131,7 +14131,7 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-16T15:21:18Z",
+                "last_commit": "2026-10-17T15:41:31Z",
                 "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
@@ -14840,7 +14840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:42:03.448Z",
+    "last_updated": "2026-10-18T08:57:51.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14848,7 +14848,7 @@
       "id": 29300306,
       "language": "PHP",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-12T06:54:57Z",
+      "last_commit": "2026-10-18T06:04:53Z",
       "open_issues": 2,
       "owner": "aleron75",
       "repo": "mageres",
@@ -14859,7 +14859,7 @@
         "magento2"
       ]
     },
-    "original_repository_sha": "16291085bf43a39e05952f8f784fc3a71dd172ec",
+    "original_repository_sha": "cb921ea61d9c643f0b4bd19270befaca2e290ff0",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 Resources with stars"
