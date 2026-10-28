@@ -15,11 +15,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-22T15:47:51Z",
-            "open_issues": 2504,
+            "last_commit": "2026-10-28T10:31:20Z",
+            "open_issues": 2513,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12211,
+            "stars": 12213,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -43,11 +43,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-22T15:47:51Z",
-            "open_issues": 2504,
+            "last_commit": "2026-10-28T10:31:20Z",
+            "open_issues": 2513,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12211,
+            "stars": 12213,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -107,7 +107,7 @@
             "open_issues": 10,
             "owner": "run-as-root",
             "repo": "awesome-magento2",
-            "stars": 1178,
+            "stars": 1177,
             "topics": [
               "awesome",
               "awesome-list",
@@ -448,7 +448,7 @@
                 "language": "PHP",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-31T01:43:51Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "cweagans",
                 "repo": "composer-patches",
                 "stars": 1736,
@@ -471,8 +471,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T09:42:42Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-27T21:32:34Z",
+                "open_issues": 9,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 926,
@@ -517,11 +517,11 @@
                 "id": 113209707,
                 "language": "Java",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-26T06:46:50Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-27T19:39:04Z",
+                "open_issues": 41,
                 "owner": "magento",
                 "repo": "magento2-phpstorm-plugin",
-                "stars": 472,
+                "stars": 471,
                 "topics": [
                   "hacktoberfest",
                   "intellij",
@@ -655,7 +655,7 @@
               "description": "Code generator for Magento 2",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Code generator for Magento 2",
                 "homepage": null,
                 "id": 64841475,
@@ -688,7 +688,7 @@
                 "open_issues": 12,
                 "owner": "Smile-SA",
                 "repo": "gdpr-dump",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "anonymization",
                   "database",
@@ -1762,7 +1762,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-10-26T16:02:34Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "GrimLink",
                 "repo": "mage",
                 "stars": 27,
@@ -3240,8 +3240,8 @@
             "id": 54476408,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-26T18:46:36Z",
-            "open_issues": 127,
+            "last_commit": "2026-10-28T09:47:53Z",
+            "open_issues": 130,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 805,
@@ -3688,7 +3688,7 @@
             "open_issues": 13,
             "owner": "magespecialist",
             "repo": "m2-MSP_DevTools",
-            "stars": 222,
+            "stars": 221,
             "topics": [
               "hacktoberfest"
             ]
@@ -4032,8 +4032,8 @@
             "id": 67938822,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-26T14:35:48Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-27T11:26:30Z",
+            "open_issues": 30,
             "owner": "mailchimp",
             "repo": "mc-magento2",
             "stars": 159,
@@ -4302,29 +4302,6 @@
         },
         {
           "node_type": "item",
-          "title": "Magento 2 module for Whoops",
-          "description": "Magento 2 module integrating Whoops error handling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 module integrating Whoops error handling",
-            "homepage": null,
-            "id": 65015287,
-            "language": "PHP",
-            "license": "OSL-3.0",
-            "last_commit": "2026-09-03T08:44:46Z",
-            "open_issues": 3,
-            "owner": "yireo",
-            "repo": "Yireo_Whoops",
-            "stars": 102,
-            "topics": [
-              "magento2-module"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Mage2 Module Experius WysiwygDownloads",
           "description": "This extension makes it possible to upload different filetypes inside the WYSIWYG-editor.",
           "children": [],
@@ -4373,6 +4350,29 @@
               "magento2-module",
               "php",
               "rest"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 module for Whoops",
+          "description": "Magento 2 module integrating Whoops error handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 module integrating Whoops error handling",
+            "homepage": null,
+            "id": 65015287,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2026-09-03T08:44:46Z",
+            "open_issues": 3,
+            "owner": "yireo",
+            "repo": "Yireo_Whoops",
+            "stars": 101,
+            "topics": [
+              "magento2-module"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -4603,6 +4603,27 @@
         },
         {
           "node_type": "item",
+          "title": "Ignition for Magento2",
+          "description": "A beautiful error page and error tracking service for Magento powered by Spatie Ignition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ignition error page for Magento2",
+            "homepage": null,
+            "id": 782076299,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-10-22T09:59:34Z",
+            "open_issues": 0,
+            "owner": "swissup",
+            "repo": "module-ignition",
+            "stars": 91,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "MarkShust_OrderGrid",
           "description": "Adds Order Items details to the order grid in the admin.",
           "children": [],
@@ -4623,27 +4644,6 @@
               "magento2",
               "magento2-module"
             ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ignition for Magento2",
-          "description": "A beautiful error page and error tracking service for Magento powered by Spatie Ignition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ignition error page for Magento2",
-            "homepage": null,
-            "id": 782076299,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-10-22T09:59:34Z",
-            "open_issues": 0,
-            "owner": "swissup",
-            "repo": "module-ignition",
-            "stars": 90,
-            "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -4923,7 +4923,7 @@
             "id": 98182090,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-20T11:19:05Z",
+            "last_commit": "2026-10-27T19:05:52Z",
             "open_issues": 4,
             "owner": "outeredge",
             "repo": "magento-structured-data-module",
@@ -5479,7 +5479,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-10-18T16:10:49Z",
-            "open_issues": 4,
+            "open_issues": 13,
             "owner": "walkwizus",
             "repo": "magento2-module-meilisearch",
             "stars": 55,
@@ -6950,8 +6950,8 @@
             "id": 1338543536,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T22:28:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-27T22:27:12Z",
+            "open_issues": 0,
             "owner": "Siteation",
             "repo": "magento2-debugbar",
             "stars": 29,
@@ -8442,6 +8442,33 @@
         },
         {
           "node_type": "item",
+          "title": "Corrivate Composer Dashboard",
+          "description": "Admin grids that allow merchants and PMs to view installed composer packages, available updates, and security audits. Also provides reminder emails and API endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1121343846,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-07-23T21:38:32Z",
+            "open_issues": 0,
+            "owner": "LBannenberg",
+            "repo": "magento2-composer-dashboard",
+            "stars": 16,
+            "topics": [
+              "composer",
+              "composer2",
+              "magento",
+              "magento2",
+              "magento2-module"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Custom Admin Logo",
           "description": "This extension allows administrators to personalize the Magento admin panel logos for both the login screen and the admin menu",
           "children": [],
@@ -8561,6 +8588,33 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 Composer Dashboard",
+          "description": "Provides a dashboard within the Magento admin to view installed packages and determine whether they need to be updated. Additionally, it allows you to configure daily/weekly email reminders for package status updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1121343846,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-07-23T21:38:32Z",
+            "open_issues": 0,
+            "owner": "LBannenberg",
+            "repo": "magento2-composer-dashboard",
+            "stars": 16,
+            "topics": [
+              "composer",
+              "composer2",
+              "magento",
+              "magento2",
+              "magento2-module"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 Customer Session Timeout Popup",
           "description": "This module displays a popup to the customer indicating the number of seconds remaining until they are automatically logged out of the system.",
           "children": [],
@@ -8598,33 +8652,6 @@
             "repo": "Yireo_DumpCmsContent",
             "stars": 16,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Corrivate Composer Dashboard",
-          "description": "Admin grids that allow merchants and PMs to view installed composer packages, available updates, and security audits. Also provides reminder emails and API endpoints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1121343846,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-07-23T21:38:32Z",
-            "open_issues": 0,
-            "owner": "LBannenberg",
-            "repo": "magento2-composer-dashboard",
-            "stars": 15,
-            "topics": [
-              "composer",
-              "composer2",
-              "magento",
-              "magento2",
-              "magento2-module"
-            ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -8672,33 +8699,6 @@
               "magento2",
               "magento2-module",
               "performance"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Magento 2 Composer Dashboard",
-          "description": "Provides a dashboard within the Magento admin to view installed packages and determine whether they need to be updated. Additionally, it allows you to configure daily/weekly email reminders for package status updates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1121343846,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-07-23T21:38:32Z",
-            "open_issues": 0,
-            "owner": "LBannenberg",
-            "repo": "magento2-composer-dashboard",
-            "stars": 15,
-            "topics": [
-              "composer",
-              "composer2",
-              "magento",
-              "magento2",
-              "magento2-module"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -9380,6 +9380,27 @@
         },
         {
           "node_type": "item",
+          "title": "Gene EnvphpModules",
+          "description": "Magento 2 module to allow enabling a module in env.php rather than config.php, useful for require-dev dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 module to allow enabling a module in env.php rather than config.php, useful for require-dev dependencies",
+            "homepage": null,
+            "id": 1280477584,
+            "language": "PHP",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-07-21T12:17:10Z",
+            "open_issues": 1,
+            "owner": "genecommerce",
+            "repo": "module-envphp-modules",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T10:36:51.103Z"
+        },
+        {
+          "node_type": "item",
           "title": "IfConfig Layout",
           "description": "An extension that allows enabling or disabling specific layout updates dynamically depending on the store’s configuration settings, without hardcoding conditions in the layout files.",
           "children": [],
@@ -9574,27 +9595,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Gene EnvphpModules",
-          "description": "Magento 2 module to allow enabling a module in env.php rather than config.php, useful for require-dev dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 module to allow enabling a module in env.php rather than config.php, useful for require-dev dependencies",
-            "homepage": null,
-            "id": 1280477584,
-            "language": "PHP",
-            "license": "LGPL-3.0",
-            "last_commit": "2026-07-21T12:17:10Z",
-            "open_issues": 1,
-            "owner": "genecommerce",
-            "repo": "module-envphp-modules",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-09-30T10:36:51.103Z"
         },
         {
           "node_type": "item",
@@ -11459,8 +11459,8 @@
             "id": 253554698,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-10-26T12:47:06Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-28T10:42:31Z",
+            "open_issues": 23,
             "owner": "Riskified",
             "repo": "magento2new",
             "stars": 1,
@@ -11634,7 +11634,7 @@
             "id": 956502824,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-26T15:39:38Z",
+            "last_commit": "2026-10-27T13:40:10Z",
             "open_issues": 0,
             "owner": "yireo",
             "repo": "Yireo_StoreViewCommands",
@@ -12551,7 +12551,7 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2026-10-27T03:37:42Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "mage-os",
                 "repo": "module-admin-activity-log",
                 "stars": 29,
@@ -12642,7 +12642,7 @@
                 "open_issues": 8,
                 "owner": "mage-os",
                 "repo": "module-rma",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "adobecommerce",
                   "ecommerce",
@@ -12701,7 +12701,7 @@
                 "id": 1171285104,
                 "language": "PHP",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-26T01:05:36Z",
+                "last_commit": "2026-10-27T13:41:00Z",
                 "open_issues": 3,
                 "owner": "mage-os",
                 "repo": "module-passkey-auth",
@@ -13043,7 +13043,7 @@
             "id": 867651548,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:52:09Z",
+            "last_commit": "2026-10-28T09:17:06Z",
             "open_issues": 7,
             "owner": "elgentos",
             "repo": "magento2-playwright",
@@ -13366,8 +13366,8 @@
             "id": 137249745,
             "language": "JavaScript",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-26T15:10:17Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T14:26:09Z",
+            "open_issues": 3,
             "owner": "magento",
             "repo": "pwa-studio",
             "stars": 1082,
@@ -13393,8 +13393,8 @@
             "id": 137249745,
             "language": "JavaScript",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-26T15:10:17Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T14:26:09Z",
+            "open_issues": 3,
             "owner": "magento",
             "repo": "pwa-studio",
             "stars": 1082,
@@ -13580,7 +13580,7 @@
             "id": 204268346,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-26T15:39:28Z",
+            "last_commit": "2026-10-27T13:38:13Z",
             "open_issues": 0,
             "owner": "yireo",
             "repo": "Yireo_AdditionalEndpointsGraphQl",
@@ -13636,7 +13636,7 @@
             "open_issues": 21,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11121,
+            "stars": 11122,
             "topics": [
               "deploy",
               "deployment",
@@ -13843,11 +13843,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T06:34:14Z",
-                "open_issues": 174,
+                "last_commit": "2026-10-28T06:24:52Z",
+                "open_issues": 176,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3929,
+                "stars": 3933,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -14565,8 +14565,8 @@
                 "id": 1103211513,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-21T15:08:12Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-27T19:14:38Z",
+                "open_issues": 7,
                 "owner": "graycoreio",
                 "repo": "magento2-devcontainer",
                 "stars": 18,
@@ -14851,7 +14851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:55:49.957Z",
+    "last_updated": "2026-10-28T10:42:38.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
