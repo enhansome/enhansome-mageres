@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-10-30T16:56:11Z",
-            "open_issues": 2519,
+            "open_issues": 2520,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12217,
+            "stars": 12218,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -44,10 +44,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-10-30T16:56:11Z",
-            "open_issues": 2519,
+            "open_issues": 2520,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12217,
+            "stars": 12218,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -103,8 +103,8 @@
             "id": 80614782,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-26T06:26:44Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-01T04:06:10Z",
+            "open_issues": 11,
             "owner": "run-as-root",
             "repo": "awesome-magento2",
             "stars": 1177,
@@ -471,8 +471,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T21:32:42Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-31T17:15:12Z",
+                "open_issues": 10,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 926,
@@ -952,7 +952,7 @@
                 "open_issues": 5,
                 "owner": "opengento",
                 "repo": "magento2-downgrade-ee-ce",
-                "stars": 91,
+                "stars": 90,
                 "topics": [
                   "adobe-commerce",
                   "adobe-commerce-cloud",
@@ -2715,6 +2715,27 @@
             },
             {
               "node_type": "item",
+              "title": "Magento 2 MCP Server (elgentos)",
+              "description": "A Model Context Protocol (MCP) server that connects to Magento 2, allowing Claude and other MCP clients to analyze sales, customers, inventory and marketing, and manage product attributes and CMS content.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A MCP server for Magento 2",
+                "homepage": null,
+                "id": 1374436665,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-18T10:03:41Z",
+                "open_issues": 0,
+                "owner": "elgentos",
+                "repo": "magento2-mcp",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-01T11:24:33.163Z"
+            },
+            {
+              "node_type": "item",
               "title": "Magento / Mage-OS / Adobe Commerce perfomance scanner",
               "description": "Qoliber's Mage Scan Mage is a performance scanner for Magento, Mage-OS, and Adobe Commerce websites. It identifies common implementation issues to help store owners, freelancers, and agencies maintain smooth operations.",
               "children": [],
@@ -3097,7 +3118,7 @@
             "id": 821328203,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-30T23:52:22Z",
+            "last_commit": "2026-10-31T13:53:37Z",
             "open_issues": 1,
             "owner": "yireo",
             "repo": "Yireo_CspWhitelistInlineJs",
@@ -3421,8 +3442,8 @@
             "id": 93260571,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:46:50Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-01T09:19:51Z",
+            "open_issues": 34,
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
             "stars": 334,
@@ -4576,7 +4597,7 @@
             "id": 66253147,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-31T08:12:14Z",
+            "last_commit": "2026-11-01T10:20:10Z",
             "open_issues": 2,
             "owner": "yireo",
             "repo": "Yireo_CheckoutTester2",
@@ -5487,7 +5508,7 @@
             "id": 1005439139,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-31T09:34:59Z",
+            "last_commit": "2026-10-31T13:09:59Z",
             "open_issues": 5,
             "owner": "walkwizus",
             "repo": "magento2-module-meilisearch",
@@ -5708,7 +5729,7 @@
             "id": 291080111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-25T10:34:51Z",
+            "last_commit": "2026-10-31T18:44:06Z",
             "open_issues": 12,
             "owner": "yireo",
             "repo": "Yireo_NextGenImages",
@@ -6959,7 +6980,7 @@
             "id": 1338543536,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:27:12Z",
+            "last_commit": "2026-10-31T15:38:05Z",
             "open_issues": 0,
             "owner": "Siteation",
             "repo": "magento2-debugbar",
@@ -7430,6 +7451,56 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento 2 MCP module",
+          "description": "Extensible Model Context Protocol server for Magento 2. Connect your store to any MCP-compatible AI agent to read and mutate customer, product, CMS or sales data, fetch reports, manage configuration, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extensible MCP module for Magento2 - Interact with your store through any MCP-compatible AI agent",
+            "homepage": "https://magebit.com/magento-mcp",
+            "id": 1206749337,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-10-19T07:54:43Z",
+            "open_issues": 2,
+            "owner": "magebitcom",
+            "repo": "magento2-mcp-module",
+            "stars": 24,
+            "topics": [
+              "adobe",
+              "adobe-commerce",
+              "ai",
+              "magento2",
+              "magento2-extension",
+              "magento2-module",
+              "mcp-server"
+            ]
+          },
+          "first_seen": "2026-11-01T11:24:33.163Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleMage Category/Product Indexer Rewrite",
+          "description": "High-performance drop-in replacement for Magento 2's catalog_category_product indexer. Solves the classic \"Could not acquire lock\" hang on large catalogs (500k+ products), with 2.6x-7.7x faster reindex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "High-performance drop-in replacement for Magento 2's catalog_category_product indexer. Up to 8x faster, byte-identical output. Snapshot pattern.",
+            "homepage": null,
+            "id": 1267547305,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-07-09T14:06:58Z",
+            "open_issues": 0,
+            "owner": "SimpleMage",
+            "repo": "magento2-category-product-indexer",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:24:33.163Z"
         },
         {
           "node_type": "item",
@@ -10505,6 +10576,27 @@
         },
         {
           "node_type": "item",
+          "title": "FalconMedia Admin Passkey",
+          "description": "Magento 2 Admin Passkey (WebAuthn) login with Magento 2FA fallback, trusted devices, lockouts, recovery, migration and health dashboards, diagnostics, security scoring, and audit logging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 Admin Passkey (WebAuthn) login with Magento 2FA fallback, trusted devices, lockouts, recovery, migration and health dashboards, diagnostics, security scoring, and audit logging. Admin UI only.",
+            "homepage": null,
+            "id": 1289338754,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-07-04T20:34:51Z",
+            "open_issues": 0,
+            "owner": "falconmedia",
+            "repo": "magento2-admin-passkey",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:24:33.163Z"
+        },
+        {
+          "node_type": "item",
           "title": "Limit Guest Checkout Coupon Code",
           "description": "This extension restricts the maximum use of coupons for guest checkout.",
           "children": [],
@@ -10653,6 +10745,27 @@
         },
         {
           "node_type": "item",
+          "title": "Orangecat FAQs",
+          "description": "Magento 2 FAQ manager optimized for AI crawlers, with JSON-LD structured data generation, product-specific FAQs, and multi-store support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Powerful Magento 2 FAQ manager optimized for AI Crawlers. Features JSON-LD structured data generation, product-specific FAQs, and multi-store support. Integrates with Orangecat Translate AI for automated localization and Orangecat Feed for AI training data export.",
+            "homepage": null,
+            "id": 1106610849,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2025-12-05T07:46:55Z",
+            "open_issues": 0,
+            "owner": "olivertar",
+            "repo": "m2_faqs_ai",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:24:33.163Z"
+        },
+        {
+          "node_type": "item",
           "title": "Yireo - Magento 2 Category Extended",
           "description": "This module seamlessly integrates CMS pages and custom URLs into your Magento 2 category structure, allowing you to create a more versatile and informative menu for your customers.",
           "children": [],
@@ -10663,7 +10776,7 @@
             "id": 768159089,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-10-18T11:54:42Z",
+            "last_commit": "2026-10-31T16:32:11Z",
             "open_issues": 0,
             "owner": "yireo",
             "repo": "Yireo_CategoryExtended",
@@ -11158,6 +11271,36 @@
         },
         {
           "node_type": "item",
+          "title": "MSI Core",
+          "description": "Multi-Source Inventory as the only inventory system in Magento Open Source: one code path for every stock, no special Default Stock, cataloginventory_* tables neither read nor written.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-Source Inventory as the only inventory system in Magento Open Source: one code path for every stock, no special Default Stock, cataloginventory_* neither read nor written.",
+            "homepage": "https://github.com/jeanmarcos-dev/msi-core",
+            "id": 1333684779,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2026-10-31T07:59:36Z",
+            "open_issues": 0,
+            "owner": "jeanmarcos-dev",
+            "repo": "msi-core",
+            "stars": 3,
+            "topics": [
+              "inventory",
+              "mage-os",
+              "magento",
+              "magento2",
+              "msi",
+              "multi-source-inventory",
+              "php",
+              "stock"
+            ]
+          },
+          "first_seen": "2026-11-01T11:24:33.163Z"
+        },
+        {
+          "node_type": "item",
           "title": "Multiline Admin Grid",
           "description": "A solution for displaying multiline text in admin grids, preserving line breaks in textarea custom attributes. It applies to all admin grid columns without additional configuration. The module uses a mixin approach to extend default UI functionality and convert newlines to HTML.",
           "children": [],
@@ -11281,6 +11424,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mercur Magento 2 Connector",
+          "description": "Turn your Magento 2 or Adobe Commerce store into a multi-vendor marketplace with Mercur, selling marketplace offers next to your own products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn your Magento 2 or Adobe Commerce store into a multi-vendor marketplace with Mercur.",
+            "homepage": "https://docs.mercurjs.com/resources/integrations/magento2/overview",
+            "id": 1428522747,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-10-27T13:20:51Z",
+            "open_issues": 0,
+            "owner": "mercurjs",
+            "repo": "magento2-connector",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:24:33.163Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OrangeCat ImageAiStudio",
+          "description": "Integrates Google's Generative AI into the Magento 2 product management workflow, generating product images and videos with Gemini and Veo models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Powering your catalog with Generative Artificial Intelligence (Gemini / Veo).",
+            "homepage": null,
+            "id": 1140454152,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2026-01-23T10:35:07Z",
+            "open_issues": 0,
+            "owner": "olivertar",
+            "repo": "m2_image_ai_studio",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:24:33.163Z"
         },
         {
           "node_type": "item",
@@ -11977,6 +12162,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Hyvä Catalog Image Slideshow",
+              "description": "A Magento 2 module that adds an interactive image slideshow to product listings on category pages. Built specifically for Hyvä themes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Magento 2 module that adds an interactive image slideshow to product listings on category pages. Built specifically for Hyvä themes.",
+                "homepage": "https://www.aquivemedia.nl/",
+                "id": 974922059,
+                "language": "PHP",
+                "license": "GPL-3.0",
+                "last_commit": "2026-03-05T09:01:33Z",
+                "open_issues": 0,
+                "owner": "AquiveMedia",
+                "repo": "magento2-hyva-catalog-image-slideshow",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-11-01T11:24:33.163Z"
             },
             {
               "node_type": "item",
@@ -13337,7 +13543,7 @@
             "open_issues": 51,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10960,
+            "stars": 10961,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13645,7 +13851,7 @@
             "open_issues": 22,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11121,
+            "stars": 11122,
             "topics": [
               "deploy",
               "deployment",
@@ -13852,11 +14058,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T06:21:14Z",
+                "last_commit": "2026-11-01T06:20:38Z",
                 "open_issues": 169,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3938,
+                "stars": 3940,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -14860,7 +15066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:29:50.104Z",
+    "last_updated": "2026-11-01T11:24:33.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
@@ -14868,8 +15074,8 @@
       "id": 29300306,
       "language": "PHP",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-25T16:56:17Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-31T18:48:04Z",
+      "open_issues": 3,
       "owner": "aleron75",
       "repo": "mageres",
       "stars": 1019,
@@ -14879,7 +15085,7 @@
         "magento2"
       ]
     },
-    "original_repository_sha": "e627bbc7931e32365aeaf39381852b7b97fa09ff",
+    "original_repository_sha": "aab386eaab17550b61b6984fa486392de486df05",
     "enhanced_repository": "enhansome/enhansome-mageres",
     "enhanced_repository_description": null,
     "title": "Awesome Magento 2 Resources with stars"
