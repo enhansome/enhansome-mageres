@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-11-06T07:25:01Z",
-            "open_issues": 2559,
+            "open_issues": 2567,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12223,
+            "stars": 12224,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -44,10 +44,10 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-11-06T07:25:01Z",
-            "open_issues": 2559,
+            "open_issues": 2567,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12223,
+            "stars": 12224,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -284,7 +284,7 @@
             "open_issues": 78,
             "owner": "magesuite",
             "repo": "magepack",
-            "stars": 434,
+            "stars": 433,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -1237,7 +1237,7 @@
                 "open_issues": 1,
                 "owner": "MagePsycho",
                 "repo": "magento2-installer-bash-script",
-                "stars": 52,
+                "stars": 51,
                 "topics": [
                   "bash",
                   "bash-script",
@@ -2953,7 +2953,7 @@
             "open_issues": 7,
             "owner": "gwillem",
             "repo": "magento-malware-scanner",
-            "stars": 689,
+            "stars": 690,
             "topics": [
               "cryptojacking",
               "ecommerce",
@@ -3741,7 +3741,7 @@
             "open_issues": 19,
             "owner": "yireo",
             "repo": "Yireo_Webp2",
-            "stars": 213,
+            "stars": 212,
             "topics": [
               "magento2-module"
             ]
@@ -4148,27 +4148,6 @@
         },
         {
           "node_type": "item",
-          "title": "Product Data Pre-Loader",
-          "description": "This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 product data preloaded for anticipated data in other components based on currently available product objects.",
-            "homepage": null,
-            "id": 279702329,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2023-02-07T12:23:43Z",
-            "open_issues": 1,
-            "owner": "EcomDev",
-            "repo": "magento2-product-preloader",
-            "stars": 120,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "MarkShust_PageBuilderSourceCode",
           "description": "Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.",
           "children": [],
@@ -4189,6 +4168,27 @@
               "magento2",
               "magento2-module"
             ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Product Data Pre-Loader",
+          "description": "This extension provides an easy way to pre-load data for product collections like prices, stock data, and many more by using different types of load types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 product data preloaded for anticipated data in other components based on currently available product objects.",
+            "homepage": null,
+            "id": 279702329,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2023-02-07T12:23:43Z",
+            "open_issues": 1,
+            "owner": "EcomDev",
+            "repo": "magento2-product-preloader",
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -4491,29 +4491,6 @@
         },
         {
           "node_type": "item",
-          "title": "Yireo ExtensionChecker",
-          "description": "Magento 2 module to check upon the code of Magento 2 modules from the CLI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 module to check upon the code of Magento 2 modules from the CLI",
-            "homepage": null,
-            "id": 160968132,
-            "language": "PHP",
-            "license": "OSL-3.0",
-            "last_commit": "2026-11-06T13:51:19Z",
-            "open_issues": 11,
-            "owner": "yireo",
-            "repo": "Yireo_ExtensionChecker",
-            "stars": 96,
-            "topics": [
-              "magento2-module"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Elgentos Large Config Products",
           "description": "Workaround extension to work with extremely large configurable products (5000+ skus)",
           "children": [],
@@ -4534,6 +4511,29 @@
               "magento2",
               "magento2-extension",
               "magento2-extension-free",
+              "magento2-module"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Yireo ExtensionChecker",
+          "description": "Magento 2 module to check upon the code of Magento 2 modules from the CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 module to check upon the code of Magento 2 modules from the CLI",
+            "homepage": null,
+            "id": 160968132,
+            "language": "PHP",
+            "license": "OSL-3.0",
+            "last_commit": "2026-11-06T13:51:19Z",
+            "open_issues": 11,
+            "owner": "yireo",
+            "repo": "Yireo_ExtensionChecker",
+            "stars": 95,
+            "topics": [
               "magento2-module"
             ]
           },
@@ -4668,7 +4668,7 @@
             "open_issues": 0,
             "owner": "markshust",
             "repo": "magento2-module-ordergrid",
-            "stars": 91,
+            "stars": 90,
             "topics": [
               "magento",
               "magento2",
@@ -4829,7 +4829,7 @@
             "open_issues": 8,
             "owner": "genecommerce",
             "repo": "module-encryption-key-manager",
-            "stars": 83,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -4943,27 +4943,6 @@
         },
         {
           "node_type": "item",
-          "title": "Structured Data Module for Magento 2",
-          "description": "This extension lets you quickly add structured data markup (Rich Snippets) to any Magento 2 store by setting a few configuration options.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento Structured Data Module by outer/edge",
-            "homepage": null,
-            "id": 98182090,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-11-05T15:09:20Z",
-            "open_issues": 4,
-            "owner": "outeredge",
-            "repo": "magento-structured-data-module",
-            "stars": 77,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "CmsImportExport",
           "description": "An extension for Magento 2 allowing users to import/export CMS pages or blocks.",
           "children": [],
@@ -4978,6 +4957,27 @@
             "open_issues": 11,
             "owner": "magespecialist",
             "repo": "m2-MSP_CmsImportExport",
+            "stars": 76,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Structured Data Module for Magento 2",
+          "description": "This extension lets you quickly add structured data markup (Rich Snippets) to any Magento 2 store by setting a few configuration options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento Structured Data Module by outer/edge",
+            "homepage": null,
+            "id": 98182090,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-11-05T15:09:20Z",
+            "open_issues": 4,
+            "owner": "outeredge",
+            "repo": "magento-structured-data-module",
             "stars": 76,
             "topics": []
           },
@@ -5156,7 +5156,7 @@
             "open_issues": 0,
             "owner": "run-as-root",
             "repo": "magento2-message-queue-retry",
-            "stars": 65,
+            "stars": 64,
             "topics": [
               "magento2",
               "magento2-extension",
@@ -5184,7 +5184,7 @@
             "open_issues": 0,
             "owner": "catgento",
             "repo": "magento2-admin-activity",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "magento2",
               "magento2-extension",
@@ -5368,58 +5368,6 @@
         },
         {
           "node_type": "item",
-          "title": "Magento Cloudflare Turnstile",
-          "description": "The module allows Turnstile (Cloudflare's smart CAPTCHA alternative) to protect your Magento OpenSource or Adobe Commerce forms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Protect your Magento store from spam messages and spam user accounts with Cloudflare Turnstile ",
-            "homepage": "https://pixel-open.org/",
-            "id": 561783968,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-01-09T16:59:48Z",
-            "open_issues": 6,
-            "owner": "Pixel-Open",
-            "repo": "magento-cloudflare-turnstile",
-            "stars": 57,
-            "topics": [
-              "adobe-commerce",
-              "captcha",
-              "cloudflare",
-              "form",
-              "magento",
-              "magento-2",
-              "magento-module",
-              "security",
-              "turnstile"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MarkShust_Messages",
-          "description": "This extensions allows us to send success, notice, warning, and error messages with embedded HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Messages module allows you to send success, notice, warning and error messages with HTML.",
-            "homepage": null,
-            "id": 156442316,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2020-08-13T07:44:35Z",
-            "open_issues": 1,
-            "owner": "markshust",
-            "repo": "magento2-module-messages",
-            "stars": 57,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Magento 2 Admin Order Status Color",
           "description": "An extension to change the color of the order status column in the UI grid, based on the current status of the order.",
           "children": [],
@@ -5462,6 +5410,58 @@
             "open_issues": 3,
             "owner": "qoliber",
             "repo": "m2-datapatchcreator",
+            "stars": 56,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento Cloudflare Turnstile",
+          "description": "The module allows Turnstile (Cloudflare's smart CAPTCHA alternative) to protect your Magento OpenSource or Adobe Commerce forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Protect your Magento store from spam messages and spam user accounts with Cloudflare Turnstile ",
+            "homepage": "https://pixel-open.org/",
+            "id": 561783968,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-01-09T16:59:48Z",
+            "open_issues": 6,
+            "owner": "Pixel-Open",
+            "repo": "magento-cloudflare-turnstile",
+            "stars": 56,
+            "topics": [
+              "adobe-commerce",
+              "captcha",
+              "cloudflare",
+              "form",
+              "magento",
+              "magento-2",
+              "magento-module",
+              "security",
+              "turnstile"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MarkShust_Messages",
+          "description": "This extensions allows us to send success, notice, warning, and error messages with embedded HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Messages module allows you to send success, notice, warning and error messages with HTML.",
+            "homepage": null,
+            "id": 156442316,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2020-08-13T07:44:35Z",
+            "open_issues": 1,
+            "owner": "markshust",
+            "repo": "magento2-module-messages",
             "stars": 56,
             "topics": []
           },
@@ -5653,27 +5653,6 @@
         },
         {
           "node_type": "item",
-          "title": "Event Thing for Magento 2",
-          "description": "A module that enables the logic/integration touch points of Magento Plugins & Observers to be handled outside the core Magento application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento 2 module. Provides Generic Plugins and Observers for logic/integration processing in a third-party application.",
-            "homepage": null,
-            "id": 656025752,
-            "language": "PHP",
-            "license": "NOASSERTION",
-            "last_commit": "2023-07-19T15:10:38Z",
-            "open_issues": 0,
-            "owner": "cmtickle",
-            "repo": "module-event-thing",
-            "stars": 49,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Smile Store Locator",
           "description": "This extension adds a store locator feature to Magento, enabling merchants to display physical store locations on an interactive map. Customers can search and filter stores by criteria such as distance or services offered, view details like address and opening hours, and get directions.",
           "children": [],
@@ -5693,6 +5672,27 @@
               "magento2",
               "magento2-extension"
             ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Event Thing for Magento 2",
+          "description": "A module that enables the logic/integration touch points of Magento Plugins & Observers to be handled outside the core Magento application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento 2 module. Provides Generic Plugins and Observers for logic/integration processing in a third-party application.",
+            "homepage": null,
+            "id": 656025752,
+            "language": "PHP",
+            "license": "NOASSERTION",
+            "last_commit": "2023-07-19T15:10:38Z",
+            "open_issues": 0,
+            "owner": "cmtickle",
+            "repo": "module-event-thing",
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
         },
@@ -8370,7 +8370,7 @@
             "id": 1202994678,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-10-13T13:05:01Z",
+            "last_commit": "2026-11-07T19:40:24Z",
             "open_issues": 0,
             "owner": "hryvinskyi",
             "repo": "magento2-email-template-editor",
@@ -11049,8 +11049,8 @@
             "id": 1333684779,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-11-05T16:56:09Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-08T09:11:19Z",
+            "open_issues": 1,
             "owner": "jeanmarcos-dev",
             "repo": "msi-core",
             "stars": 4,
@@ -13851,7 +13851,7 @@
             "open_issues": 22,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11121,
+            "stars": 11120,
             "topics": [
               "deploy",
               "deployment",
@@ -14058,8 +14058,8 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T06:19:13Z",
-                "open_issues": 180,
+                "last_commit": "2026-11-08T06:19:37Z",
+                "open_issues": 179,
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3946,
@@ -14357,8 +14357,8 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-07T10:24:30Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-08T11:12:16Z",
+                "open_issues": 2,
                 "owner": "faradey",
                 "repo": "madock",
                 "stars": 42,
@@ -14954,7 +14954,7 @@
                 "open_issues": 0,
                 "owner": "davidalger",
                 "repo": "m2demo",
-                "stars": 37,
+                "stars": 36,
                 "topics": [
                   "demo",
                   "docker",
@@ -15066,7 +15066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:13:26.266Z",
+    "last_updated": "2026-11-08T11:24:58.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
