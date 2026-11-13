@@ -15,11 +15,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-11-11T21:08:41Z",
-            "open_issues": 2596,
+            "last_commit": "2026-11-13T07:40:36Z",
+            "open_issues": 2598,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12229,
+            "stars": 12233,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -43,11 +43,11 @@
             "id": 2884111,
             "language": "PHP",
             "license": "OSL-3.0",
-            "last_commit": "2026-11-11T21:08:41Z",
-            "open_issues": 2596,
+            "last_commit": "2026-11-13T07:40:36Z",
+            "open_issues": 2598,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12229,
+            "stars": 12233,
             "topics": [
               "ecommerce",
               "ecommerce-platform",
@@ -107,7 +107,7 @@
             "open_issues": 14,
             "owner": "run-as-root",
             "repo": "awesome-magento2",
-            "stars": 1178,
+            "stars": 1177,
             "topics": [
               "awesome",
               "awesome-list",
@@ -139,7 +139,7 @@
             "open_issues": 2,
             "owner": "MagePsycho",
             "repo": "awesome-magento-ai",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "adobe-commerce",
               "agent-skills",
@@ -471,8 +471,8 @@
                 "id": 25814103,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T09:28:09Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-12T21:32:59Z",
+                "open_issues": 10,
                 "owner": "netz98",
                 "repo": "n98-magerun2",
                 "stars": 926,
@@ -500,7 +500,7 @@
                 "open_issues": 184,
                 "owner": "astorm",
                 "repo": "pestle",
-                "stars": 530,
+                "stars": 529,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
@@ -517,11 +517,11 @@
                 "id": 113209707,
                 "language": "Java",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-07T10:24:27Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-13T11:40:24Z",
+                "open_issues": 23,
                 "owner": "magento",
                 "repo": "magento2-phpstorm-plugin",
-                "stars": 474,
+                "stars": 473,
                 "topics": [
                   "hacktoberfest",
                   "intellij",
@@ -771,7 +771,7 @@
                 "open_issues": 5,
                 "owner": "staempfli",
                 "repo": "magento2-phpstorm-templates",
-                "stars": 222,
+                "stars": 221,
                 "topics": [
                   "magento",
                   "phpstorm-templates"
@@ -844,29 +844,6 @@
             },
             {
               "node_type": "item",
-              "title": "Magento Composer Replacement Tool",
-              "description": "A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 260228996,
-                "language": "PHP",
-                "license": null,
-                "last_commit": "2024-11-15T19:01:35Z",
-                "open_issues": 7,
-                "owner": "yireo",
-                "repo": "magento2-replace-tools",
-                "stars": 119,
-                "topics": [
-                  "magento2"
-                ]
-              },
-              "first_seen": "2026-08-28T16:46:38.972Z"
-            },
-            {
-              "node_type": "item",
               "title": "Elgentos Magento 2 Upgrade GUI",
               "description": "A GUI tool to help you visually and easily spot differences in a three-way comparison between the version you upgraded from, the version you upgraded to, and your Magento preferences, plugins and overrides.",
               "children": [],
@@ -884,6 +861,29 @@
                 "stars": 118,
                 "topics": [
                   "hacktoberfest"
+                ]
+              },
+              "first_seen": "2026-08-28T16:46:38.972Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Magento Composer Replacement Tool",
+              "description": "A repository that offers a composer plugin to help you manage composer replacements in your root composer.json.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 260228996,
+                "language": "PHP",
+                "license": null,
+                "last_commit": "2024-11-15T19:01:35Z",
+                "open_issues": 7,
+                "owner": "yireo",
+                "repo": "magento2-replace-tools",
+                "stars": 118,
+                "topics": [
+                  "magento2"
                 ]
               },
               "first_seen": "2026-08-28T16:46:38.972Z"
@@ -1761,8 +1761,8 @@
                 "id": 191217287,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-12T12:46:55Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-13T11:00:27Z",
+                "open_issues": 3,
                 "owner": "GrimLink",
                 "repo": "mage",
                 "stars": 27,
@@ -2953,7 +2953,7 @@
             "open_issues": 7,
             "owner": "gwillem",
             "repo": "magento-malware-scanner",
-            "stars": 690,
+            "stars": 689,
             "topics": [
               "cryptojacking",
               "ecommerce",
@@ -3028,7 +3028,7 @@
             "open_issues": 4,
             "owner": "aregowe",
             "repo": "magento2-module-polyshell-protection",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "magento",
               "magento2",
@@ -3271,7 +3271,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-11-11T19:58:14Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "Smile-SA",
             "repo": "elasticsuite",
             "stars": 805,
@@ -3302,10 +3302,10 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-05-19T21:43:43Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "vpietri",
             "repo": "magento2-developer-quickdevbar",
-            "stars": 574,
+            "stars": 571,
             "topics": [
               "developer-toolbar",
               "developer-tools",
@@ -3332,7 +3332,7 @@
             "open_issues": 14,
             "owner": "mage2tv",
             "repo": "magento-cache-clean",
-            "stars": 543,
+            "stars": 542,
             "topics": [
               "cachemanager",
               "development-utility",
@@ -3384,7 +3384,7 @@
             "open_issues": 17,
             "owner": "SnowdogApps",
             "repo": "magento2-frontools",
-            "stars": 422,
+            "stars": 421,
             "topics": [
               "browsersync",
               "csslint",
@@ -3418,7 +3418,7 @@
             "open_issues": 13,
             "owner": "Ethan3600",
             "repo": "magento2-CronjobManager",
-            "stars": 365,
+            "stars": 363,
             "topics": [
               "cron-jobs",
               "cronjobs",
@@ -3446,7 +3446,7 @@
             "open_issues": 35,
             "owner": "SnowdogApps",
             "repo": "magento2-menu",
-            "stars": 335,
+            "stars": 334,
             "topics": [
               "extenstions",
               "hacktoberfest",
@@ -3475,7 +3475,7 @@
             "open_issues": 7,
             "owner": "magepal",
             "repo": "magento2-gmail-smtp-app",
-            "stars": 329,
+            "stars": 327,
             "topics": [
               "adobe-commerce",
               "amazon",
@@ -3610,48 +3610,6 @@
         },
         {
           "node_type": "item",
-          "title": "Google Tag Manager with Advance Data Layer",
-          "description": "The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Google Tag Manager is a user-friendly, yet powerful and cost-effective solution that is a must-have integration for every Magento store. It simplifies the process of adding and managing third-party JavaScript tags. With dozens of custom events and hundreds of data points our extensions the #1 GTM solution for Magento.",
-            "homepage": "https://www.magepal.com/google-tag-manager.html",
-            "id": 49925786,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2026-10-23T15:01:32Z",
-            "open_issues": 13,
-            "owner": "magepal",
-            "repo": "magento2-google-tag-manager",
-            "stars": 266,
-            "topics": [
-              "adobe-commerce",
-              "adwords",
-              "analytics",
-              "bing-uet",
-              "ecommerce",
-              "enhanced-ecommerce",
-              "facebook-pixel",
-              "google-analytics",
-              "google-analytics-4",
-              "google-tag-manager",
-              "google-universal-analytics",
-              "gtm",
-              "magento",
-              "magento-2",
-              "magento2",
-              "remarketing",
-              "tag-manager",
-              "tagmanager",
-              "tracking-pixels",
-              "web-analytics"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Danslo CleanCheckout",
           "description": "A drop-in replacement for the Magento 2 checkout",
           "children": [],
@@ -3673,6 +3631,48 @@
               "magento2",
               "magento2-extension",
               "magento2-module"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Google Tag Manager with Advance Data Layer",
+          "description": "The extension provides a vast array of over 60 preconfigure data layer elements to make integrating your Magento store with any other third-party service a breeze using Google Tag Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Google Tag Manager is a user-friendly, yet powerful and cost-effective solution that is a must-have integration for every Magento store. It simplifies the process of adding and managing third-party JavaScript tags. With dozens of custom events and hundreds of data points our extensions the #1 GTM solution for Magento.",
+            "homepage": "https://www.magepal.com/google-tag-manager.html",
+            "id": 49925786,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-10-23T15:01:32Z",
+            "open_issues": 13,
+            "owner": "magepal",
+            "repo": "magento2-google-tag-manager",
+            "stars": 265,
+            "topics": [
+              "adobe-commerce",
+              "adwords",
+              "analytics",
+              "bing-uet",
+              "ecommerce",
+              "enhanced-ecommerce",
+              "facebook-pixel",
+              "google-analytics",
+              "google-analytics-4",
+              "google-tag-manager",
+              "google-universal-analytics",
+              "gtm",
+              "magento",
+              "magento-2",
+              "magento2",
+              "remarketing",
+              "tag-manager",
+              "tagmanager",
+              "tracking-pixels",
+              "web-analytics"
             ]
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -3718,7 +3718,7 @@
             "open_issues": 13,
             "owner": "magespecialist",
             "repo": "m2-MSP_DevTools",
-            "stars": 221,
+            "stars": 220,
             "topics": [
               "hacktoberfest"
             ]
@@ -3764,7 +3764,7 @@
             "open_issues": 3,
             "owner": "magento-hackathon",
             "repo": "EAVCleaner",
-            "stars": 210,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -3806,7 +3806,7 @@
             "open_issues": 10,
             "owner": "justbetter",
             "repo": "magento2-sentry",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "magento2",
               "magento2-extension",
@@ -3828,11 +3828,11 @@
             "id": 58982661,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T07:37:36Z",
+            "last_commit": "2026-11-13T07:10:52Z",
             "open_issues": 24,
             "owner": "mageplaza",
             "repo": "magento-2-social-login",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "amazon-login",
               "facebook-login",
@@ -3870,7 +3870,7 @@
             "open_issues": 22,
             "owner": "ctidigital",
             "repo": "magento2-configurator",
-            "stars": 174,
+            "stars": 173,
             "topics": [
               "config",
               "configuration",
@@ -3947,7 +3947,7 @@
             "open_issues": 5,
             "owner": "boldcommerce",
             "repo": "magento2-ordercomments",
-            "stars": 169,
+            "stars": 168,
             "topics": [
               "magento2"
             ]
@@ -4024,7 +4024,7 @@
             "open_issues": 2,
             "owner": "semaio",
             "repo": "Magento2-ConfigImportExport",
-            "stars": 165,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -4045,7 +4045,7 @@
             "open_issues": 20,
             "owner": "magemojo",
             "repo": "m2-ce-cron",
-            "stars": 163,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -4079,31 +4079,6 @@
         },
         {
           "node_type": "item",
-          "title": "Magento 2 bash completion",
-          "description": "This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Magento2 Bash Completion",
-            "homepage": null,
-            "id": 60879698,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2019-10-23T15:18:24Z",
-            "open_issues": 6,
-            "owner": "yvoronoy",
-            "repo": "magento2-bash-completion",
-            "stars": 137,
-            "topics": [
-              "bash-completion",
-              "magento2",
-              "magento2-extension"
-            ]
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Magento 2 Interceptor classes generator",
           "description": "New interceptors approach for Magento 2",
           "children": [],
@@ -4125,6 +4100,31 @@
         },
         {
           "node_type": "item",
+          "title": "Magento 2 bash completion",
+          "description": "This plugin adds autocompletion for Magento 2 CLI Sub Commands and their Options",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Magento2 Bash Completion",
+            "homepage": null,
+            "id": 60879698,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2019-10-23T15:18:24Z",
+            "open_issues": 6,
+            "owner": "yvoronoy",
+            "repo": "magento2-bash-completion",
+            "stars": 136,
+            "topics": [
+              "bash-completion",
+              "magento2",
+              "magento2-extension"
+            ]
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
           "title": "Magento 2 removal of all optional modules",
           "description": "A composer meta-package that removes numerous Magento 2 modules",
           "children": [],
@@ -4139,7 +4139,7 @@
             "open_issues": 0,
             "owner": "yireo",
             "repo": "magento2-replace-all",
-            "stars": 130,
+            "stars": 129,
             "topics": [
               "magento2"
             ]
@@ -4226,10 +4226,10 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-05-15T16:56:38Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "magepal",
             "repo": "magento2-reindex",
-            "stars": 107,
+            "stars": 106,
             "topics": [
               "adobe-commerce",
               "adobe-commerce-cloud",
@@ -4624,7 +4624,7 @@
             "open_issues": 5,
             "owner": "yireo",
             "repo": "Yireo_LinkPreload",
-            "stars": 93,
+            "stars": 92,
             "topics": [
               "magento2-module"
             ]
@@ -4999,7 +4999,7 @@
             "open_issues": 17,
             "owner": "elgentos",
             "repo": "magento2-varnish-extended",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -6525,7 +6525,7 @@
             "language": "PHP",
             "license": "OSL-3.0",
             "last_commit": "2026-11-03T13:52:30Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "yireo",
             "repo": "Yireo_EmailTester2",
             "stars": 34,
@@ -6999,27 +6999,6 @@
         },
         {
           "node_type": "item",
-          "title": "Magento2 Flysystem",
-          "description": "Integrate Flysystem for local and remote filesystems into Magento2.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Magento2 Flysystem Module from Flagbit integrate Flysystem an Abstraction for local and remote filesystems into Magento2 without overriding or breaking core media storage functions.",
-            "homepage": null,
-            "id": 141098688,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2021-08-04T09:54:47Z",
-            "open_issues": 6,
-            "owner": "flagbit",
-            "repo": "Magento2-Flysystem",
-            "stars": 28,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:46:38.972Z"
-        },
-        {
-          "node_type": "item",
           "title": "Magento 2 MageAI Extension",
           "description": "Magento 2 extension to generate product short/long descriptions and product images with OpenAI (ChatGPT), Anthropic (Claude) & Google Gemini. Customizable prompts, multiple models, and clean HTML output.",
           "children": [],
@@ -7181,6 +7160,27 @@
             "open_issues": 1,
             "owner": "qoliber",
             "repo": "m2-catalog-generator",
+            "stars": 27,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T16:46:38.972Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magento2 Flysystem",
+          "description": "Integrate Flysystem for local and remote filesystems into Magento2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Magento2 Flysystem Module from Flagbit integrate Flysystem an Abstraction for local and remote filesystems into Magento2 without overriding or breaking core media storage functions.",
+            "homepage": null,
+            "id": 141098688,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2021-08-04T09:54:47Z",
+            "open_issues": 6,
+            "owner": "flagbit",
+            "repo": "Magento2-Flysystem",
             "stars": 27,
             "topics": []
           },
@@ -7994,7 +7994,7 @@
             "open_issues": 2,
             "owner": "magespecialist",
             "repo": "m2-MSP_SMTP",
-            "stars": 21,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T16:46:38.972Z"
@@ -12801,7 +12801,7 @@
                 "language": "PHP",
                 "license": "OSL-3.0",
                 "last_commit": "2026-11-02T15:03:39Z",
-                "open_issues": 2,
+                "open_issues": 7,
                 "owner": "mage-os-lab",
                 "repo": "module-blog",
                 "stars": 26,
@@ -12857,8 +12857,8 @@
                 "id": 1157078608,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-27T03:27:29Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-13T09:58:14Z",
+                "open_issues": 11,
                 "owner": "mage-os",
                 "repo": "module-rma",
                 "stars": 23,
@@ -13547,7 +13547,7 @@
             "open_issues": 51,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10966,
+            "stars": 10965,
             "topics": [
               "commercetools",
               "e-commerce",
@@ -13855,7 +13855,7 @@
             "open_issues": 23,
             "owner": "deployphp",
             "repo": "deployer",
-            "stars": 11124,
+            "stars": 11122,
             "topics": [
               "deploy",
               "deployment",
@@ -14024,7 +14024,7 @@
                 "open_issues": 89,
                 "owner": "cytopia",
                 "repo": "devilbox",
-                "stars": 4471,
+                "stars": 4469,
                 "topics": [
                   "apache",
                   "devilbox",
@@ -14062,11 +14062,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T06:23:12Z",
-                "open_issues": 179,
+                "last_commit": "2026-11-13T06:22:14Z",
+                "open_issues": 182,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3949,
+                "stars": 3951,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -14187,7 +14187,7 @@
                 "open_issues": 12,
                 "owner": "fballiano",
                 "repo": "docker-magento2",
-                "stars": 357,
+                "stars": 356,
                 "topics": [
                   "docker",
                   "magento",
@@ -14361,7 +14361,7 @@
                 "id": 406900518,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-11T22:15:51Z",
+                "last_commit": "2026-11-12T14:58:06Z",
                 "open_issues": 1,
                 "owner": "faradey",
                 "repo": "madock",
@@ -15070,7 +15070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:01:26.949Z",
+    "last_updated": "2026-11-13T12:26:42.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of useful Magento technical resources",
